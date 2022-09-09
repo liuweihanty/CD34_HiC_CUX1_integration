@@ -13,4 +13,4 @@ Overlap CUX1 bound promotors from CD34 Cut and Run with all the loops called by 
 ![Screenshot 2022-09-09 at 15 20 45](https://user-images.githubusercontent.com/43444815/189436564-e245fe7f-4a81-4936-89f8-550faf348db4.png)
 
 ### Analysis 2 <br />
-From the cis regulatory regions called from analysis 1, further intersect these regions with chromHMM track on CD34 from Epigenetic ROadmap to obtain exact coordinates of enhancers. Supplement this list of enhancers to the CnR called CUX1 bound enhancers. Then compare ATAC seq signal before & after CUX1 KD to see if CUX1 is significanly affect the chromatin accesibilties at enhancers specifically
+From the cis regulatory regions called from analysis 1, further intersect these regions with chromHMM track on CD34 from Epigenetic Roadmap to obtain exact coordinates of enhancers. Supplement this list of enhancers to the CnR called CUX1 bound enhancers. Then compare ATAC seq signal before & after CUX1 KD to see if CUX1 is significanly affect the chromatin accesibilties at enhancers specifically
