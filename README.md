@@ -13,9 +13,26 @@ This repo contains codes for integrated analysis of CUX1 Cut and Run and ATAC se
 
 ### Analysis 1
 
-Overlap CUX1 bound promotors from CD34 Cut and Run with all the loops called by `HiCCUPs` from Zhang et al 2020. This will give us all the "cis-regulatory elements" of CUX1 bound promotors. Compare ATAC seq signal before and after CUX1 KD to see if CUX1 significantly affect the chromatin accesibility at these cis regulatory elements. Below, if the yellow genomic site contains CUX1 bound promotors, the red site will be its interaction partner.
+Overlap CUX1 bound promotors from CD34 Cut and Run with all the loops called by `HiCCUPs` from Zhang et al 2020. This will give us all the "cis-regulatory elements" of CUX1 bound promotors.(CRE here is the loops that are in contact with CUX1 bound promotors) Compare ATAC seq signal before and after CUX1 KD to see if CUX1 significantly affect the chromatin accesibility at these cis regulatory elements. Below, if the yellow genomic site contains CUX1 bound promotors, the red site will be its interaction partner.
 
 ![Screenshot 2022-09-09 at 15 20 45](https://user-images.githubusercontent.com/43444815/189436564-e245fe7f-4a81-4936-89f8-550faf348db4.png)
+
+After obtaining the coordinates of these CRE that are in contact with CUX1 bound promotors, we run the steps below using deeptools to generate a heatmap which compares the CUX1 binding intensity(normalized ATAC seq reads) before and after CUX1 KD in these CREs interacting with CUX1 bound promotors: 
+
+Create averaged normalized read bigwig file(RPKM) from CD34 ATAC seq bam files for WT and CUX1 KD conditions
+```
+bamcompare
+```
+
+Compute the score intermediate file for plotting for the CRE in WT and CUX1 KD conditions
+```
+computeMatrix
+```
+
+Plot the heatmap
+```
+plotHeatmap
+```
 
 ### Analysis 2
 
