@@ -56,10 +56,8 @@ plotHeatmap -m inputMatrix.gz \
 --missingDataColor 1  #white
 --colorMap Blues \
 --whatToShow 'plot, heatmap and colorbar' \
--out Heatmap.png \
-    
-     --dpi 200
-     --boxAroundHeatmaps no
+--dpi 200 \
+-out Heatmap.png
 ```
 
 ### Analysis 2
