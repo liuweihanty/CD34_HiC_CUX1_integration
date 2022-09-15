@@ -38,7 +38,16 @@ bamcompare --bamfile1 <rep1.bam> --bamfile2 <rep2.bam> \
 
 Compute the score intermediate file for plotting for the CRE in WT and CUX1 KD conditions
 ```
-computeMatrix
+computeMatrix reference-point \
+--regionsFileName <path to enhancer.bed> \
+--scoreFileName <path to WT.bw> <path to KD.bw) \
+--referencePoint center \
+--beforeRegionStartLength 1000 \
+--afterRegionStartLength 1000 \
+--saveMatrix \
+--binSize 50 \
+--outFileNameMatrix \
+-o outMatrix.gz # to be used with plotHeatmap and plotProfile
 ```
 
 Plot the heatmap
