@@ -39,9 +39,9 @@ bamcompare --bamfile1 <rep1.bam> --bamfile2 <rep2.bam> \
 Compute the score intermediate file for plotting for the CRE in WT and CUX1 KD conditions
 ```
 computeMatrix reference-point \
+--referencePoint center \
 --regionsFileName <path to enhancer.bed> \
 --scoreFileName <path to WT.bw> <path to KD.bw) \
---referencePoint center \
 --beforeRegionStartLength 1000 \
 --afterRegionStartLength 1000 \
 --saveMatrix \
@@ -52,7 +52,14 @@ computeMatrix reference-point \
 
 Plot the heatmap
 ```
-plotHeatmap
+plotHeatmap -m inputMatrix.gz \
+--missingDataColor 1  #white
+--colorMap Blues \
+--whatToShow 'plot, heatmap and colorbar' \
+-out Heatmap.png \
+    
+     --dpi 200
+     --boxAroundHeatmaps no
 ```
 
 ### Analysis 2
