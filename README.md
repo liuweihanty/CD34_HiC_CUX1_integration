@@ -21,7 +21,19 @@ After obtaining the coordinates of these CRE that are in contact with CUX1 bound
 
 Create averaged normalized read bigwig file(RPKM) from CD34 ATAC seq bam files for WT and CUX1 KD conditions
 ```
-bamcompare
+bamcompare --bamfile1 <rep1.bam> --bamfile2 <rep2.bam> \
+--binSize 50 \
+--scaleFactorsMethod None \
+--normalizeUsing RPKM \
+--operation mean \
+--blackListFileName <path to hg19.blacklist.v2.bed> \
+--pseudocount 11 \
+--smoothLength 150 \
+--extendReads Paired-end \
+--centerReads \
+--outFileFormat bigwig \
+--outFileName <path to output.bw)
+
 ```
 
 Compute the score intermediate file for plotting for the CRE in WT and CUX1 KD conditions
