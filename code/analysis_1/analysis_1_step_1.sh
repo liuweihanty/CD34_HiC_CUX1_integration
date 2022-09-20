@@ -1,4 +1,5 @@
 # Analysis 1
+# Step 1
 
 # Bedtools Intersect
 
@@ -29,17 +30,5 @@ rm BED_intersect_HiC_CUX1_2_old.csv
 
 python3 find_enhancers.py
 
-#rm identified_enhancers_1.bed
-#rm identified_enhancers_2.bed
-#touch identified_enhancers_1.bed
-#touch identified_enhancers_2.bed
 
-#cat BED_intersect_HiC_CUX1_1.csv | while read line 
-#do
-#	grep "^$line.*$" ../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv >> identified_enhancers_1.bed
-#done
-
-#cat BED_intersect_HiC_CUX1_2.csv | while read line 
-#do
-#	grep "^.*$line$" ../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv >> identified_enhancers_2.bed
-#done
+cat found_enhancers.csv | tr ',' '\t' > found_enhancers.bed
