@@ -5,3 +5,5 @@
 *.bam
 *.bam.bai
 *.bw
+*.tab
+*.gz
