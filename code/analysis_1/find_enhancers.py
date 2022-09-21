@@ -32,4 +32,4 @@ enhancers_2 = in_inter[['chr2', 'x2', 'y2']]
 enhancers_2.columns = ['chr', 'x', 'y']
 
 enhancers = enhancers_1.append(enhancers_2)
-enhancers.to_csv('found_enhancers.csv', index = False)
+enhancers.to_csv('found_enhancers.csv', index = False, header = False)

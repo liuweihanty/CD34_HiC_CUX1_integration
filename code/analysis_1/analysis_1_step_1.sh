@@ -30,5 +30,9 @@ rm BED_intersect_HiC_CUX1_2_old.csv
 
 python3 find_enhancers.py
 
-
-cat found_enhancers.csv | tr ',' '\t' > found_enhancers.bed
+cat found_enhancers.csv | tr ',' '\t' > found_enhancers_with_dup.bed
+sed -ne 's/.*/chr&/p' found_enhancers_with_dup.bed > found_enhancers_with_chr.bed
+cat found_enhancers_with_chr.bed | sort -r | uniq > found_enhancers.bed
+rm found_enhancers.csv
+rm found_enhancers_with_chr.bed
+rm found_enhancers_with_dup.bed
