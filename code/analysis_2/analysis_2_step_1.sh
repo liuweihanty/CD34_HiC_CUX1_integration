@@ -6,7 +6,7 @@
 bedtools intersect \
 	-a '../../data/E050_18_core_K27ac_state_anno.bed' \
 	-b '../../data/analysis_1_results/analysis_1_step_1/found_enhancers.bed' \
-	> '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers.bed'
+	> '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed'
 
 bedtools intersect \
 	-v \
@@ -15,6 +15,8 @@ bedtools intersect \
 	> '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_no_interact.bed'
 
 # Combine the enhancer names
+cat '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed' | awk '/.*(E|e)nhancer.*/' > '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers.bed'
+rm '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed'
 
 
 # Supplement this list of enhancers to the CnR called CUX1 bound enhancers.
