@@ -1,0 +1,3977 @@
+chr1	19900000	19921200	Quiescent/Low
+chr1	19921200	19921400	Weak Enhancer
+chr1	19921400	19921600	Active Enhancer
+chr1	19921600	19922400	Active Enhancer
+chr1	19922400	19922600	Active Enhancer
+chr1	19922600	19923400	Flanking TSS Upstream
+chr1	19923400	19923600	Active TSS
+chr1	19923600	19924800	Flanking TSS Upstream
+chr1	19924800	19925000	Active Enhancer
+chr1	26430000	26431600	Weak Enhancer
+chr1	26431600	26436400	Weak transcription
+chr1	26436400	26436800	Weak Enhancer
+chr1	26436800	26437400	Flanking TSS Upstream
+chr1	26437400	26438800	Active TSS
+chr1	26438800	26439600	Flanking TSS Upstream
+chr1	26439600	26439800	Active Enhancer
+chr1	26439800	26440000	Active Enhancer
+chr1	27100000	27105000	Strong transcription
+chr1	27105000	27106200	Genic enhancer
+chr1	27106200	27107200	Strong transcription
+chr1	27107200	27107400	Genic enhancer
+chr1	27107400	27108400	Strong transcription
+chr1	27108400	27108600	Genic enhancer
+chr1	27108600	27109800	Genic enhancer
+chr1	27109800	27110600	Active Enhancer
+chr1	27110600	27111000	Weak Enhancer
+chr1	27111000	27112400	Active Enhancer
+chr1	27112400	27114400	Flanking TSS Upstream
+chr1	27114400	27114800	Active TSS
+chr1	27114800	27115800	Flanking TSS Upstream
+chr1	27115800	27116000	Flanking TSS Downstream
+chr1	27116000	27116400	Weak Enhancer
+chr1	27116400	27116800	Active Enhancer
+chr1	27116800	27118600	Weak Enhancer
+chr1	27118600	27119200	Weak transcription
+chr1	27119200	27124600	Strong transcription
+chr1	27124600	27125000	Weak transcription
+chr1	28400000	28405600	Weak transcription
+chr1	28405600	28406000	Strong transcription
+chr1	28406000	28412600	Weak transcription
+chr1	28412600	28414000	Weak Enhancer
+chr1	28414000	28414800	Flanking TSS Upstream
+chr1	28414800	28415600	Active TSS
+chr1	28415600	28415800	Flanking TSS
+chr1	28415800	28425000	Quiescent/Low
+chr1	35650000	35651400	Strong transcription
+chr1	35651400	35655200	Genic enhancer
+chr1	35655200	35657400	Genic enhancer
+chr1	35657400	35659000	Active TSS
+chr1	35659000	35659600	Flanking TSS Upstream
+chr1	35659600	35667400	Quiescent/Low
+chr1	35667400	35668000	Weak Enhancer
+chr1	35668000	35668200	Flanking TSS Downstream
+chr1	35668200	35675000	Quiescent/Low
+chr1	38475000	38476200	Active Enhancer
+chr1	38476200	38477400	Weak Enhancer
+chr1	38477400	38478200	Active Enhancer
+chr1	38478200	38479400	Flanking TSS Upstream
+chr1	38479400	38480400	Active Enhancer
+chr1	38480400	38481600	Active Enhancer
+chr1	38481600	38481800	Genic enhancer
+chr1	38481800	38482800	Genic enhancer
+chr1	38482800	38491800	Strong transcription
+chr1	38491800	38492000	Genic enhancer
+chr1	38492000	38493000	Weak Enhancer
+chr1	38493000	38495000	Weak transcription
+chr1	38495000	38496800	Weak Enhancer
+chr1	38496800	38497200	Bivalent Enhancer
+chr1	38497200	38497400	Repressed PolyComb
+chr1	38497400	38500000	Weak Repressed PolyComb
+chr1	43225000	43225600	Active Enhancer
+chr1	43225600	43227000	Weak transcription
+chr1	43227000	43228000	Strong transcription
+chr1	43228000	43228800	Genic enhancer
+chr1	43228800	43230000	Weak transcription
+chr1	43230000	43230600	Weak Enhancer
+chr1	43230600	43231400	Flanking TSS Downstream
+chr1	43231400	43232200	Flanking TSS Upstream
+chr1	43232200	43233400	Active TSS
+chr1	43233400	43233600	Flanking TSS Upstream
+chr1	43233600	43234000	Flanking TSS Downstream
+chr1	43234000	43234400	Weak Enhancer
+chr1	43234400	43238800	Weak transcription
+chr1	43238800	43243600	Strong transcription
+chr1	43243600	43245000	Weak transcription
+chr1	43245000	43247000	Strong transcription
+chr1	43247000	43250000	Weak transcription
+chr1	45475000	45475200	Strong transcription
+chr1	45475200	45475400	Weak transcription
+chr1	45475400	45475800	Weak Enhancer
+chr1	45475800	45476000	Flanking TSS Downstream
+chr1	45476000	45476600	Flanking TSS Upstream
+chr1	45476600	45477000	Active TSS
+chr1	45477000	45480000	Flanking TSS Upstream
+chr1	45480000	45480200	Active Enhancer
+chr1	45480200	45480800	Genic enhancer
+chr1	45480800	45481600	Genic enhancer
+chr1	45481600	45481800	Active Enhancer
+chr1	45481800	45482800	Active Enhancer
+chr1	45482800	45483000	Weak Enhancer
+chr1	45483000	45499000	Quiescent/Low
+chr1	45499000	45499400	Weak Enhancer
+chr1	45499400	45500000	Quiescent/Low
+chr1	45950000	45955000	Quiescent/Low
+chr1	45950000	45955000	Quiescent/Low
+chr1	45955000	45955400	Weak Enhancer
+chr1	45955000	45955400	Weak Enhancer
+chr1	45955400	45956000	Flanking TSS Downstream
+chr1	45955400	45956000	Flanking TSS Downstream
+chr1	45956000	45956200	Flanking TSS Upstream
+chr1	45956000	45956200	Flanking TSS Upstream
+chr1	45956200	45957200	Active TSS
+chr1	45956200	45957200	Active TSS
+chr1	45957200	45957600	Flanking TSS Upstream
+chr1	45957200	45957600	Flanking TSS Upstream
+chr1	45957600	45957800	Flanking TSS Downstream
+chr1	45957600	45957800	Flanking TSS Downstream
+chr1	45957800	45958000	Weak Enhancer
+chr1	45957800	45958000	Weak Enhancer
+chr1	45958000	45964600	Weak transcription
+chr1	45958000	45960000	Weak transcription
+chr1	45964600	45964800	Weak Enhancer
+chr1	45964800	45965400	Flanking TSS Downstream
+chr1	45965400	45965600	Active TSS
+chr1	45965600	45966000	Flanking TSS
+chr1	45966000	45967000	Flanking TSS Downstream
+chr1	45967000	45967600	Weak Enhancer
+chr1	45967600	45972800	Weak transcription
+chr1	45972800	45975000	Genic enhancer
+chr1	47175000	47175200	Genic enhancer
+chr1	47175200	47182200	Strong transcription
+chr1	47182200	47182400	Genic enhancer
+chr1	47182400	47183000	Weak Enhancer
+chr1	47183000	47183600	Flanking TSS Downstream
+chr1	47183600	47184600	Flanking TSS Upstream
+chr1	47184600	47184800	Active TSS
+chr1	47184800	47185000	Flanking TSS
+chr1	47185000	47185200	Flanking TSS Upstream
+chr1	47185200	47185600	Flanking TSS Downstream
+chr1	47185600	47185800	Weak Enhancer
+chr1	47185800	47188000	Quiescent/Low
+chr1	47188000	47190800	Weak Repressed PolyComb
+chr1	47190800	47191000	Weak Enhancer
+chr1	47191000	47191800	Weak Repressed PolyComb
+chr1	47191800	47192000	Repressed PolyComb
+chr1	47192000	47200000	Weak Repressed PolyComb
+chr1	47900000	47900200	Bivalent/Poised TSS
+chr1	47900200	47900600	Bivalent Enhancer
+chr1	47900600	47901800	Repressed PolyComb
+chr1	47901800	47902400	Bivalent Enhancer
+chr1	47902400	47902600	Bivalent/Poised TSS
+chr1	47902600	47902800	Flanking TSS Downstream
+chr1	47902800	47903200	Flanking TSS Upstream
+chr1	47903200	47903600	Flanking TSS Downstream
+chr1	47903600	47903800	Flanking TSS
+chr1	47903800	47904600	Bivalent/Poised TSS
+chr1	47904600	47905600	Bivalent Enhancer
+chr1	47905600	47909200	Repressed PolyComb
+chr1	47909200	47910200	Bivalent Enhancer
+chr1	47910200	47911000	Bivalent/Poised TSS
+chr1	47911000	47911200	Bivalent Enhancer
+chr1	47911200	47915600	Repressed PolyComb
+chr1	47915600	47916000	Bivalent Enhancer
+chr1	47916000	47919200	Repressed PolyComb
+chr1	47919200	47922800	Weak Repressed PolyComb
+chr1	47922800	47925000	Repressed PolyComb
+chr1	54410000	54410200	Active Enhancer
+chr1	54410200	54411000	Flanking TSS Upstream
+chr1	54411000	54411400	Active TSS
+chr1	54411400	54411800	Flanking TSS
+chr1	54411800	54412400	Active TSS
+chr1	54412400	54413000	Flanking TSS Upstream
+chr1	54413000	54413400	Weak Enhancer
+chr1	54413400	54417600	Weak transcription
+chr1	54417600	54420000	Strong transcription
+chr1	71525000	71544400	Strong transcription
+chr1	71544400	71544600	Weak transcription
+chr1	71544600	71544800	Genic enhancer
+chr1	71544800	71545600	Flanking TSS Downstream
+chr1	71545600	71546200	Flanking TSS Upstream
+chr1	71546200	71547200	Active TSS
+chr1	71547200	71547600	Flanking TSS Upstream
+chr1	71547600	71547800	Flanking TSS
+chr1	71547800	71550000	Quiescent/Low
+chr1	85720000	85720200	Strong transcription
+chr1	85720200	85721200	Weak transcription
+chr1	85721200	85722800	Strong transcription
+chr1	85722800	85724000	Genic enhancer
+chr1	85724000	85724400	Flanking TSS Downstream
+chr1	85724400	85724800	Flanking TSS Upstream
+chr1	85724800	85725400	Active TSS
+chr1	85725400	85725600	Flanking TSS
+chr1	85725600	85725800	Flanking TSS Downstream
+chr1	85725800	85726600	Weak transcription
+chr1	85726600	85727800	ZNF genes & repeats
+chr1	85727800	85728600	Heterochromatin
+chr1	85728600	85728800	ZNF genes & repeats
+chr1	85728800	85729200	Weak transcription
+chr1	85729200	85730000	Strong transcription
+chr1	86150000	86157200	Weak transcription
+chr1	86157200	86158000	Strong transcription
+chr1	86158000	86163800	Weak transcription
+chr1	86163800	86171600	Strong transcription
+chr1	86171600	86171800	Weak transcription
+chr1	86171800	86172400	Weak Enhancer
+chr1	86172400	86173600	Flanking TSS Upstream
+chr1	86173600	86174200	Active TSS
+chr1	86174200	86174800	Flanking TSS Upstream
+chr1	86174800	86175000	Weak Enhancer
+chr1	87775000	87793200	Quiescent/Low
+chr1	87793200	87793600	Flanking TSS Downstream
+chr1	87793600	87793800	Flanking TSS Upstream
+chr1	87793800	87794000	Active TSS
+chr1	87794000	87794600	Flanking TSS
+chr1	87794600	87794800	Flanking TSS Upstream
+chr1	87794800	87795400	Active TSS
+chr1	87795400	87796600	Flanking TSS Upstream
+chr1	87796600	87798400	Flanking TSS Downstream
+chr1	87798400	87799600	Weak Enhancer
+chr1	87799600	87800000	Flanking TSS Downstream
+chr1	89450000	89450400	Weak Enhancer
+chr1	89450400	89450800	Weak transcription
+chr1	89450800	89451400	Genic enhancer
+chr1	89451400	89454000	Strong transcription
+chr1	89454000	89455400	Weak transcription
+chr1	89455400	89456200	Weak Enhancer
+chr1	89456200	89456400	Flanking TSS Downstream
+chr1	89456400	89456800	Weak Enhancer
+chr1	89456800	89457200	Flanking TSS Downstream
+chr1	89457200	89457600	Flanking TSS Upstream
+chr1	89457600	89458800	Active TSS
+chr1	89458800	89459400	Flanking TSS Upstream
+chr1	89459400	89459800	Flanking TSS Downstream
+chr1	89459800	89460000	Weak Enhancer
+chr1	89460000	89467400	Quiescent/Low
+chr1	89467400	89467800	Weak Enhancer
+chr1	89467800	89470600	Weak transcription
+chr1	89470600	89475000	Strong transcription
+chr1	100725000	100726000	Quiescent/Low
+chr1	100726000	100729200	Heterochromatin
+chr1	100729200	100729800	ZNF genes & repeats
+chr1	100729800	100730200	Strong transcription
+chr1	100730200	100730600	Weak transcription
+chr1	100730600	100731000	Flanking TSS Downstream
+chr1	100731000	100731600	Flanking TSS Upstream
+chr1	100731600	100732200	Active TSS
+chr1	100732200	100732800	Flanking TSS Upstream
+chr1	100732800	100733000	Flanking TSS Downstream
+chr1	100733000	100733400	Weak Enhancer
+chr1	100733400	100735000	Genic enhancer
+chr1	100735000	100745400	Strong transcription
+chr1	100745400	100745800	Genic enhancer
+chr1	100745800	100750000	Strong transcription
+chr1	109825000	109825600	Flanking TSS Downstream
+chr1	109825600	109825800	Flanking TSS Upstream
+chr1	109825800	109826000	Flanking TSS
+chr1	109826000	109826200	Active TSS
+chr1	109826200	109826800	Flanking TSS Upstream
+chr1	109826800	109827000	Weak Enhancer
+chr1	109827000	109845800	Weak Repressed PolyComb
+chr1	109845800	109847600	Repressed PolyComb
+chr1	109847600	109849800	Weak Repressed PolyComb
+chr1	109849800	109850000	Weak Enhancer
+chr1	110035000	110036200	Weak transcription
+chr1	110036200	110036400	Weak Enhancer
+chr1	110036400	110036600	Flanking TSS Upstream
+chr1	110036600	110037200	Active TSS
+chr1	110037200	110037600	Flanking TSS Downstream
+chr1	110037600	110038000	Weak Enhancer
+chr1	110038000	110038400	Weak transcription
+chr1	110038400	110040000	Strong transcription
+chr1	110075000	110075600	Flanking TSS Downstream
+chr1	110075600	110078400	Weak transcription
+chr1	110078400	110079200	Weak Enhancer
+chr1	110079200	110089200	Quiescent/Low
+chr1	110089200	110091000	Flanking TSS Upstream
+chr1	110091000	110091400	Active TSS
+chr1	110091400	110092600	Flanking TSS Upstream
+chr1	110092600	110093000	Active Enhancer
+chr1	110093000	110094400	Weak Enhancer
+chr1	110094400	110095000	Weak transcription
+chr1	110095000	110095600	Weak Enhancer
+chr1	110095600	110097400	Weak transcription
+chr1	110097400	110098800	Weak Enhancer
+chr1	110098800	110099000	Active Enhancer
+chr1	110099000	110099200	Weak Enhancer
+chr1	110099200	110099400	Active Enhancer
+chr1	110099400	110100000	Weak transcription
+chr1	112150000	112157600	Quiescent/Low
+chr1	112157600	112158600	Weak Enhancer
+chr1	112158600	112159600	Active Enhancer
+chr1	112159600	112161600	Weak Enhancer
+chr1	112161600	112161800	Flanking TSS Downstream
+chr1	112161800	112162200	Flanking TSS Upstream
+chr1	112162200	112163200	Active TSS
+chr1	112163200	112164200	Flanking TSS Upstream
+chr1	112164200	112165200	Active Enhancer
+chr1	112165200	112169600	Weak Enhancer
+chr1	112169600	112170800	Weak transcription
+chr1	112170800	112171800	Active Enhancer
+chr1	112171800	112172200	Weak Enhancer
+chr1	112172200	112173200	Weak transcription
+chr1	112173200	112173600	Weak Enhancer
+chr1	112173600	112175000	Weak transcription
+chr1	112275000	112275600	Quiescent/Low
+chr1	112275600	112276800	Active Enhancer
+chr1	112276800	112277200	Weak Enhancer
+chr1	112277200	112279600	Weak transcription
+chr1	112279600	112280400	Weak Enhancer
+chr1	112280400	112282600	Flanking TSS Downstream
+chr1	112282600	112283400	Bivalent/Poised TSS
+chr1	112283400	112284000	Bivalent Enhancer
+chr1	112284000	112284200	Repressed PolyComb
+chr1	112284200	112284800	Weak Repressed PolyComb
+chr1	112284800	112285200	Weak Enhancer
+chr1	112285200	112286800	Active Enhancer
+chr1	112286800	112287000	Weak Enhancer
+chr1	112287000	112297000	Quiescent/Low
+chr1	112297000	112297200	Weak Enhancer
+chr1	112297200	112298000	Flanking TSS Upstream
+chr1	112298000	112299000	Active TSS
+chr1	112299000	112299800	Flanking TSS Upstream
+chr1	112299800	112300000	Active Enhancer
+chr1	146640000	146640200	Weak transcription
+chr1	146640200	146641400	Active Enhancer
+chr1	146641400	146641800	Active Enhancer
+chr1	146641800	146642000	Weak Enhancer
+chr1	146642000	146642600	Flanking TSS Downstream
+chr1	146642600	146643600	Flanking TSS Upstream
+chr1	146643600	146645000	Active TSS
+chr1	146645000	146645200	Flanking TSS Upstream
+chr1	146645200	146645600	Flanking TSS Downstream
+chr1	146645600	146646000	Weak Enhancer
+chr1	146646000	146649200	Weak transcription
+chr1	146649200	146649400	Weak Enhancer
+chr1	146649400	146649600	Flanking TSS Downstream
+chr1	146649600	146650000	Flanking TSS
+chr1	146710000	146713400	Quiescent/Low
+chr1	146713400	146713800	Weak Enhancer
+chr1	146713800	146714200	Flanking TSS Upstream
+chr1	146714200	146715200	Active TSS
+chr1	146715200	146716200	Flanking TSS Upstream
+chr1	146716200	146716800	Weak Enhancer
+chr1	146716800	146717400	Active Enhancer
+chr1	146717400	146718200	Weak Enhancer
+chr1	146718200	146719200	Active Enhancer
+chr1	146719200	146719800	Weak Enhancer
+chr1	146719800	146720000	Weak transcription
+chr1	153700000	153700800	Active TSS
+chr1	153700800	153701200	Flanking TSS Upstream
+chr1	153701200	153701400	Active TSS
+chr1	153701400	153702000	Flanking TSS Upstream
+chr1	153702000	153702600	Weak Enhancer
+chr1	153702600	153706600	Weak transcription
+chr1	153706600	153708600	Strong transcription
+chr1	153708600	153712600	Weak transcription
+chr1	153712600	153722400	Strong transcription
+chr1	153722400	153722800	Genic enhancer
+chr1	153722800	153725000	Strong transcription
+chr1	153950000	153950400	Active TSS
+chr1	153950400	153950600	Flanking TSS Upstream
+chr1	153950600	153951200	Flanking TSS Downstream
+chr1	153951200	153951600	Weak Enhancer
+chr1	153951600	153955800	Weak transcription
+chr1	153955800	153956200	Strong transcription
+chr1	153956200	153956800	Weak transcription
+chr1	153956800	153957000	Weak Enhancer
+chr1	153957000	153957400	Active Enhancer
+chr1	153957400	153957800	Flanking TSS Upstream
+chr1	153957800	153958000	Flanking TSS Downstream
+chr1	153958000	153958800	Flanking TSS Upstream
+chr1	153958800	153959000	Active TSS
+chr1	153959000	153959200	Flanking TSS Upstream
+chr1	153959200	153959400	Flanking TSS Downstream
+chr1	153959400	153959800	Flanking TSS Upstream
+chr1	153959800	153960000	Weak transcription
+chr1	159750000	159750400	Flanking TSS Downstream
+chr1	159750400	159750800	Flanking TSS
+chr1	159750800	159751800	Flanking TSS Downstream
+chr1	159751800	159752000	Weak Enhancer
+chr1	159752000	159760200	Weak transcription
+chr1	159760200	159762200	Weak Enhancer
+chr1	159762200	159769000	Quiescent/Low
+chr1	159769000	159770800	Weak Enhancer
+chr1	159770800	159775000	Quiescent/Low
+chr1	161700000	161701600	Repressed PolyComb
+chr1	161701600	161708800	Weak Repressed PolyComb
+chr1	161708800	161711600	Weak Enhancer
+chr1	161711600	161719000	Quiescent/Low
+chr1	161719000	161719200	Weak Enhancer
+chr1	161719200	161719400	Flanking TSS Downstream
+chr1	161719400	161719600	Flanking TSS
+chr1	161719600	161720200	Active TSS
+chr1	161720200	161720600	Flanking TSS Upstream
+chr1	161720600	161720800	Flanking TSS Downstream
+chr1	161720800	161721200	Genic enhancer
+chr1	161721200	161725000	Strong transcription
+chr1	165575000	165581800	Quiescent/Low
+chr1	165581800	165588200	Heterochromatin
+chr1	165588200	165599000	Quiescent/Low
+chr1	165599000	165599400	Flanking TSS Downstream
+chr1	165599400	165600000	Flanking TSS Upstream
+chr1	169750000	169760200	Weak Repressed PolyComb
+chr1	169760200	169760400	Flanking TSS
+chr1	169760400	169762000	Weak transcription
+chr1	169762000	169762600	Strong transcription
+chr1	169762600	169762800	Weak transcription
+chr1	169762800	169763000	Weak Enhancer
+chr1	169763000	169763200	Flanking TSS Downstream
+chr1	169763200	169763400	Flanking TSS Upstream
+chr1	169763400	169764400	Active TSS
+chr1	169764400	169765200	Flanking TSS Upstream
+chr1	169765200	169765800	Weak Enhancer
+chr1	169765800	169771400	Weak transcription
+chr1	169771400	169771800	Active Enhancer
+chr1	169771800	169772200	Active Enhancer
+chr1	169772200	169773000	Weak Enhancer
+chr1	169773000	169774400	Weak transcription
+chr1	169774400	169774600	Strong transcription
+chr1	169774600	169774800	Weak transcription
+chr1	169774800	169775000	Strong transcription
+chr1	171750000	171750200	Flanking TSS Upstream
+chr1	171750200	171750800	Active TSS
+chr1	171750800	171751600	Flanking TSS Upstream
+chr1	171751600	171752200	Flanking TSS Downstream
+chr1	171752200	171752600	Weak Enhancer
+chr1	171752600	171754000	Genic enhancer
+chr1	171754000	171755600	Genic enhancer
+chr1	171755600	171756200	Genic enhancer
+chr1	171756200	171762800	Strong transcription
+chr1	171762800	171763800	Genic enhancer
+chr1	171763800	171768200	Strong transcription
+chr1	171768200	171769800	Weak transcription
+chr1	171769800	171775000	Weak Enhancer
+chr1	181000000	181002200	Quiescent/Low
+chr1	181002200	181002400	Active Enhancer
+chr1	181002400	181003000	Flanking TSS Upstream
+chr1	181003000	181003400	Active TSS
+chr1	181003400	181004000	Flanking TSS Upstream
+chr1	181004000	181005600	Weak Enhancer
+chr1	181005600	181007000	Weak transcription
+chr1	181007000	181007600	Strong transcription
+chr1	181007600	181008000	Weak transcription
+chr1	181008000	181008600	Strong transcription
+chr1	181008600	181010600	Weak transcription
+chr1	181010600	181012400	Weak Enhancer
+chr1	181012400	181013400	Weak transcription
+chr1	181013400	181014000	Weak Enhancer
+chr1	181014000	181015800	Weak transcription
+chr1	181015800	181016400	Strong transcription
+chr1	181016400	181021600	Weak transcription
+chr1	181021600	181025000	Strong transcription
+chr1	200575000	200579200	Weak transcription
+chr1	200579200	200579800	Weak Enhancer
+chr1	200579800	200580000	Flanking TSS Downstream
+chr1	200580000	200580200	Flanking TSS Upstream
+chr1	200580200	200580400	Active Enhancer
+chr1	200580400	200581000	Weak Enhancer
+chr1	200581000	200582400	Weak transcription
+chr1	200582400	200583400	Strong transcription
+chr1	200583400	200589000	Weak transcription
+chr1	200589000	200589800	Flanking TSS Upstream
+chr1	200589800	200590200	Active TSS
+chr1	200590200	200591000	Flanking TSS Upstream
+chr1	200591000	200592600	Weak Enhancer
+chr1	200592600	200594000	Weak transcription
+chr1	200594000	200595000	Weak Enhancer
+chr1	200595000	200600000	Quiescent/Low
+chr1	226240000	226242200	Weak transcription
+chr1	226242200	226242400	Genic enhancer
+chr1	226242400	226242800	Genic enhancer
+chr1	226242800	226243000	Genic enhancer
+chr1	226243000	226244400	Strong transcription
+chr1	226244400	226245200	Weak transcription
+chr1	226245200	226246800	Strong transcription
+chr1	226246800	226247400	Weak transcription
+chr1	226247400	226248400	Weak Enhancer
+chr1	226248400	226248600	Active Enhancer
+chr1	226248600	226249600	Flanking TSS Upstream
+chr1	226249600	226250000	Active TSS
+chr1	234725000	234733800	Quiescent/Low
+chr1	234733800	234734600	Weak Enhancer
+chr1	234734600	234735200	Active Enhancer
+chr1	234735200	234735800	Flanking TSS Upstream
+chr1	234735800	234736200	Active TSS
+chr1	234736200	234737600	Flanking TSS Upstream
+chr1	234737600	234737800	Flanking TSS Downstream
+chr1	234737800	234738800	Genic enhancer
+chr1	234738800	234739000	Flanking TSS Upstream
+chr1	234739000	234739200	Active Enhancer
+chr1	234739200	234742000	Flanking TSS Upstream
+chr1	234742000	234744000	Genic enhancer
+chr1	234744000	234745400	Active TSS
+chr1	234745400	234745800	Flanking TSS
+chr1	234745800	234746200	Active TSS
+chr1	234746200	234749600	Flanking TSS Upstream
+chr1	234749600	234750000	Active Enhancer
+chr1	236750000	236766000	Strong transcription
+chr1	236766000	236766400	Weak transcription
+chr1	236766400	236766800	Weak Enhancer
+chr1	236766800	236767400	Flanking TSS Upstream
+chr1	236767400	236768000	Active TSS
+chr1	236768000	236768400	Flanking TSS Upstream
+chr1	236768400	236768600	Flanking TSS Downstream
+chr1	236768600	236775000	Weak Repressed PolyComb
+chr1	242000000	242010600	Quiescent/Low
+chr1	242010600	242010800	Active Enhancer
+chr1	242010800	242011000	Flanking TSS Upstream
+chr1	242011000	242011600	Active TSS
+chr1	242011600	242012400	Flanking TSS Upstream
+chr1	242012400	242012600	Flanking TSS Downstream
+chr1	242012600	242013000	Weak Enhancer
+chr1	242013000	242017000	Weak transcription
+chr1	242017000	242017600	Strong transcription
+chr1	242017600	242022800	Weak transcription
+chr1	242022800	242025000	Strong transcription
+chr2	10250000	10258400	Quiescent/Low
+chr2	10258400	10258800	Weak Enhancer
+chr2	10258800	10260000	Weak transcription
+chr2	10260000	10260200	Flanking TSS
+chr2	10260200	10262600	Flanking TSS Upstream
+chr2	10262600	10264200	Flanking TSS Downstream
+chr2	10264200	10264400	Weak Enhancer
+chr2	10264400	10264800	Active Enhancer
+chr2	10264800	10265000	Weak Enhancer
+chr2	10265000	10265200	Active Enhancer
+chr2	10265200	10266400	Weak Enhancer
+chr2	10266400	10268400	Weak transcription
+chr2	10268400	10269800	Strong transcription
+chr2	10269800	10272200	Weak transcription
+chr2	10272200	10273800	Strong transcription
+chr2	10273800	10275000	Weak transcription
+chr2	28950000	28960000	Quiescent/Low
+chr2	28960000	28960200	Heterochromatin
+chr2	28960200	28961200	ZNF genes & repeats
+chr2	28961200	28962000	Heterochromatin
+chr2	28962000	28970200	Quiescent/Low
+chr2	28970200	28970400	Active Enhancer
+chr2	28970400	28971800	Active Enhancer
+chr2	28971800	28972200	Weak Enhancer
+chr2	28972200	28973000	Active Enhancer
+chr2	28973000	28974400	Flanking TSS Upstream
+chr2	28974400	28975000	Active TSS
+chr2	66660000	66660400	Flanking TSS Upstream
+chr2	66660400	66660800	Flanking TSS
+chr2	66660800	66661600	Active TSS
+chr2	66661600	66661800	Flanking TSS Upstream
+chr2	66661800	66663000	Active TSS
+chr2	66663000	66663200	Flanking TSS Upstream
+chr2	66663200	66663600	Active TSS
+chr2	66663600	66663800	Flanking TSS Upstream
+chr2	66663800	66664800	Active TSS
+chr2	66664800	66669200	Genic enhancer
+chr2	66669200	66669400	Flanking TSS Upstream
+chr2	66669400	66669600	Active Enhancer
+chr2	66669600	66670000	Flanking TSS Upstream
+chr2	70125000	70128200	Strong transcription
+chr2	70128200	70128600	Genic enhancer
+chr2	70128600	70129200	Weak Enhancer
+chr2	70129200	70130000	Flanking TSS Upstream
+chr2	70130000	70130400	Weak Enhancer
+chr2	70130400	70131200	Weak transcription
+chr2	70131200	70136200	Strong transcription
+chr2	70136200	70137200	Weak transcription
+chr2	70137200	70138200	Genic enhancer
+chr2	70138200	70139400	Weak transcription
+chr2	70139400	70140200	Weak Enhancer
+chr2	70140200	70140800	Weak transcription
+chr2	70140800	70141000	Weak Enhancer
+chr2	70141000	70141800	Flanking TSS Upstream
+chr2	70141800	70142000	Active TSS
+chr2	70142000	70142200	Flanking TSS
+chr2	70142200	70142800	Active TSS
+chr2	70142800	70143800	Flanking TSS Upstream
+chr2	70143800	70144400	Flanking TSS Downstream
+chr2	70144400	70144600	Weak Enhancer
+chr2	70144600	70145600	Active Enhancer
+chr2	70145600	70146200	Weak Enhancer
+chr2	70146200	70146400	Weak transcription
+chr2	70146400	70150000	Strong transcription
+chr2	85780000	85786400	Strong transcription
+chr2	85786400	85787200	Weak transcription
+chr2	85787200	85787600	Weak Enhancer
+chr2	85787600	85788000	Flanking TSS Downstream
+chr2	85788000	85788400	Flanking TSS Upstream
+chr2	85788400	85789000	Active TSS
+chr2	85789000	85789400	Flanking TSS Upstream
+chr2	85789400	85789600	Weak Enhancer
+chr2	85789600	85790000	Weak transcription
+chr2	163150000	163153000	Weak transcription
+chr2	163153000	163153200	Flanking TSS Downstream
+chr2	163153200	163153400	Flanking TSS
+chr2	163153400	163154800	Weak transcription
+chr2	163154800	163155000	Flanking TSS Downstream
+chr2	163155000	163155200	Weak Enhancer
+chr2	163155200	163155400	Weak transcription
+chr2	163155400	163157000	Strong transcription
+chr2	163157000	163161600	Weak transcription
+chr2	163161600	163167400	Strong transcription
+chr2	163167400	163171400	Weak transcription
+chr2	163171400	163172200	Weak Enhancer
+chr2	163172200	163173800	Flanking TSS Downstream
+chr2	163173800	163174800	Flanking TSS Upstream
+chr2	163174800	163175000	Active TSS
+chr2	171650000	171669600	Weak Repressed PolyComb
+chr2	171669600	171670000	Repressed PolyComb
+chr2	171670000	171670800	Bivalent Enhancer
+chr2	171670800	171671800	Repressed PolyComb
+chr2	171671800	171672200	Bivalent Enhancer
+chr2	171672200	171675000	Bivalent/Poised TSS
+chr2	172950000	172950800	Bivalent/Poised TSS
+chr2	172950800	172953400	Bivalent Enhancer
+chr2	172953400	172959000	Repressed PolyComb
+chr2	172959000	172959400	Bivalent Enhancer
+chr2	172959400	172960400	Bivalent/Poised TSS
+chr2	172960400	172961400	Bivalent Enhancer
+chr2	172961400	172961800	Bivalent/Poised TSS
+chr2	172961800	172966400	Bivalent Enhancer
+chr2	172966400	172968800	Bivalent/Poised TSS
+chr2	172968800	172969000	Bivalent Enhancer
+chr2	172969000	172970600	Repressed PolyComb
+chr2	172970600	172971000	Bivalent Enhancer
+chr2	172971000	172971800	Bivalent/Poised TSS
+chr2	172971800	172972400	Repressed PolyComb
+chr2	172972400	172972600	Bivalent Enhancer
+chr2	172972600	172973200	Bivalent/Poised TSS
+chr2	172973200	172974600	Bivalent Enhancer
+chr2	172974600	172975000	Bivalent/Poised TSS
+chr2	201750000	201750600	Strong transcription
+chr2	201750600	201751600	Weak transcription
+chr2	201751600	201752200	Weak Enhancer
+chr2	201752200	201752800	Active Enhancer
+chr2	201752800	201753200	Flanking TSS Upstream
+chr2	201753200	201753800	Active TSS
+chr2	201753800	201754000	Flanking TSS Upstream
+chr2	201754000	201754200	Active TSS
+chr2	201754200	201754400	Flanking TSS Upstream
+chr2	201754400	201754600	Active TSS
+chr2	201754600	201755200	Flanking TSS Upstream
+chr2	201755200	201755600	Active Enhancer
+chr2	201755600	201756000	Weak Enhancer
+chr2	201756000	201758000	Weak transcription
+chr2	201758000	201765200	Strong transcription
+chr2	201765200	201766400	Weak transcription
+chr2	201766400	201766600	Weak Enhancer
+chr2	201766600	201768000	Weak transcription
+chr2	201768000	201770800	Strong transcription
+chr2	201770800	201772200	Weak transcription
+chr2	201772200	201775000	Strong transcription
+chr2	214125000	214141600	Quiescent/Low
+chr2	214141600	214142000	Heterochromatin
+chr2	214142000	214142800	ZNF genes & repeats
+chr2	214142800	214144000	Heterochromatin
+chr2	214144000	214147800	Quiescent/Low
+chr2	214147800	214148200	Weak Enhancer
+chr2	214148200	214148400	Flanking TSS Downstream
+chr2	214148400	214148800	Flanking TSS Upstream
+chr2	214148800	214149400	Active TSS
+chr2	214149400	214149800	Flanking TSS Upstream
+chr2	214149800	214150000	Weak Enhancer
+chr2	219150000	219150600	Active Enhancer
+chr2	219150600	219152600	Flanking TSS Upstream
+chr2	219152600	219154600	Active Enhancer
+chr2	219154600	219157000	Flanking TSS Upstream
+chr2	219157000	219157400	Active TSS
+chr2	219157400	219157600	Flanking TSS Upstream
+chr2	219157600	219157800	Active Enhancer
+chr2	219157800	219159400	Weak Enhancer
+chr2	219159400	219160000	Weak transcription
+chr2	220000000	220004600	Weak transcription
+chr2	220004600	220023000	Strong transcription
+chr2	220023000	220024400	Weak transcription
+chr2	220024400	220025000	Flanking TSS Downstream
+chr3	33125000	33125600	Weak transcription
+chr3	33125600	33126000	Strong transcription
+chr3	33126000	33132000	Weak transcription
+chr3	33132000	33135800	Strong transcription
+chr3	33135800	33137000	Weak transcription
+chr3	33137000	33137600	Flanking TSS Downstream
+chr3	33137600	33138000	Flanking TSS Upstream
+chr3	33138000	33138800	Active TSS
+chr3	33138800	33139400	Flanking TSS Upstream
+chr3	33139400	33150000	Quiescent/Low
+chr3	40350000	40350200	Weak Enhancer
+chr3	40350200	40350800	Flanking TSS Upstream
+chr3	40350800	40352200	Active TSS
+chr3	40352200	40352600	Flanking TSS Upstream
+chr3	40352600	40352800	Flanking TSS Downstream
+chr3	40352800	40353000	Genic enhancer
+chr3	40353000	40353200	Weak transcription
+chr3	40353200	40356600	Strong transcription
+chr3	40356600	40358600	Weak transcription
+chr3	40358600	40360000	Quiescent/Low
+chr3	48475000	48476600	Strong transcription
+chr3	48476600	48477600	Weak transcription
+chr3	48477600	48477800	Weak Enhancer
+chr3	48477800	48478400	Active Enhancer
+chr3	48478400	48478800	Active Enhancer
+chr3	48478800	48480400	Weak transcription
+chr3	48480400	48480800	Weak Enhancer
+chr3	48480800	48481000	Flanking TSS Downstream
+chr3	48481000	48481600	Flanking TSS Upstream
+chr3	48481600	48482000	Active TSS
+chr3	48482000	48483200	Flanking TSS Upstream
+chr3	48483200	48483600	Genic enhancer
+chr3	48483600	48483800	Genic enhancer
+chr3	48483800	48486000	Strong transcription
+chr3	48486000	48487000	Weak transcription
+chr3	48487000	48487200	Weak Enhancer
+chr3	48487200	48487400	Flanking TSS Downstream
+chr3	48487400	48488000	Flanking TSS Upstream
+chr3	48488000	48488400	Active TSS
+chr3	48488400	48489000	Flanking TSS Upstream
+chr3	48489000	48489600	Weak Enhancer
+chr3	48489600	48492200	Weak transcription
+chr3	48492200	48500000	Strong transcription
+chr3	49750000	49750600	Flanking TSS Downstream
+chr3	49750600	49751600	Weak Enhancer
+chr3	49751600	49752600	Weak transcription
+chr3	49752600	49754800	Strong transcription
+chr3	49754800	49756000	Weak transcription
+chr3	49756000	49757400	Flanking TSS Downstream
+chr3	49757400	49757800	Weak Enhancer
+chr3	49757800	49758200	Weak transcription
+chr3	49758200	49759800	Strong transcription
+chr3	49759800	49760200	Weak transcription
+chr3	49760200	49760400	Flanking TSS Downstream
+chr3	49760400	49761200	Flanking TSS Upstream
+chr3	49761200	49761600	Active TSS
+chr3	49761600	49762200	Flanking TSS Upstream
+chr3	49762200	49762600	Active Enhancer
+chr3	49762600	49762800	Active Enhancer
+chr3	49762800	49763000	Weak transcription
+chr3	49763000	49775000	Strong transcription
+chr3	51400000	51414200	Quiescent/Low
+chr3	51414200	51415400	Weak Enhancer
+chr3	51415400	51415600	Flanking TSS Downstream
+chr3	51415600	51416000	Weak Enhancer
+chr3	51416000	51416600	Flanking TSS Downstream
+chr3	51416600	51417000	Weak Enhancer
+chr3	51417000	51417400	Flanking TSS Upstream
+chr3	51417400	51418000	Flanking TSS Downstream
+chr3	51418000	51421000	Weak Enhancer
+chr3	51421000	51421200	Active Enhancer
+chr3	51421200	51422200	Flanking TSS Upstream
+chr3	51422200	51423000	Active TSS
+chr3	51423000	51423800	Flanking TSS Upstream
+chr3	51423800	51424400	Flanking TSS Downstream
+chr3	51424400	51424800	Weak Enhancer
+chr3	51424800	51425000	Genic enhancer
+chr3	51700000	51702600	Weak transcription
+chr3	51702600	51704400	Weak Enhancer
+chr3	51704400	51704600	Flanking TSS Downstream
+chr3	51704600	51705800	Flanking TSS Upstream
+chr3	51705800	51706000	Active TSS
+chr3	51706000	51706400	Flanking TSS Upstream
+chr3	51706400	51706800	Flanking TSS Downstream
+chr3	51706800	51708000	Weak Enhancer
+chr3	51708000	51708400	Weak transcription
+chr3	51708400	51713200	Strong transcription
+chr3	51713200	51714000	Weak transcription
+chr3	51714000	51715200	Genic enhancer
+chr3	51715200	51716200	Flanking TSS Downstream
+chr3	51716200	51718600	Weak Enhancer
+chr3	51718600	51719200	Genic enhancer
+chr3	51719200	51719400	Weak Enhancer
+chr3	51719400	51720000	Active Enhancer
+chr3	51720000	51720600	Flanking TSS Upstream
+chr3	51720600	51721200	Flanking TSS Downstream
+chr3	51721200	51722200	Weak Enhancer
+chr3	51722200	51723800	Genic enhancer
+chr3	51723800	51725000	Strong transcription
+chr3	58400000	58400400	Weak Enhancer
+chr3	58400400	58400800	Genic enhancer
+chr3	58400800	58401400	Strong transcription
+chr3	58401400	58404000	Weak transcription
+chr3	58404000	58405000	Weak Enhancer
+chr3	58405000	58406600	Weak transcription
+chr3	58406600	58417600	Strong transcription
+chr3	58417600	58418000	Genic enhancer
+chr3	58418000	58418600	Weak Enhancer
+chr3	58418600	58418800	Flanking TSS Downstream
+chr3	58418800	58419200	Flanking TSS Upstream
+chr3	58419200	58419600	Active TSS
+chr3	58419600	58419800	Flanking TSS
+chr3	58419800	58420400	Flanking TSS Downstream
+chr3	58420400	58425000	Quiescent/Low
+chr3	179275000	179279800	Quiescent/Low
+chr3	179279800	179280000	Weak Enhancer
+chr3	179280000	179280200	Flanking TSS Downstream
+chr3	179280200	179280400	Flanking TSS Upstream
+chr3	179280400	179280600	Flanking TSS
+chr3	179280600	179281400	Active TSS
+chr3	179281400	179282000	Flanking TSS Upstream
+chr3	179282000	179282200	Flanking TSS Downstream
+chr3	179282200	179282600	Weak Enhancer
+chr3	179282600	179287400	Weak transcription
+chr3	179287400	179300000	Strong transcription
+chr3	183600000	183600200	Weak Enhancer
+chr3	183600200	183600400	Active Enhancer
+chr3	183600400	183601200	Flanking TSS Upstream
+chr3	183601200	183601400	Flanking TSS Downstream
+chr3	183601400	183602200	Flanking TSS Upstream
+chr3	183602200	183602800	Active TSS
+chr3	183602800	183603200	Flanking TSS Downstream
+chr3	183603200	183622600	Weak Repressed PolyComb
+chr3	183622600	183625000	Quiescent/Low
+chr3	183950000	183952000	Repressed PolyComb
+chr3	183952000	183954200	Weak Repressed PolyComb
+chr3	183954200	183955200	Weak Enhancer
+chr3	183955200	183955600	Weak transcription
+chr3	183955600	183956200	Weak Enhancer
+chr3	183956200	183959600	Weak transcription
+chr3	183959600	183963800	Strong transcription
+chr3	183963800	183965400	Weak transcription
+chr3	183965400	183966000	Flanking TSS Downstream
+chr3	183966000	183966400	Flanking TSS Upstream
+chr3	183966400	183966800	Active TSS
+chr3	183966800	183967200	Flanking TSS Upstream
+chr3	183967200	183967400	Active TSS
+chr3	183967400	183968200	Flanking TSS Upstream
+chr3	183968200	183968400	Flanking TSS Downstream
+chr3	183968400	183975000	Weak transcription
+chr3	184075000	184078600	Quiescent/Low
+chr3	184078600	184078800	Weak Enhancer
+chr3	184078800	184079600	Flanking TSS Downstream
+chr3	184079600	184081000	Flanking TSS Upstream
+chr3	184081000	184081200	Active TSS
+chr3	184081200	184081600	Flanking TSS Upstream
+chr3	184081600	184082000	Flanking TSS Downstream
+chr3	184082000	184082400	Weak Enhancer
+chr3	184082400	184082800	Genic enhancer
+chr3	184082800	184087600	Strong transcription
+chr3	184087600	184089200	Weak transcription
+chr3	184089200	184089400	Weak Enhancer
+chr3	184089400	184095000	Weak Repressed PolyComb
+chr3	184095000	184095200	Repressed PolyComb
+chr3	184095200	184096000	Bivalent Enhancer
+chr3	184096000	184097800	Repressed PolyComb
+chr3	184097800	184098000	Bivalent Enhancer
+chr3	184098000	184099600	Bivalent/Poised TSS
+chr3	184099600	184100000	Repressed PolyComb
+chr3	193850000	193851200	Repressed PolyComb
+chr3	193851200	193851400	Bivalent Enhancer
+chr3	193851400	193851800	Bivalent/Poised TSS
+chr3	193851800	193852200	Flanking TSS
+chr3	193852200	193853000	Flanking TSS Downstream
+chr3	193853000	193853400	Flanking TSS Upstream
+chr3	193853400	193856200	Bivalent/Poised TSS
+chr3	193856200	193857000	Bivalent Enhancer
+chr3	193857000	193857400	Bivalent/Poised TSS
+chr3	193857400	193858400	Bivalent Enhancer
+chr3	193858400	193859000	Bivalent/Poised TSS
+chr3	193859000	193859400	Flanking TSS
+chr3	193859400	193859600	Flanking TSS Downstream
+chr3	193859600	193860200	Flanking TSS Upstream
+chr3	193860200	193860400	Flanking TSS Downstream
+chr3	193860400	193860800	Weak Enhancer
+chr3	193860800	193871400	Quiescent/Low
+chr3	193871400	193871800	Heterochromatin
+chr3	193871800	193873000	ZNF genes & repeats
+chr3	193873000	193873400	Heterochromatin
+chr3	193873400	193875000	Quiescent/Low
+chr3	194975000	194978000	Weak transcription
+chr3	194978000	194979600	Weak Enhancer
+chr3	194979600	194980600	Active Enhancer
+chr3	194980600	194980800	Flanking TSS Upstream
+chr3	194980800	194981000	Flanking TSS
+chr3	194981000	194981200	Active TSS
+chr3	194981200	194981600	Flanking TSS Upstream
+chr3	194981600	194981800	Flanking TSS Downstream
+chr3	194981800	194982200	Weak Enhancer
+chr3	194982200	194987200	Weak transcription
+chr3	194987200	194987400	Strong transcription
+chr3	194987400	194987600	Weak transcription
+chr3	194987600	194988200	Strong transcription
+chr3	194988200	194989800	Weak transcription
+chr3	194989800	194990400	Weak Enhancer
+chr3	194990400	194991400	Flanking TSS Downstream
+chr3	194991400	194991600	Flanking TSS Upstream
+chr3	194991600	194992400	Active TSS
+chr3	194992400	194992600	Flanking TSS Downstream
+chr3	194992600	194993000	Flanking TSS Upstream
+chr3	194993000	194993200	Weak Enhancer
+chr3	194993200	194998400	Weak transcription
+chr3	194998400	195000000	Strong transcription
+chr3	195250000	195252200	Strong transcription
+chr3	195252200	195253000	Weak transcription
+chr3	195253000	195256800	Strong transcription
+chr3	195256800	195261200	Weak transcription
+chr3	195261200	195261800	Weak Enhancer
+chr3	195261800	195267000	Weak transcription
+chr3	195267000	195268000	Weak Enhancer
+chr3	195268000	195268200	Flanking TSS Downstream
+chr3	195268200	195268400	Weak Enhancer
+chr3	195268400	195269000	Flanking TSS Downstream
+chr3	195269000	195269400	Flanking TSS Upstream
+chr3	195269400	195269600	Active TSS
+chr3	195269600	195269800	Flanking TSS Upstream
+chr3	195269800	195270400	Active TSS
+chr3	195270400	195270600	Flanking TSS Upstream
+chr3	195270600	195271000	Flanking TSS Downstream
+chr3	195271000	195273000	Weak Enhancer
+chr3	195273000	195273200	Flanking TSS Downstream
+chr3	195273200	195273800	Weak Enhancer
+chr3	195273800	195275000	Weak Repressed PolyComb
+chr3	195800000	195800400	Strong transcription
+chr3	195800400	195800800	Genic enhancer
+chr3	195800800	195802400	Strong transcription
+chr3	195802400	195804800	Genic enhancer
+chr3	195804800	195805000	Genic enhancer
+chr3	195805000	195805600	Active Enhancer
+chr3	195805600	195808000	Flanking TSS Upstream
+chr3	195808000	195809200	Active TSS
+chr3	195809200	195810000	Flanking TSS Upstream
+chr4	55525000	55525200	Active TSS
+chr4	55525200	55526400	Flanking TSS Upstream
+chr4	55526400	55527000	Active Enhancer
+chr4	55527000	55527200	Weak Enhancer
+chr4	55527200	55527800	Flanking TSS Downstream
+chr4	55527800	55529400	Weak Enhancer
+chr4	55529400	55530400	Active Enhancer
+chr4	55530400	55531800	Weak Enhancer
+chr4	55531800	55532200	Active Enhancer
+chr4	55532200	55533800	Weak transcription
+chr4	55533800	55534200	Active Enhancer
+chr4	55534200	55535000	Flanking TSS Upstream
+chr4	55535000	55536400	Active Enhancer
+chr4	55536400	55537400	Active Enhancer
+chr4	55537400	55540400	Weak transcription
+chr4	55540400	55542400	Weak Enhancer
+chr4	55542400	55542600	Flanking TSS Downstream
+chr4	55542600	55544200	Weak Enhancer
+chr4	55544200	55544400	Flanking TSS Downstream
+chr4	55544400	55545000	Weak Enhancer
+chr4	55545000	55545200	Active Enhancer
+chr4	55545200	55545400	Weak Enhancer
+chr4	55545400	55545600	Active Enhancer
+chr4	55545600	55546200	Weak Enhancer
+chr4	55546200	55549200	Weak transcription
+chr4	55549200	55550000	Weak Enhancer
+chr4	74100000	74101000	Strong transcription
+chr4	74101000	74106400	Weak transcription
+chr4	74106400	74107000	Weak Enhancer
+chr4	74107000	74110400	Weak transcription
+chr4	74110400	74111400	Strong transcription
+chr4	74111400	74117800	Weak transcription
+chr4	74117800	74121200	Genic enhancer
+chr4	74121200	74122200	Weak Enhancer
+chr4	74122200	74122400	Active Enhancer
+chr4	74122400	74124000	Flanking TSS Upstream
+chr4	74124000	74125000	Active TSS
+chr4	82375000	82375200	Weak transcription
+chr4	82375200	82377200	Weak Enhancer
+chr4	82377200	82377800	Genic enhancer
+chr4	82377800	82380600	Strong transcription
+chr4	82380600	82388400	Weak transcription
+chr4	82388400	82391000	Weak Enhancer
+chr4	82391000	82391200	Flanking TSS Downstream
+chr4	82391200	82392600	Flanking TSS Upstream
+chr4	82392600	82393400	Active TSS
+chr4	82393400	82394000	Flanking TSS Upstream
+chr4	82394000	82394600	Weak Enhancer
+chr4	82394600	82395200	Weak transcription
+chr4	82395200	82396000	ZNF genes & repeats
+chr4	82396000	82396200	Heterochromatin
+chr4	82396200	82400000	Quiescent/Low
+chr4	83275000	83277200	Strong transcription
+chr4	83277200	83279600	Genic enhancer
+chr4	83279600	83279800	Weak Enhancer
+chr4	83279800	83281600	Active Enhancer
+chr4	83281600	83282000	Weak Enhancer
+chr4	83282000	83282200	Active Enhancer
+chr4	83282200	83282600	Active Enhancer
+chr4	83282600	83284000	Active Enhancer
+chr4	83284000	83284400	Weak Enhancer
+chr4	83284400	83284600	Genic enhancer
+chr4	83284600	83285600	Genic enhancer
+chr4	83285600	83285800	Genic enhancer
+chr4	83285800	83288400	Weak Enhancer
+chr4	83288400	83288800	Genic enhancer
+chr4	83288800	83290600	Genic enhancer
+chr4	83290600	83291200	Genic enhancer
+chr4	83291200	83291800	Genic enhancer
+chr4	83291800	83293800	Flanking TSS Upstream
+chr4	83293800	83294000	Active TSS
+chr4	83294000	83294200	Flanking TSS Upstream
+chr4	83294200	83295800	Active TSS
+chr4	83295800	83296400	Flanking TSS Upstream
+chr4	83296400	83296600	Active TSS
+chr4	83296600	83297400	Flanking TSS Downstream
+chr4	83297400	83297600	Weak Enhancer
+chr4	83297600	83300000	Quiescent/Low
+chr4	106375000	106377600	Strong transcription
+chr4	106377600	106381400	Weak transcription
+chr4	106381400	106382200	Weak Enhancer
+chr4	106382200	106382400	Active Enhancer
+chr4	106382400	106383200	Flanking TSS Upstream
+chr4	106383200	106383600	Weak Enhancer
+chr4	106383600	106387600	Weak transcription
+chr4	106387600	106388600	Strong transcription
+chr4	106388600	106391200	Weak transcription
+chr4	106391200	106392600	Weak Enhancer
+chr4	106392600	106393200	Flanking TSS Downstream
+chr4	106393200	106394400	Flanking TSS Upstream
+chr4	106394400	106395400	Active TSS
+chr4	106395400	106395600	Flanking TSS Upstream
+chr4	106395600	106395800	Weak Enhancer
+chr4	106395800	106400000	Quiescent/Low
+chr4	113150000	113151400	Quiescent/Low
+chr4	113151400	113151600	Weak Enhancer
+chr4	113151600	113152000	Flanking TSS Downstream
+chr4	113152000	113152600	Flanking TSS Upstream
+chr4	113152600	113153600	Active TSS
+chr4	113153600	113154200	Flanking TSS Upstream
+chr4	113154200	113154800	Weak Enhancer
+chr4	113154800	113157400	Weak transcription
+chr4	113157400	113157600	Weak Enhancer
+chr4	113157600	113174400	Weak transcription
+chr4	113174400	113174600	Weak Enhancer
+chr4	113174600	113175000	Active Enhancer
+chr4	140200000	140201600	Bivalent/Poised TSS
+chr4	140201600	140202200	Repressed PolyComb
+chr4	140202200	140205600	Weak Repressed PolyComb
+chr4	140205600	140206400	ZNF genes & repeats
+chr4	140206400	140209200	Weak transcription
+chr4	140209200	140215200	Strong transcription
+chr4	140215200	140215800	Weak transcription
+chr4	140215800	140216000	Weak Enhancer
+chr4	140216000	140216400	Flanking TSS Upstream
+chr4	140216400	140217000	Active TSS
+chr4	140217000	140217400	Flanking TSS Upstream
+chr4	140217400	140217800	Weak Enhancer
+chr4	140217800	140219600	Weak transcription
+chr4	140219600	140220600	Weak Enhancer
+chr4	140220600	140221400	Active Enhancer
+chr4	140221400	140222400	Flanking TSS Upstream
+chr4	140222400	140223200	Active TSS
+chr4	140223200	140223400	Flanking TSS Upstream
+chr4	140223400	140223600	Active TSS
+chr4	140223600	140224400	Flanking TSS Upstream
+chr4	140224400	140224800	Flanking TSS Downstream
+chr4	140224800	140225000	Weak Enhancer
+chr4	166025000	166032400	Weak transcription
+chr4	166032400	166032600	Weak Enhancer
+chr4	166032600	166032800	Active Enhancer
+chr4	166032800	166033200	Flanking TSS Upstream
+chr4	166033200	166033600	Active TSS
+chr4	166033600	166033800	Flanking TSS Upstream
+chr4	166033800	166034200	Active TSS
+chr4	166034200	166034400	Flanking TSS Downstream
+chr4	166034400	166034800	Flanking TSS Upstream
+chr4	166034800	166035200	Weak Enhancer
+chr4	166035200	166050000	Quiescent/Low
+chr4	170525000	170525400	Weak transcription
+chr4	170525400	170527000	Active Enhancer
+chr4	170527000	170527400	Active Enhancer
+chr4	170527400	170532000	Weak transcription
+chr4	170532000	170532400	Weak Enhancer
+chr4	170532400	170533200	Flanking TSS Upstream
+chr4	170533200	170534000	Active TSS
+chr4	170534000	170534400	Flanking TSS Upstream
+chr4	170534400	170534600	Flanking TSS Downstream
+chr4	170534600	170535200	Weak Enhancer
+chr4	170535200	170538600	Weak transcription
+chr4	170538600	170539600	Weak Enhancer
+chr4	170539600	170540000	Flanking TSS Downstream
+chr4	170540000	170540400	Weak Enhancer
+chr4	170540400	170541400	Flanking TSS Upstream
+chr4	170541400	170541800	Active TSS
+chr4	170541800	170542400	Flanking TSS Upstream
+chr4	170542400	170543400	Flanking TSS Downstream
+chr4	170543400	170544400	Weak Enhancer
+chr4	170544400	170548400	Weak transcription
+chr4	170548400	170548800	Weak Enhancer
+chr4	170548800	170550000	Weak transcription
+chr5	32580000	32582600	Quiescent/Low
+chr5	32582600	32583200	Weak Enhancer
+chr5	32583200	32585200	Weak transcription
+chr5	32585200	32585400	Flanking TSS Downstream
+chr5	32585400	32585600	Flanking TSS Upstream
+chr5	32585600	32586600	Active TSS
+chr5	32586600	32587200	Flanking TSS Upstream
+chr5	32587200	32587600	Flanking TSS Downstream
+chr5	32587600	32588000	Weak Enhancer
+chr5	32588000	32588400	Weak transcription
+chr5	32588400	32590000	Strong transcription
+chr5	34900000	34903200	Quiescent/Low
+chr5	34903200	34904400	Weak Enhancer
+chr5	34904400	34907000	Weak transcription
+chr5	34907000	34912400	Strong transcription
+chr5	34912400	34913800	Weak transcription
+chr5	34913800	34914200	Weak Enhancer
+chr5	34914200	34914400	Flanking TSS Upstream
+chr5	34914400	34914600	Active Enhancer
+chr5	34914600	34914800	Flanking TSS Downstream
+chr5	34914800	34915200	Flanking TSS Upstream
+chr5	34915200	34916200	Active TSS
+chr5	34916200	34917200	Flanking TSS Upstream
+chr5	34917200	34917600	Weak Enhancer
+chr5	34917600	34918000	Active Enhancer
+chr5	34918000	34918400	Genic enhancer
+chr5	34918400	34923400	Strong transcription
+chr5	34923400	34924600	Genic enhancer
+chr5	34924600	34925000	Strong transcription
+chr5	53800000	53801200	Heterochromatin
+chr5	53801200	53801800	ZNF genes & repeats
+chr5	53801800	53802200	Heterochromatin
+chr5	53802200	53813000	Quiescent/Low
+chr5	53813000	53813400	Flanking TSS Downstream
+chr5	53813400	53813600	Flanking TSS
+chr5	53813600	53813800	Active TSS
+chr5	53813800	53814000	Flanking TSS Downstream
+chr5	53814000	53814200	Flanking TSS
+chr5	53814200	53815800	Flanking TSS Downstream
+chr5	53815800	53816200	Weak Enhancer
+chr5	53816200	53817000	Flanking TSS Downstream
+chr5	53817000	53817400	Weak Enhancer
+chr5	53817400	53825000	Quiescent/Low
+chr5	94975000	94979800	Quiescent/Low
+chr5	94979800	94980600	Weak Enhancer
+chr5	94980600	94982200	Weak transcription
+chr5	94982200	94982600	Flanking TSS Downstream
+chr5	94982600	94983600	Flanking TSS Upstream
+chr5	94983600	94985600	Active Enhancer
+chr5	94985600	94986000	Active Enhancer
+chr5	94986000	94988000	Weak transcription
+chr5	94988000	94989000	Strong transcription
+chr5	94989000	94991200	Weak transcription
+chr5	94991200	94991600	Weak Enhancer
+chr5	94991600	95000000	Quiescent/Low
+chr5	96500000	96515200	Strong transcription
+chr5	96515200	96516000	Weak transcription
+chr5	96516000	96517400	Weak Enhancer
+chr5	96517400	96517800	Flanking TSS Downstream
+chr5	96517800	96518600	Flanking TSS Upstream
+chr5	96518600	96519400	Active TSS
+chr5	96519400	96519800	Flanking TSS Upstream
+chr5	96519800	96520000	Flanking TSS Downstream
+chr5	96520000	96520200	Weak Enhancer
+chr5	96520200	96524600	Quiescent/Low
+chr5	96524600	96525000	Heterochromatin
+chr5	126100000	126111200	Quiescent/Low
+chr5	126111200	126111800	Flanking TSS Downstream
+chr5	126111800	126112600	Flanking TSS Upstream
+chr5	126112600	126113200	Active TSS
+chr5	126113200	126113400	Flanking TSS Upstream
+chr5	126113400	126113600	Active TSS
+chr5	126113600	126113800	Flanking TSS Upstream
+chr5	126113800	126114200	Active TSS
+chr5	126114200	126114800	Flanking TSS Upstream
+chr5	126114800	126115000	Flanking TSS Downstream
+chr5	126115000	126115200	Flanking TSS Upstream
+chr5	126115200	126115400	Active Enhancer
+chr5	126115400	126115600	Active Enhancer
+chr5	126115600	126116200	Active Enhancer
+chr5	126116200	126118000	Weak Enhancer
+chr5	126118000	126118200	Active Enhancer
+chr5	126118200	126119000	Active Enhancer
+chr5	126119000	126119400	Active Enhancer
+chr5	126119400	126119600	Active Enhancer
+chr5	126119600	126123800	Weak transcription
+chr5	126123800	126125000	Weak Enhancer
+chr5	130500000	130501200	Active TSS
+chr5	130500000	130501200	Active TSS
+chr5	130501200	130501600	Flanking TSS Upstream
+chr5	130501200	130501600	Flanking TSS Upstream
+chr5	130501600	130501800	Active Enhancer
+chr5	130501600	130501800	Active Enhancer
+chr5	130501800	130502400	Active Enhancer
+chr5	130501800	130502400	Active Enhancer
+chr5	130502400	130505400	Weak transcription
+chr5	130502400	130505400	Weak transcription
+chr5	130505400	130505600	Weak Enhancer
+chr5	130505400	130505600	Weak Enhancer
+chr5	130505600	130505800	Flanking TSS Downstream
+chr5	130505600	130505800	Flanking TSS Downstream
+chr5	130505800	130506200	Flanking TSS Upstream
+chr5	130505800	130506200	Flanking TSS Upstream
+chr5	130506200	130506800	Active TSS
+chr5	130506200	130506800	Active TSS
+chr5	130506800	130507600	Flanking TSS Upstream
+chr5	130506800	130507600	Flanking TSS Upstream
+chr5	130507600	130508600	Weak Enhancer
+chr5	130507600	130508600	Weak Enhancer
+chr5	130508600	130510000	Weak transcription
+chr5	130508600	130513000	Weak transcription
+chr5	130513000	130513800	Weak Enhancer
+chr5	130513800	130518000	Weak transcription
+chr5	130518000	130518600	Strong transcription
+chr5	130518600	130520400	Weak transcription
+chr5	130520400	130521200	Strong transcription
+chr5	130521200	130523400	Weak transcription
+chr5	130523400	130525000	Strong transcription
+chr5	130600000	130600800	Active TSS
+chr5	130600800	130602200	Flanking TSS Upstream
+chr5	130602200	130602800	Active Enhancer
+chr5	130602800	130603000	Active Enhancer
+chr5	130603000	130604000	Active Enhancer
+chr5	130604000	130605800	Weak Enhancer
+chr5	130605800	130606000	Active Enhancer
+chr5	130606000	130606200	Weak Enhancer
+chr5	130606200	130606400	Active Enhancer
+chr5	130606400	130607000	Weak Enhancer
+chr5	130607000	130607400	Active Enhancer
+chr5	130607400	130608000	Weak Enhancer
+chr5	130608000	130608400	Active Enhancer
+chr5	130608400	130610200	Weak Enhancer
+chr5	130610200	130610600	Active Enhancer
+chr5	130610600	130612400	Weak Enhancer
+chr5	130612400	130613600	Weak transcription
+chr5	130613600	130614600	Weak Enhancer
+chr5	130614600	130615000	Weak transcription
+chr5	130615000	130615600	Weak Enhancer
+chr5	130615600	130615800	Flanking TSS Downstream
+chr5	130615800	130617400	Weak Enhancer
+chr5	130617400	130617800	Active Enhancer
+chr5	130617800	130619200	Weak Enhancer
+chr5	130619200	130620000	Weak transcription
+chr5	130620000	130622000	Weak Enhancer
+chr5	130622000	130623000	Weak transcription
+chr5	130623000	130623600	Strong transcription
+chr5	130623600	130623800	Weak transcription
+chr5	130623800	130625000	Active Enhancer
+chr5	137075000	137075600	Weak transcription
+chr5	137075600	137075800	Weak Enhancer
+chr5	137075800	137085200	Quiescent/Low
+chr5	137085200	137086800	Weak Enhancer
+chr5	137086800	137087400	Active Enhancer
+chr5	137087400	137088800	Flanking TSS Upstream
+chr5	137088800	137089600	Active TSS
+chr5	137089600	137089800	Flanking TSS Upstream
+chr5	137089800	137090600	Active TSS
+chr5	137090600	137091200	Flanking TSS Upstream
+chr5	137091200	137100000	Quiescent/Low
+chr5	139940000	139941600	Strong transcription
+chr5	139941600	139943000	Weak transcription
+chr5	139943000	139943200	Active Enhancer
+chr5	139943200	139944000	Flanking TSS Upstream
+chr5	139944000	139944400	Active TSS
+chr5	139944400	139945000	Flanking TSS Upstream
+chr5	139945000	139945200	Flanking TSS Downstream
+chr5	139945200	139945600	Weak Enhancer
+chr5	139945600	139946000	Weak transcription
+chr5	139946000	139947600	Strong transcription
+chr5	139947600	139948000	Genic enhancer
+chr5	139948000	139948400	Weak Enhancer
+chr5	139948400	139949400	Active Enhancer
+chr5	139949400	139950000	Weak Enhancer
+chr5	140010000	140011400	Repressed PolyComb
+chr5	140011400	140011600	Bivalent Enhancer
+chr5	140011600	140013000	Bivalent/Poised TSS
+chr5	140013000	140013400	Bivalent Enhancer
+chr5	140013400	140014400	Weak Repressed PolyComb
+chr5	140014400	140014600	Weak Enhancer
+chr5	140014600	140018200	Weak transcription
+chr5	140018200	140018400	Active Enhancer
+chr5	140018400	140018800	Flanking TSS Upstream
+chr5	140018800	140019200	Flanking TSS Downstream
+chr5	140019200	140019800	Flanking TSS Upstream
+chr5	140019800	140020000	Flanking TSS Downstream
+chr6	15225000	15243200	Quiescent/Low
+chr6	15243200	15244400	Weak Enhancer
+chr6	15244400	15245200	Flanking TSS Upstream
+chr6	15245200	15247200	Active TSS
+chr6	15247200	15247600	Flanking TSS Upstream
+chr6	15247600	15248000	Active TSS
+chr6	15248000	15248200	Flanking TSS Upstream
+chr6	15248200	15248600	Active TSS
+chr6	15248600	15248800	Flanking TSS
+chr6	15248800	15249200	Active TSS
+chr6	15249200	15250000	Flanking TSS Upstream
+chr6	18380000	18386600	Quiescent/Low
+chr6	18386600	18387200	Weak Enhancer
+chr6	18387200	18387600	Flanking TSS Downstream
+chr6	18387600	18388000	Active TSS
+chr6	18388000	18388200	Flanking TSS Upstream
+chr6	18388200	18388400	Active TSS
+chr6	18388400	18390000	Flanking TSS Upstream
+chr6	27850000	27857600	Quiescent/Low
+chr6	27857600	27857800	Weak Enhancer
+chr6	27857800	27858000	Flanking TSS Downstream
+chr6	27858000	27859800	Flanking TSS Upstream
+chr6	27859800	27860000	Flanking TSS Downstream
+chr6	27860000	27861000	Flanking TSS Upstream
+chr6	27861000	27861400	Active TSS
+chr6	27861400	27863800	Flanking TSS Upstream
+chr6	27863800	27864400	Active Enhancer
+chr6	27864400	27869600	Weak transcription
+chr6	27869600	27870000	Weak Enhancer
+chr6	27870000	27870600	Flanking TSS Upstream
+chr6	27870600	27870800	Active TSS
+chr6	27870800	27871000	Flanking TSS Upstream
+chr6	27871000	27871200	Active TSS
+chr6	27871200	27871600	Flanking TSS Upstream
+chr6	27871600	27875000	Quiescent/Low
+chr6	28300000	28300600	Heterochromatin
+chr6	28300600	28301400	Active Enhancer
+chr6	28301400	28302200	Active Enhancer
+chr6	28302200	28303200	Flanking TSS Upstream
+chr6	28303200	28303800	Active TSS
+chr6	28303800	28305200	Flanking TSS Upstream
+chr6	28305200	28306000	Active Enhancer
+chr6	28306000	28306400	Weak Enhancer
+chr6	28306400	28307400	Quiescent/Low
+chr6	28307400	28310000	Heterochromatin
+chr6	28310000	28314600	Quiescent/Low
+chr6	28314600	28315600	Weak Enhancer
+chr6	28315600	28317000	Weak transcription
+chr6	28317000	28317200	Flanking TSS Downstream
+chr6	28317200	28317400	Flanking TSS Upstream
+chr6	28317400	28318000	Active TSS
+chr6	28318000	28319200	Flanking TSS Upstream
+chr6	28319200	28319800	Active Enhancer
+chr6	28319800	28320200	Weak Enhancer
+chr6	28320200	28321000	Weak transcription
+chr6	28321000	28322600	Active Enhancer
+chr6	28322600	28323200	Active Enhancer
+chr6	28323200	28324400	Flanking TSS Upstream
+chr6	28324400	28325000	Active Enhancer
+chr6	31510000	31510200	Active TSS
+chr6	31510200	31510800	Flanking TSS Upstream
+chr6	31510800	31511200	Active Enhancer
+chr6	31511200	31511600	Active Enhancer
+chr6	31511600	31513800	Weak transcription
+chr6	31513800	31514000	Weak Enhancer
+chr6	31514000	31514600	Flanking TSS Downstream
+chr6	31514600	31516000	Flanking TSS Upstream
+chr6	31516000	31516400	Active Enhancer
+chr6	31516400	31517600	Active Enhancer
+chr6	31517600	31518200	Weak transcription
+chr6	31518200	31518600	Strong transcription
+chr6	31518600	31519000	Genic enhancer
+chr6	31519000	31519600	Weak Enhancer
+chr6	31519600	31520000	Weak transcription
+chr6	35400000	35419200	Weak Repressed PolyComb
+chr6	35419200	35421400	Flanking TSS Downstream
+chr6	35421400	35421600	Weak Enhancer
+chr6	35421600	35423400	Weak transcription
+chr6	35423400	35425000	Strong transcription
+chr6	41750000	41752800	Weak transcription
+chr6	41752800	41753800	Weak Enhancer
+chr6	41753800	41754200	Flanking TSS Downstream
+chr6	41754200	41754400	Flanking TSS
+chr6	41754400	41754600	Active TSS
+chr6	41754600	41755000	Flanking TSS Upstream
+chr6	41755000	41755800	Active TSS
+chr6	41755800	41756000	Flanking TSS Upstream
+chr6	41756000	41756200	Flanking TSS Downstream
+chr6	41756200	41756600	Weak Enhancer
+chr6	41756600	41757200	Genic enhancer
+chr6	41757200	41768000	Strong transcription
+chr6	41768000	41775000	Weak transcription
+chr6	42000000	42000800	Active Enhancer
+chr6	42000800	42001000	Weak Enhancer
+chr6	42001000	42006400	Weak transcription
+chr6	42006400	42006600	Weak Enhancer
+chr6	42006600	42006800	Active Enhancer
+chr6	42006800	42007200	Weak Enhancer
+chr6	42007200	42007400	Active Enhancer
+chr6	42007400	42009000	Weak Enhancer
+chr6	42009000	42009200	Active Enhancer
+chr6	42009200	42009400	Flanking TSS Upstream
+chr6	42009400	42009600	Flanking TSS Downstream
+chr6	42009600	42009800	Flanking TSS Upstream
+chr6	42009800	42010000	Active Enhancer
+chr6	42010000	42011800	Weak Enhancer
+chr6	42011800	42012000	Flanking TSS Downstream
+chr6	42012000	42013000	Weak Enhancer
+chr6	42013000	42013600	Flanking TSS Upstream
+chr6	42013600	42015200	Flanking TSS Downstream
+chr6	42015200	42016200	Flanking TSS Upstream
+chr6	42016200	42016400	Flanking TSS Downstream
+chr6	42016400	42016800	Flanking TSS Upstream
+chr6	42016800	42017200	Flanking TSS Downstream
+chr6	42017200	42017600	Weak Enhancer
+chr6	42017600	42018200	Flanking TSS Downstream
+chr6	42018200	42018600	Active TSS
+chr6	42018600	42019400	Flanking TSS Upstream
+chr6	42019400	42020000	Weak Enhancer
+chr6	42020000	42020400	Weak transcription
+chr6	42020400	42025000	Strong transcription
+chr6	42825000	42837600	Strong transcription
+chr6	42837600	42846400	Weak transcription
+chr6	42846400	42846600	Weak Enhancer
+chr6	42846600	42846800	Active Enhancer
+chr6	42846800	42847000	Flanking TSS Upstream
+chr6	42847000	42848000	Active TSS
+chr6	42848000	42848400	Flanking TSS Upstream
+chr6	42848400	42848600	Active TSS
+chr6	42848600	42849000	Flanking TSS Upstream
+chr6	42849000	42849400	Active Enhancer
+chr6	42849400	42850000	Genic enhancer
+chr6	52150000	52150400	Flanking TSS Upstream
+chr6	52150400	52150800	Flanking TSS Downstream
+chr6	52150800	52152200	Weak Enhancer
+chr6	52152200	52153600	Weak transcription
+chr6	52153600	52154200	Weak Enhancer
+chr6	52154200	52157800	Weak transcription
+chr6	52157800	52158200	Weak Enhancer
+chr6	52158200	52160400	Quiescent/Low
+chr6	52160400	52165200	Heterochromatin
+chr6	52165200	52166000	ZNF genes & repeats
+chr6	52166000	52168200	Weak transcription
+chr6	52168200	52169400	Weak Enhancer
+chr6	52169400	52169800	Active Enhancer
+chr6	52169800	52170200	Flanking TSS Upstream
+chr6	52170200	52171200	Active Enhancer
+chr6	52171200	52172000	Weak Enhancer
+chr6	52172000	52173000	Active Enhancer
+chr6	52173000	52173200	Flanking TSS Downstream
+chr6	52173200	52173800	Weak Enhancer
+chr6	52173800	52175000	Weak transcription
+chr6	53400000	53405000	Weak transcription
+chr6	53405000	53406600	Weak Enhancer
+chr6	53406600	53407800	Weak transcription
+chr6	53407800	53408200	Weak Enhancer
+chr6	53408200	53408800	Flanking TSS Downstream
+chr6	53408800	53409200	Flanking TSS Upstream
+chr6	53409200	53410000	Active TSS
+chr6	53410000	53410200	Flanking TSS Upstream
+chr6	53410200	53410400	Flanking TSS Downstream
+chr6	53410400	53411800	Weak transcription
+chr6	53411800	53412000	Weak Enhancer
+chr6	53412000	53412200	Flanking TSS Downstream
+chr6	53412200	53412800	Flanking TSS Upstream
+chr6	53412800	53413200	Active TSS
+chr6	53413200	53413600	Flanking TSS Downstream
+chr6	53413600	53422600	Quiescent/Low
+chr6	53422600	53425000	Heterochromatin
+chr6	75975000	75977200	Weak transcription
+chr6	75977200	75977800	Weak Enhancer
+chr6	75977800	75981400	Weak transcription
+chr6	75981400	75982400	Strong transcription
+chr6	75982400	75983000	ZNF genes & repeats
+chr6	75983000	75984800	Weak transcription
+chr6	75984800	75985200	Weak Enhancer
+chr6	75985200	75985400	Weak transcription
+chr6	75985400	75986000	Weak Enhancer
+chr6	75986000	75988200	Weak transcription
+chr6	75988200	75993000	Weak Enhancer
+chr6	75993000	75993800	Flanking TSS Upstream
+chr6	75993800	75994800	Active TSS
+chr6	75994800	75995000	Flanking TSS Upstream
+chr6	75995000	75995200	Active TSS
+chr6	75995200	75995800	Flanking TSS Upstream
+chr6	75995800	75997600	Weak Enhancer
+chr6	75997600	76000000	Weak transcription
+chr6	82950000	82950800	ZNF genes & repeats
+chr6	82950800	82953800	Weak transcription
+chr6	82953800	82954200	Weak Enhancer
+chr6	82954200	82954600	Active Enhancer
+chr6	82954600	82955000	Weak Enhancer
+chr6	82955000	82955800	Genic enhancer
+chr6	82955800	82956200	Weak Enhancer
+chr6	82956200	82956400	Flanking TSS Downstream
+chr6	82956400	82957000	Flanking TSS Upstream
+chr6	82957000	82957800	Active TSS
+chr6	82957800	82958200	Flanking TSS Upstream
+chr6	82958200	82958400	Active Enhancer
+chr6	82958400	82958600	Active Enhancer
+chr6	82958600	82975000	Quiescent/Low
+chr6	84925000	84936200	Weak transcription
+chr6	84936200	84936600	Weak Enhancer
+chr6	84936600	84937000	Flanking TSS Downstream
+chr6	84937000	84937200	Flanking TSS Upstream
+chr6	84937200	84937800	Active TSS
+chr6	84937800	84938000	Flanking TSS
+chr6	84938000	84938200	Weak Enhancer
+chr6	84938200	84947800	Weak Repressed PolyComb
+chr6	84947800	84948200	ZNF genes & repeats
+chr6	84948200	84948600	Heterochromatin
+chr6	84948600	84950000	Quiescent/Low
+chr6	116875000	116882400	Quiescent/Low
+chr6	116882400	116882600	Flanking TSS Downstream
+chr6	116882600	116885800	Weak transcription
+chr6	116885800	116886000	Weak Enhancer
+chr6	116886000	116886800	Flanking TSS Downstream
+chr6	116886800	116889600	Weak transcription
+chr6	116889600	116891000	Weak Enhancer
+chr6	116891000	116891400	Active Enhancer
+chr6	116891400	116892000	Flanking TSS Upstream
+chr6	116892000	116892800	Active TSS
+chr6	116892800	116894400	Flanking TSS Upstream
+chr6	116894400	116894600	Active Enhancer
+chr6	116894600	116895000	Weak Enhancer
+chr6	116895000	116896400	Weak transcription
+chr6	116896400	116899200	Strong transcription
+chr6	116899200	116900000	Weak transcription
+chr6	132825000	132831600	Weak transcription
+chr6	132831600	132831800	Weak Enhancer
+chr6	132831800	132832400	Flanking TSS Downstream
+chr6	132832400	132833400	Flanking TSS Upstream
+chr6	132833400	132834400	Active TSS
+chr6	132834400	132834800	Flanking TSS Upstream
+chr6	132834800	132835200	Flanking TSS Downstream
+chr6	132835200	132835400	Weak Enhancer
+chr6	132835400	132850000	Quiescent/Low
+chr6	136550000	136550600	Weak Enhancer
+chr6	136550600	136555000	Weak transcription
+chr6	136555000	136556000	Weak Enhancer
+chr6	136556000	136557000	Weak transcription
+chr6	136557000	136557600	Weak Enhancer
+chr6	136557600	136558000	Flanking TSS Downstream
+chr6	136558000	136558600	Weak Enhancer
+chr6	136558600	136560000	Weak transcription
+chr6	136560000	136561200	Strong transcription
+chr6	136561200	136563800	Weak transcription
+chr6	136563800	136566000	Strong transcription
+chr6	136566000	136570200	Weak transcription
+chr6	136570200	136570400	Weak Enhancer
+chr6	136570400	136570800	Flanking TSS Upstream
+chr6	136570800	136571000	Flanking TSS Downstream
+chr6	136571000	136571400	Flanking TSS Upstream
+chr6	136571400	136571800	Active TSS
+chr6	136571800	136572200	Flanking TSS Upstream
+chr6	136572200	136572800	Flanking TSS Downstream
+chr6	136572800	136575000	Weak transcription
+chr6	137100000	137100800	Weak transcription
+chr6	137100800	137103400	Weak Enhancer
+chr6	137103400	137103600	Flanking TSS Downstream
+chr6	137103600	137104800	Weak Enhancer
+chr6	137104800	137107200	Flanking TSS Upstream
+chr6	137107200	137107800	Active Enhancer
+chr6	137107800	137108200	Weak Enhancer
+chr6	137108200	137108600	Flanking TSS Downstream
+chr6	137108600	137110200	Weak Enhancer
+chr6	137110200	137111000	Flanking TSS Downstream
+chr6	137111000	137112400	Flanking TSS Upstream
+chr6	137112400	137114000	Active TSS
+chr6	137114000	137114800	Flanking TSS Upstream
+chr6	137114800	137115000	Flanking TSS Downstream
+chr6	137115000	137115400	Weak Enhancer
+chr6	137115400	137118600	Quiescent/Low
+chr6	137118600	137120000	Heterochromatin
+chr6	137120000	137125000	Quiescent/Low
+chr6	139675000	139682200	Quiescent/Low
+chr6	139682200	139683200	Weak Enhancer
+chr6	139683200	139684200	Weak transcription
+chr6	139684200	139684800	Weak Enhancer
+chr6	139684800	139685200	Weak transcription
+chr6	139685200	139685800	Weak Enhancer
+chr6	139685800	139688600	Weak transcription
+chr6	139688600	139689200	Weak Enhancer
+chr6	139689200	139689600	Flanking TSS Downstream
+chr6	139689600	139691000	Weak Enhancer
+chr6	139691000	139691400	Flanking TSS Upstream
+chr6	139691400	139691800	Active Enhancer
+chr6	139691800	139692200	Weak Enhancer
+chr6	139692200	139692600	Active Enhancer
+chr6	139692600	139693600	Flanking TSS Upstream
+chr6	139693600	139693800	Active TSS
+chr6	139693800	139694200	Flanking TSS Upstream
+chr6	139694200	139694800	Active TSS
+chr6	139694800	139695000	Flanking TSS Upstream
+chr6	139695000	139695200	Active TSS
+chr6	139695200	139695600	Flanking TSS Upstream
+chr6	139695600	139696200	Active TSS
+chr6	139696200	139696400	Flanking TSS Upstream
+chr6	139696400	139696600	Active TSS
+chr6	139696600	139697800	Flanking TSS Upstream
+chr6	139697800	139698600	Weak Enhancer
+chr6	139698600	139700000	Quiescent/Low
+chr6	151750000	151754400	Strong transcription
+chr6	151754400	151766800	Weak transcription
+chr6	151766800	151767000	Weak Enhancer
+chr6	151767000	151772400	Weak transcription
+chr6	151772400	151772600	Flanking TSS Downstream
+chr6	151772600	151773200	Flanking TSS Upstream
+chr6	151773200	151774200	Active TSS
+chr6	151774200	151774400	Flanking TSS Upstream
+chr6	151774400	151774600	Flanking TSS Downstream
+chr6	151774600	151775000	Weak Enhancer
+chr7	30300000	30318000	Weak transcription
+chr7	30318000	30319200	Weak Enhancer
+chr7	30319200	30319400	Flanking TSS Downstream
+chr7	30319400	30319800	Weak Enhancer
+chr7	30319800	30323000	Weak transcription
+chr7	30323000	30323600	Weak Enhancer
+chr7	30323600	30323800	Flanking TSS Upstream
+chr7	30323800	30324200	Flanking TSS
+chr7	30324200	30325000	Active TSS
+chr7	43600000	43611200	Weak Repressed PolyComb
+chr7	43611200	43612000	Weak Enhancer
+chr7	43612000	43612200	Active Enhancer
+chr7	43612200	43612400	Weak Enhancer
+chr7	43612400	43612800	Active Enhancer
+chr7	43612800	43613000	Weak Enhancer
+chr7	43613000	43617000	Weak transcription
+chr7	43617000	43617400	Weak Enhancer
+chr7	43617400	43620200	Weak Repressed PolyComb
+chr7	43620200	43622000	Repressed PolyComb
+chr7	43622000	43622400	Bivalent/Poised TSS
+chr7	43622400	43622600	Flanking TSS
+chr7	43622600	43623800	Active TSS
+chr7	43623800	43624600	Flanking TSS Upstream
+chr7	43624600	43625000	Weak Enhancer
+chr7	44625000	44645000	Quiescent/Low
+chr7	44645000	44645200	Weak Enhancer
+chr7	44645200	44645400	Flanking TSS Downstream
+chr7	44645400	44646000	Flanking TSS Upstream
+chr7	44646000	44646800	Active TSS
+chr7	44646800	44647200	Flanking TSS Upstream
+chr7	44647200	44647400	Flanking TSS Downstream
+chr7	44647400	44648600	Weak transcription
+chr7	44648600	44649400	Weak Enhancer
+chr7	44649400	44650000	Weak transcription
+chr7	45150000	45150200	Active Enhancer
+chr7	45150200	45151000	Flanking TSS Upstream
+chr7	45151000	45151600	Active TSS
+chr7	45151600	45152200	Flanking TSS Upstream
+chr7	45152200	45152600	Active Enhancer
+chr7	45152600	45175000	Quiescent/Low
+chr7	48000000	48000400	Weak transcription
+chr7	48000400	48005200	Strong transcription
+chr7	48005200	48005800	Genic enhancer
+chr7	48005800	48008400	Strong transcription
+chr7	48008400	48008800	Weak transcription
+chr7	48008800	48010000	Weak Enhancer
+chr7	48010000	48010400	Active Enhancer
+chr7	48010400	48010800	Weak Enhancer
+chr7	48010800	48011200	Genic enhancer
+chr7	48011200	48017800	Strong transcription
+chr7	48017800	48018000	Genic enhancer
+chr7	48018000	48018200	Genic enhancer
+chr7	48018200	48018800	Flanking TSS Upstream
+chr7	48018800	48019200	Active TSS
+chr7	48019200	48019600	Flanking TSS Upstream
+chr7	48019600	48019800	Weak Enhancer
+chr7	48019800	48025000	Quiescent/Low
+chr7	73475000	73476200	Weak transcription
+chr7	73476200	73476800	Active Enhancer
+chr7	73476800	73495800	Quiescent/Low
+chr7	73495800	73496200	Weak Enhancer
+chr7	73496200	73497200	Weak transcription
+chr7	73497200	73497600	Flanking TSS Downstream
+chr7	73497600	73498000	Flanking TSS Upstream
+chr7	73498000	73498400	Flanking TSS
+chr7	73498400	73499200	Flanking TSS Downstream
+chr7	73499200	73500000	Weak Enhancer
+chr7	92450000	92452400	Genic enhancer
+chr7	92452400	92453400	Genic enhancer
+chr7	92453400	92454400	Active Enhancer
+chr7	92454400	92462400	Genic enhancer
+chr7	92462400	92465200	Active TSS
+chr7	92465200	92465600	Flanking TSS Upstream
+chr7	92465600	92466600	Active TSS
+chr7	92466600	92468600	Flanking TSS Upstream
+chr7	92468600	92469000	Active Enhancer
+chr7	92469000	92469400	Flanking TSS Upstream
+chr7	92469400	92469600	Active Enhancer
+chr7	92469600	92469800	Weak Enhancer
+chr7	92469800	92470000	Flanking TSS Downstream
+chr7	92470000	92472200	Weak Enhancer
+chr7	92472200	92473000	Genic enhancer
+chr7	92473000	92474000	Strong transcription
+chr7	92474000	92474800	Weak transcription
+chr7	92474800	92475000	Genic enhancer
+chr7	92850000	92860600	Quiescent/Low
+chr7	92860600	92860800	Weak Enhancer
+chr7	92860800	92861400	Flanking TSS Upstream
+chr7	92861400	92862000	Active TSS
+chr7	92862000	92862400	Flanking TSS Upstream
+chr7	92862400	92862600	Flanking TSS Downstream
+chr7	92862600	92863400	Weak Enhancer
+chr7	92863400	92867800	Weak transcription
+chr7	92867800	92868800	Active Enhancer
+chr7	92868800	92870000	Weak transcription
+chr7	92870000	92870800	Strong transcription
+chr7	92870800	92875000	Weak transcription
+chr7	99510000	99511800	Weak transcription
+chr7	99511800	99513400	Strong transcription
+chr7	99513400	99514800	Genic enhancer
+chr7	99514800	99515600	Weak Enhancer
+chr7	99515600	99516000	Flanking TSS Upstream
+chr7	99516000	99516200	Flanking TSS Downstream
+chr7	99516200	99516800	Flanking TSS Upstream
+chr7	99516800	99517400	Active TSS
+chr7	99517400	99517800	Flanking TSS Upstream
+chr7	99517800	99518000	Flanking TSS Downstream
+chr7	99518000	99518200	Weak Enhancer
+chr7	99518200	99520000	Weak transcription
+chr7	107375000	107375200	Heterochromatin
+chr7	107375200	107382200	Quiescent/Low
+chr7	107382200	107383000	Weak Enhancer
+chr7	107383000	107383200	Active Enhancer
+chr7	107383200	107384000	Flanking TSS Upstream
+chr7	107384000	107384200	Active TSS
+chr7	107384200	107384600	Flanking TSS Upstream
+chr7	107384600	107384800	Active TSS
+chr7	107384800	107386600	Flanking TSS Upstream
+chr7	107386600	107387200	Weak Enhancer
+chr7	107387200	107388000	Weak transcription
+chr7	107388000	107388400	Weak Enhancer
+chr7	107388400	107389200	Weak transcription
+chr7	107389200	107400000	Strong transcription
+chr7	120575000	120581400	Quiescent/Low
+chr7	120581400	120582400	Weak Enhancer
+chr7	120582400	120588600	Quiescent/Low
+chr7	120588600	120589000	Weak Enhancer
+chr7	120589000	120589400	Flanking TSS Downstream
+chr7	120589400	120589800	Flanking TSS Upstream
+chr7	120589800	120591400	Active TSS
+chr7	120591400	120592200	Flanking TSS Upstream
+chr7	120592200	120592800	Active Enhancer
+chr7	120592800	120593200	Weak Enhancer
+chr7	120593200	120593400	Weak transcription
+chr7	120593400	120598200	Strong transcription
+chr7	120598200	120600000	Weak transcription
+chr7	137675000	137675800	Weak Enhancer
+chr7	137675800	137676800	Weak transcription
+chr7	137676800	137677800	Active Enhancer
+chr7	137677800	137678400	Weak Enhancer
+chr7	137678400	137679000	Weak transcription
+chr7	137679000	137680600	Weak Enhancer
+chr7	137680600	137680800	Flanking TSS Downstream
+chr7	137680800	137681600	Flanking TSS Upstream
+chr7	137681600	137682000	Active Enhancer
+chr7	137682000	137682600	Weak Enhancer
+chr7	137682600	137683400	Active Enhancer
+chr7	137683400	137684000	Weak Enhancer
+chr7	137684000	137684400	Active Enhancer
+chr7	137684400	137684600	Flanking TSS Upstream
+chr7	137684600	137684800	Flanking TSS Downstream
+chr7	137684800	137686400	Flanking TSS Upstream
+chr7	137686400	137686600	Active TSS
+chr7	137686600	137686800	Flanking TSS Upstream
+chr7	137686800	137687000	Active TSS
+chr7	137687000	137687400	Flanking TSS
+chr7	137687400	137687600	Flanking TSS Downstream
+chr7	137687600	137688000	Weak Enhancer
+chr7	137688000	137688400	Weak transcription
+chr7	137688400	137689800	Weak Enhancer
+chr7	137689800	137700000	Quiescent/Low
+chr7	140710000	140710400	Strong transcription
+chr7	140710400	140711400	Weak transcription
+chr7	140711400	140713600	Weak Enhancer
+chr7	140713600	140714400	Flanking TSS Upstream
+chr7	140714400	140715000	Active TSS
+chr7	140715000	140715200	Flanking TSS Upstream
+chr7	140715200	140715400	Flanking TSS Downstream
+chr7	140715400	140715600	Flanking TSS
+chr7	140715600	140716000	Weak Repressed PolyComb
+chr7	140716000	140716600	ZNF genes & repeats
+chr7	140716600	140717600	Repressed PolyComb
+chr7	140717600	140720000	Weak Repressed PolyComb
+chr7	141430000	141436800	Weak transcription
+chr7	141436800	141437000	Active Enhancer
+chr7	141437000	141437600	Flanking TSS Upstream
+chr7	141437600	141438600	Active TSS
+chr7	141438600	141439200	Flanking TSS Upstream
+chr7	141439200	141439400	Flanking TSS Downstream
+chr7	141439400	141440000	Genic enhancer
+chr8	38025000	38028800	Strong transcription
+chr8	38028800	38031000	Genic enhancer
+chr8	38031000	38031800	Active Enhancer
+chr8	38031800	38032000	Active Enhancer
+chr8	38032000	38032600	Weak Enhancer
+chr8	38032600	38032800	Active Enhancer
+chr8	38032800	38033400	Flanking TSS Upstream
+chr8	38033400	38034800	Active TSS
+chr8	38034800	38035800	Flanking TSS Upstream
+chr8	38035800	38036400	Flanking TSS Downstream
+chr8	38036400	38037000	Weak Enhancer
+chr8	38037000	38037400	Weak transcription
+chr8	38037400	38037600	Weak Enhancer
+chr8	38037600	38039200	Weak transcription
+chr8	38039200	38039400	Weak Enhancer
+chr8	38039400	38040000	Active Enhancer
+chr8	38040000	38040200	Weak Enhancer
+chr8	38040200	38050000	Weak transcription
+chr8	42000000	42002000	Active Enhancer
+chr8	42002000	42002400	Weak Enhancer
+chr8	42002400	42003400	Weak transcription
+chr8	42003400	42004400	Weak Enhancer
+chr8	42004400	42004800	Weak transcription
+chr8	42004800	42006600	Weak Enhancer
+chr8	42006600	42009000	Weak transcription
+chr8	42009000	42009400	Weak Enhancer
+chr8	42009400	42010200	Flanking TSS Upstream
+chr8	42010200	42010600	Flanking TSS
+chr8	42010600	42011000	Active TSS
+chr8	42011000	42011400	Flanking TSS Upstream
+chr8	42011400	42011800	Flanking TSS Downstream
+chr8	42011800	42012800	Genic enhancer
+chr8	42012800	42017400	Strong transcription
+chr8	42017400	42020000	Weak transcription
+chr8	42020000	42020400	Strong transcription
+chr8	42020400	42021200	Weak transcription
+chr8	42021200	42025000	Strong transcription
+chr8	42125000	42125200	Active Enhancer
+chr8	42125200	42125400	Weak Enhancer
+chr8	42125400	42125600	Active Enhancer
+chr8	42125600	42125800	Weak Enhancer
+chr8	42125800	42127200	Weak transcription
+chr8	42127200	42128000	Weak Enhancer
+chr8	42128000	42128200	Flanking TSS Downstream
+chr8	42128200	42128800	Flanking TSS Upstream
+chr8	42128800	42129000	Active TSS
+chr8	42129000	42130000	Flanking TSS Upstream
+chr8	42130000	42130200	Weak Enhancer
+chr8	42130200	42131200	Weak transcription
+chr8	42131200	42133200	Strong transcription
+chr8	42133200	42137200	Genic enhancer
+chr8	42137200	42138800	Genic enhancer
+chr8	42138800	42139000	Genic enhancer
+chr8	42139000	42141800	Strong transcription
+chr8	42141800	42143600	Weak transcription
+chr8	42143600	42146600	Strong transcription
+chr8	42146600	42150000	Genic enhancer
+chr8	80925000	80928400	Quiescent/Low
+chr8	80928400	80930800	Heterochromatin
+chr8	80930800	80938600	Quiescent/Low
+chr8	80938600	80938800	Weak Enhancer
+chr8	80938800	80939600	Weak transcription
+chr8	80939600	80940400	Genic enhancer
+chr8	80940400	80941000	Weak Enhancer
+chr8	80941000	80941200	Flanking TSS Downstream
+chr8	80941200	80942200	Flanking TSS Upstream
+chr8	80942200	80942600	Active TSS
+chr8	80942600	80943000	Flanking TSS Upstream
+chr8	80943000	80943400	Flanking TSS Downstream
+chr8	80943400	80943600	Weak Enhancer
+chr8	80943600	80945800	Weak transcription
+chr8	80945800	80946200	ZNF genes & repeats
+chr8	80946200	80947200	Weak transcription
+chr8	80947200	80950000	Quiescent/Low
+chr8	91000000	91012400	Quiescent/Low
+chr8	91012400	91012800	Weak Enhancer
+chr8	91012800	91013000	Active Enhancer
+chr8	91013000	91013200	Flanking TSS Downstream
+chr8	91013200	91013600	Flanking TSS Upstream
+chr8	91013600	91014400	Active TSS
+chr8	91014400	91015200	Flanking TSS Upstream
+chr8	91015200	91015600	Active Enhancer
+chr8	91015600	91016000	Weak Enhancer
+chr8	91016000	91017600	Weak transcription
+chr8	91017600	91018600	Weak Enhancer
+chr8	91018600	91025000	Weak transcription
+chr8	95825000	95831600	Quiescent/Low
+chr8	95831600	95832000	Flanking TSS Downstream
+chr8	95832000	95832200	Weak Enhancer
+chr8	95832200	95834600	Weak transcription
+chr8	95834600	95835000	Flanking TSS Downstream
+chr8	95835000	95835200	Flanking TSS Upstream
+chr8	95835200	95836000	Active TSS
+chr8	95836000	95836800	Flanking TSS Upstream
+chr8	95836800	95837200	Flanking TSS Downstream
+chr8	95837200	95838200	Weak Enhancer
+chr8	95838200	95839400	Weak transcription
+chr8	95839400	95844000	Strong transcription
+chr8	95844000	95846400	Genic enhancer
+chr8	95846400	95850000	Strong transcription
+chr8	101150000	101153000	Quiescent/Low
+chr8	101153000	101156000	Weak transcription
+chr8	101156000	101156600	Flanking TSS Downstream
+chr8	101156600	101157400	Weak Enhancer
+chr8	101157400	101158400	Flanking TSS Downstream
+chr8	101158400	101158600	Weak Enhancer
+chr8	101158600	101161600	Weak transcription
+chr8	101161600	101161800	Weak Enhancer
+chr8	101161800	101162200	Flanking TSS Upstream
+chr8	101162200	101162400	Active TSS
+chr8	101162400	101162600	Flanking TSS Upstream
+chr8	101162600	101163200	Active TSS
+chr8	101163200	101163600	Flanking TSS Upstream
+chr8	101163600	101163800	Flanking TSS Downstream
+chr8	101163800	101164000	Weak Enhancer
+chr8	101164000	101170000	Weak transcription
+chr8	101170000	101170200	Flanking TSS Downstream
+chr8	101170200	101170800	Flanking TSS Upstream
+chr8	101170800	101171000	Weak Enhancer
+chr8	101171000	101175000	Quiescent/Low
+chr8	101950000	101955600	Strong transcription
+chr8	101955600	101961000	Genic enhancer
+chr8	101961000	101961200	Weak Enhancer
+chr8	101961200	101962000	Flanking TSS Downstream
+chr8	101962000	101962400	Flanking TSS Upstream
+chr8	101962400	101965400	Active TSS
+chr8	101965400	101966200	Flanking TSS Upstream
+chr8	101966200	101966800	Active Enhancer
+chr8	101966800	101967000	Weak Enhancer
+chr8	101967000	101975000	Quiescent/Low
+chr8	103250000	103250800	Flanking TSS Upstream
+chr8	103250800	103252200	Active TSS
+chr8	103252200	103253200	Flanking TSS Upstream
+chr8	103253200	103253600	Active Enhancer
+chr8	103253600	103255400	Weak Enhancer
+chr8	103255400	103256000	Weak transcription
+chr8	103256000	103269000	Strong transcription
+chr8	103269000	103269800	Genic enhancer
+chr8	103269800	103275000	Strong transcription
+chr8	128725000	128731400	Quiescent/Low
+chr8	128731400	128734400	Heterochromatin
+chr8	128734400	128746000	Quiescent/Low
+chr8	128746000	128746600	Flanking TSS Downstream
+chr8	128746600	128747400	Flanking TSS Upstream
+chr8	128747400	128747600	Active TSS
+chr8	128747600	128748400	Flanking TSS Upstream
+chr8	128748400	128748800	Active TSS
+chr8	128748800	128749000	Flanking TSS Upstream
+chr8	128749000	128750000	Active TSS
+chr8	135725000	135725400	Active TSS
+chr8	135725400	135726200	Flanking TSS Upstream
+chr8	135726200	135726600	Active Enhancer
+chr8	135726600	135727200	Weak Enhancer
+chr8	135727200	135728600	Weak transcription
+chr8	135728600	135729800	Weak Enhancer
+chr8	135729800	135730200	Weak transcription
+chr8	135730200	135731400	Weak Enhancer
+chr8	135731400	135733600	Active Enhancer
+chr8	135733600	135735000	Weak Enhancer
+chr8	135735000	135744000	Quiescent/Low
+chr8	135744000	135744800	Weak Enhancer
+chr8	135744800	135750000	Quiescent/Low
+chr9	4975000	4982600	Quiescent/Low
+chr9	4982600	4983800	Weak Enhancer
+chr9	4983800	4984000	Flanking TSS Downstream
+chr9	4984000	4984600	Flanking TSS Upstream
+chr9	4984600	4985600	Active TSS
+chr9	4985600	4985800	Flanking TSS Upstream
+chr9	4985800	4986000	Active TSS
+chr9	4986000	4987400	Flanking TSS Upstream
+chr9	4987400	4987800	Weak Enhancer
+chr9	4987800	4988000	Flanking TSS Downstream
+chr9	4988000	4988800	Flanking TSS Upstream
+chr9	4988800	4989200	Active Enhancer
+chr9	4989200	4989800	Weak Enhancer
+chr9	4989800	4991800	Weak transcription
+chr9	4991800	4993200	ZNF genes & repeats
+chr9	4993200	4999600	Weak transcription
+chr9	4999600	5000000	ZNF genes & repeats
+chr9	15400000	15400600	Quiescent/Low
+chr9	15400600	15401000	Active Enhancer
+chr9	15401000	15403400	Quiescent/Low
+chr9	15403400	15404200	Weak transcription
+chr9	15404200	15404400	Heterochromatin
+chr9	15404400	15405400	ZNF genes & repeats
+chr9	15405400	15406200	Heterochromatin
+chr9	15406200	15412600	Quiescent/Low
+chr9	15412600	15414800	Heterochromatin
+chr9	15414800	15421800	Quiescent/Low
+chr9	15421800	15422000	Weak Enhancer
+chr9	15422000	15422200	Active Enhancer
+chr9	15422200	15422600	Flanking TSS Upstream
+chr9	15422600	15423400	Active TSS
+chr9	15423400	15424200	Flanking TSS Upstream
+chr9	15424200	15424400	Active Enhancer
+chr9	15424400	15425000	Weak Enhancer
+chr9	36400000	36400400	Flanking TSS Upstream
+chr9	36400400	36401400	Active TSS
+chr9	36401400	36401800	Flanking TSS Upstream
+chr9	36401800	36402200	Active Enhancer
+chr9	36402200	36402400	Weak Enhancer
+chr9	36402400	36407400	Weak transcription
+chr9	36407400	36409800	Active Enhancer
+chr9	36409800	36419600	Weak transcription
+chr9	36419600	36421200	Strong transcription
+chr9	36421200	36425000	Weak transcription
+chr9	79000000	79004200	Strong transcription
+chr9	79004200	79005400	Weak transcription
+chr9	79005400	79005600	Weak Enhancer
+chr9	79005600	79006200	Active Enhancer
+chr9	79006200	79008400	Weak Enhancer
+chr9	79008400	79009000	Flanking TSS Upstream
+chr9	79009000	79009600	Active TSS
+chr9	79009600	79010600	Flanking TSS Upstream
+chr9	79010600	79011000	Weak Enhancer
+chr9	79011000	79018400	Weak transcription
+chr9	79018400	79018800	Active Enhancer
+chr9	79018800	79019000	Weak Enhancer
+chr9	79019000	79025000	Quiescent/Low
+chr9	79775000	79791600	Quiescent/Low
+chr9	79791600	79792000	Flanking TSS Downstream
+chr9	79792000	79792600	Flanking TSS
+chr9	79792600	79794400	Flanking TSS Upstream
+chr9	79794400	79796000	Weak Enhancer
+chr9	79796000	79800000	Quiescent/Low
+chr9	92220000	92221800	Flanking TSS Downstream
+chr9	92221800	92222800	Weak Enhancer
+chr9	92222800	92226800	Quiescent/Low
+chr9	92226800	92227000	Heterochromatin
+chr9	92227000	92227600	ZNF genes & repeats
+chr9	92227600	92228000	Heterochromatin
+chr9	92228000	92230000	Quiescent/Low
+chr9	101000000	101002600	Weak transcription
+chr9	101002600	101004400	Weak Enhancer
+chr9	101004400	101006200	Weak transcription
+chr9	101006200	101006400	Genic enhancer
+chr9	101006400	101008000	Weak transcription
+chr9	101008000	101008400	Weak Enhancer
+chr9	101008400	101009200	Active Enhancer
+chr9	101009200	101009600	Weak Enhancer
+chr9	101009600	101013200	Active Enhancer
+chr9	101013200	101015000	Weak transcription
+chr9	101015000	101016600	Weak Enhancer
+chr9	101016600	101017400	Flanking TSS Downstream
+chr9	101017400	101017600	Flanking TSS Upstream
+chr9	101017600	101017800	Active TSS
+chr9	101017800	101018000	Flanking TSS Downstream
+chr9	101018000	101018600	Active TSS
+chr9	101018600	101019400	Flanking TSS Upstream
+chr9	101019400	101019800	Weak Enhancer
+chr9	101019800	101025000	Quiescent/Low
+chr9	130150000	130150200	Weak Repressed PolyComb
+chr9	130150200	130153600	Weak Enhancer
+chr9	130153600	130154000	Weak transcription
+chr9	130154000	130154600	Weak Enhancer
+chr9	130154600	130154800	Bivalent Enhancer
+chr9	130154800	130157200	Weak Repressed PolyComb
+chr9	130157200	130158400	Repressed PolyComb
+chr9	130158400	130158600	Bivalent/Poised TSS
+chr9	130158600	130159000	Flanking TSS Downstream
+chr9	130159000	130159600	Flanking TSS
+chr9	130159600	130160000	Flanking TSS Upstream
+chr9	130160000	130160600	Flanking TSS Downstream
+chr9	130160600	130160800	Bivalent/Poised TSS
+chr9	130160800	130161000	Bivalent Enhancer
+chr9	130161000	130161600	Repressed PolyComb
+chr9	130161600	130164600	Weak transcription
+chr9	130164600	130165200	Weak Enhancer
+chr9	130165200	130169800	Weak transcription
+chr9	130169800	130175000	Quiescent/Low
+chr9	130675000	130675400	Strong transcription
+chr9	130675400	130677000	Weak transcription
+chr9	130677000	130677800	Weak Enhancer
+chr9	130677800	130678400	Flanking TSS Downstream
+chr9	130678400	130679200	Flanking TSS Upstream
+chr9	130679200	130679600	Flanking TSS
+chr9	130679600	130679800	Flanking TSS Downstream
+chr9	130679800	130682000	Weak Enhancer
+chr9	130682000	130683800	Weak transcription
+chr9	130683800	130684000	Weak Enhancer
+chr9	130684000	130684400	Flanking TSS Downstream
+chr9	130684400	130684600	Bivalent/Poised TSS
+chr9	130684600	130685000	Repressed PolyComb
+chr9	130685000	130685800	Weak Repressed PolyComb
+chr9	130685800	130689000	Repressed PolyComb
+chr9	130689000	130689200	Bivalent Enhancer
+chr9	130689200	130689800	Bivalent/Poised TSS
+chr9	130689800	130690000	Bivalent Enhancer
+chr9	130690000	130690200	Bivalent/Poised TSS
+chr9	130690200	130690800	Bivalent Enhancer
+chr9	130690800	130692400	Repressed PolyComb
+chr9	130692400	130692600	Bivalent Enhancer
+chr9	130692600	130692800	Bivalent/Poised TSS
+chr9	130692800	130693600	Flanking TSS Downstream
+chr9	130693600	130694000	Weak Enhancer
+chr9	130694000	130698200	Weak transcription
+chr9	130698200	130699000	Weak Enhancer
+chr9	130699000	130699200	Flanking TSS Downstream
+chr9	130699200	130700000	Flanking TSS Upstream
+chr9	130700000	130700200	Active TSS
+chr9	130700200	130700400	Flanking TSS Upstream
+chr9	130700400	130700600	Flanking TSS Downstream
+chr9	130700600	130700800	Weak Enhancer
+chr9	130700800	130704400	Weak transcription
+chr9	130704400	130706600	Weak Enhancer
+chr9	130706600	130706800	Weak transcription
+chr9	130706800	130707800	Strong transcription
+chr9	130707800	130710000	Weak transcription
+chr9	130875000	130875400	Weak transcription
+chr9	130875400	130877200	Strong transcription
+chr9	130877200	130880200	Weak transcription
+chr9	130880200	130880800	Weak Enhancer
+chr9	130880800	130881800	Weak transcription
+chr9	130881800	130886800	Strong transcription
+chr9	130886800	130887200	Weak transcription
+chr9	130887200	130888400	Weak Enhancer
+chr9	130888400	130888800	Flanking TSS Downstream
+chr9	130888800	130889200	Weak Enhancer
+chr9	130889200	130889400	Flanking TSS Downstream
+chr9	130889400	130889800	Flanking TSS Upstream
+chr9	130890000	130890200	Active TSS
+chr9	130889800	130890200	Active TSS
+chr9	130890200	130890400	Flanking TSS Upstream
+chr9	130890200	130890400	Flanking TSS Upstream
+chr9	130890400	130890800	Active TSS
+chr9	130890400	130890800	Active TSS
+chr9	130890800	130891200	Flanking TSS Upstream
+chr9	130890800	130891200	Flanking TSS Upstream
+chr9	130891200	130891600	Flanking TSS Downstream
+chr9	130891200	130891600	Flanking TSS Downstream
+chr9	130891600	130897800	Quiescent/Low
+chr9	130891600	130897800	Quiescent/Low
+chr9	130897800	130898200	Weak Enhancer
+chr9	130897800	130898200	Weak Enhancer
+chr9	130898200	130900000	Quiescent/Low
+chr9	130898200	130900000	Quiescent/Low
+chr9	132400000	132400200	Genic enhancer
+chr9	132400200	132402000	Strong transcription
+chr9	132402000	132402200	Weak transcription
+chr9	132402200	132403200	Weak Enhancer
+chr9	132403200	132403400	Flanking TSS Downstream
+chr9	132403400	132404200	Flanking TSS Upstream
+chr9	132404200	132404400	Active TSS
+chr9	132404400	132404600	Flanking TSS
+chr9	132404600	132405200	Flanking TSS Downstream
+chr9	132405200	132405400	Weak Enhancer
+chr9	132405400	132421400	Quiescent/Low
+chr9	132421400	132423400	Weak Repressed PolyComb
+chr9	132423400	132424000	Repressed PolyComb
+chr9	132424000	132424600	Weak Repressed PolyComb
+chr9	132424600	132425000	Repressed PolyComb
+chr9	133575000	133580600	Strong transcription
+chr9	133580600	133587600	Weak transcription
+chr9	133587600	133588000	Flanking TSS Downstream
+chr9	133588000	133588800	Active TSS
+chr9	133588800	133589400	Flanking TSS Upstream
+chr9	133589400	133590600	Flanking TSS Downstream
+chr9	133590600	133591000	Weak Enhancer
+chr9	133591000	133591200	Flanking TSS Downstream
+chr9	133591200	133592000	Weak Enhancer
+chr9	133592000	133600000	Quiescent/Low
+chr10	15125000	15126200	Quiescent/Low
+chr10	15126200	15126600	Flanking TSS
+chr10	15126600	15130000	Weak transcription
+chr10	15130000	15130200	Weak Enhancer
+chr10	15130200	15131200	Flanking TSS Downstream
+chr10	15131200	15138200	Weak Repressed PolyComb
+chr10	15138200	15138400	Weak Enhancer
+chr10	15138400	15138600	Flanking TSS Downstream
+chr10	15138600	15139000	Flanking TSS Upstream
+chr10	15139000	15139800	Active TSS
+chr10	15139800	15140600	Flanking TSS Upstream
+chr10	15140600	15141400	Active Enhancer
+chr10	15141400	15141600	Weak Enhancer
+chr10	15141600	15141800	Active Enhancer
+chr10	15141800	15142000	Weak transcription
+chr10	15142000	15142200	Active Enhancer
+chr10	15142200	15142400	Weak transcription
+chr10	15142400	15147800	Strong transcription
+chr10	15147800	15148600	Weak transcription
+chr10	15148600	15150000	Strong transcription
+chr10	17250000	17251000	Weak Enhancer
+chr10	17251000	17254600	Weak transcription
+chr10	17254600	17254800	Weak Enhancer
+chr10	17254800	17255000	Flanking TSS Downstream
+chr10	17255000	17255600	Weak Enhancer
+chr10	17255600	17256600	Weak transcription
+chr10	17256600	17256800	Weak Enhancer
+chr10	17256800	17258800	Active Enhancer
+chr10	17258800	17259200	Flanking TSS Upstream
+chr10	17259200	17260200	Active Enhancer
+chr10	17260200	17260400	Active Enhancer
+chr10	17260400	17268400	Weak transcription
+chr10	17268400	17269000	Weak Enhancer
+chr10	17269000	17269400	Flanking TSS Downstream
+chr10	17269400	17270400	Flanking TSS Upstream
+chr10	17270400	17272200	Active TSS
+chr10	17272200	17272400	Flanking TSS Upstream
+chr10	17272400	17274800	Genic enhancer
+chr10	17274800	17275000	Genic enhancer
+chr10	20100000	20100800	Quiescent/Low
+chr10	20100800	20102800	Weak Enhancer
+chr10	20102800	20103600	Flanking TSS Downstream
+chr10	20103600	20104400	Flanking TSS Upstream
+chr10	20104400	20105400	Active TSS
+chr10	20105400	20105600	Flanking TSS Upstream
+chr10	20105600	20106400	Active TSS
+chr10	20106400	20106600	Flanking TSS Upstream
+chr10	20106600	20106800	Active TSS
+chr10	20106800	20107600	Flanking TSS Upstream
+chr10	20107600	20108000	Flanking TSS Downstream
+chr10	20108000	20108200	Flanking TSS Upstream
+chr10	20108200	20108400	Active Enhancer
+chr10	20108400	20109200	Weak Enhancer
+chr10	20109200	20110200	Weak transcription
+chr10	20110200	20110600	Active Enhancer
+chr10	20110600	20112600	Weak transcription
+chr10	20112600	20113800	Weak Enhancer
+chr10	20113800	20114800	Active Enhancer
+chr10	20114800	20116800	Weak Enhancer
+chr10	20116800	20117200	Weak transcription
+chr10	20117200	20118000	Weak Enhancer
+chr10	20118000	20119400	Weak transcription
+chr10	20119400	20120600	ZNF genes & repeats
+chr10	20120600	20121600	Weak transcription
+chr10	20121600	20122400	Weak Enhancer
+chr10	20122400	20125000	Weak transcription
+chr10	22275000	22275800	ZNF genes & repeats
+chr10	22275800	22276000	Heterochromatin
+chr10	22276000	22278000	Weak transcription
+chr10	22278000	22278400	Active Enhancer
+chr10	22278400	22278600	Active Enhancer
+chr10	22278600	22278800	Weak Enhancer
+chr10	22278800	22279000	Weak transcription
+chr10	22279000	22279600	Weak Enhancer
+chr10	22279600	22284000	Weak transcription
+chr10	22284000	22284600	Active Enhancer
+chr10	22284600	22285600	Weak Enhancer
+chr10	22285600	22286000	Weak transcription
+chr10	22286000	22286600	Weak Enhancer
+chr10	22286600	22290200	Weak transcription
+chr10	22290200	22290400	Weak Enhancer
+chr10	22290400	22291200	Flanking TSS Downstream
+chr10	22291200	22292000	Flanking TSS Upstream
+chr10	22292000	22292800	Active TSS
+chr10	22292800	22293200	Flanking TSS Upstream
+chr10	22293200	22293400	Active Enhancer
+chr10	22293400	22293600	Weak Enhancer
+chr10	22293600	22299600	Weak transcription
+chr10	22299600	22300000	Weak Enhancer
+chr10	22600000	22602000	Quiescent/Low
+chr10	22602000	22602200	Weak Enhancer
+chr10	22602200	22604200	Active Enhancer
+chr10	22604200	22605000	Flanking TSS Upstream
+chr10	22605000	22605800	Active TSS
+chr10	22605800	22606800	Flanking TSS Upstream
+chr10	22606800	22607400	Flanking TSS Downstream
+chr10	22607400	22608600	Weak Enhancer
+chr10	22608600	22608800	Flanking TSS Downstream
+chr10	22608800	22609400	Flanking TSS Upstream
+chr10	22609400	22609600	Active TSS
+chr10	22609600	22610200	Flanking TSS
+chr10	22610200	22610600	Active TSS
+chr10	22610600	22611000	Flanking TSS
+chr10	22611000	22612800	Bivalent/Poised TSS
+chr10	22612800	22613800	Flanking TSS Downstream
+chr10	22613800	22614400	Flanking TSS Upstream
+chr10	22614400	22614600	Active TSS
+chr10	22614600	22615200	Flanking TSS Upstream
+chr10	22615200	22615600	Flanking TSS Downstream
+chr10	22615600	22615800	Weak Enhancer
+chr10	22615800	22616600	Weak transcription
+chr10	22616600	22619200	Strong transcription
+chr10	22619200	22621200	Weak transcription
+chr10	22621200	22622000	Weak Enhancer
+chr10	22622000	22623400	Flanking TSS Downstream
+chr10	22623400	22623800	Weak Enhancer
+chr10	22623800	22624000	Flanking TSS Downstream
+chr10	22624000	22625000	Bivalent/Poised TSS
+chr10	30700000	30703200	Quiescent/Low
+chr10	30703200	30703400	Weak Enhancer
+chr10	30703400	30706000	Quiescent/Low
+chr10	30706000	30706200	Weak Enhancer
+chr10	30706200	30708400	Active Enhancer
+chr10	30708400	30708600	Weak Enhancer
+chr10	30708600	30711000	Weak transcription
+chr10	30711000	30713600	Weak Enhancer
+chr10	30713600	30714000	Weak transcription
+chr10	30714000	30716600	Weak Enhancer
+chr10	30716600	30717200	Active Enhancer
+chr10	30717200	30718200	Weak Enhancer
+chr10	30718200	30719600	Weak transcription
+chr10	30719600	30721000	Weak Enhancer
+chr10	30721000	30721400	Weak transcription
+chr10	30721400	30721600	Weak Enhancer
+chr10	30721600	30721800	Flanking TSS Downstream
+chr10	30721800	30722600	Flanking TSS Upstream
+chr10	30722600	30723600	Active TSS
+chr10	30723600	30725000	Flanking TSS Upstream
+chr10	46150000	46152200	Weak transcription
+chr10	46152200	46154800	ZNF genes & repeats
+chr10	46154800	46155600	Weak transcription
+chr10	46155600	46157000	ZNF genes & repeats
+chr10	46157000	46158200	Strong transcription
+chr10	46158200	46165000	Weak transcription
+chr10	46165000	46165800	Weak Enhancer
+chr10	46165800	46167000	Weak transcription
+chr10	46167000	46167200	Weak Enhancer
+chr10	46167200	46167800	Flanking TSS Upstream
+chr10	46167800	46168400	Active TSS
+chr10	46168400	46168600	Flanking TSS Upstream
+chr10	46168600	46168800	Weak Enhancer
+chr10	46168800	46175000	Quiescent/Low
+chr10	70650000	70659800	Quiescent/Low
+chr10	70659800	70660000	Weak Enhancer
+chr10	70660000	70660200	Active Enhancer
+chr10	70660200	70660800	Flanking TSS Upstream
+chr10	70660800	70661400	Active TSS
+chr10	70661400	70662400	Flanking TSS Upstream
+chr10	70662400	70662600	Flanking TSS Downstream
+chr10	70662600	70663000	Weak Enhancer
+chr10	70663000	70665800	Weak transcription
+chr10	70665800	70675000	Strong transcription
+chr10	70925000	70932600	Strong transcription
+chr10	70932600	70934000	Weak transcription
+chr10	70934000	70934800	Weak Enhancer
+chr10	70934800	70938800	Weak transcription
+chr10	70938800	70939000	Weak Enhancer
+chr10	70939000	70939600	Flanking TSS Upstream
+chr10	70939600	70940400	Active TSS
+chr10	70940400	70941600	Flanking TSS Upstream
+chr10	70941600	70941800	Weak Enhancer
+chr10	70941800	70942000	Active Enhancer
+chr10	70942000	70942600	Weak Enhancer
+chr10	70942600	70943200	Genic enhancer
+chr10	70943200	70950000	Strong transcription
+chr10	91000000	91001000	Strong transcription
+chr10	91001000	91001600	Weak transcription
+chr10	91001600	91004400	Weak Enhancer
+chr10	91004400	91008600	Weak transcription
+chr10	91008600	91009400	Weak Enhancer
+chr10	91009400	91010400	Weak transcription
+chr10	91010400	91010600	Weak Enhancer
+chr10	91010600	91011000	Flanking TSS Downstream
+chr10	91011000	91011400	Flanking TSS Upstream
+chr10	91011400	91011600	Active TSS
+chr10	91011600	91012000	Flanking TSS
+chr10	91012000	91012400	Weak Enhancer
+chr10	91012400	91015000	Heterochromatin
+chr10	91015000	91020400	Quiescent/Low
+chr10	91020400	91020800	Weak Enhancer
+chr10	91020800	91023200	Quiescent/Low
+chr10	91023200	91025000	Heterochromatin
+chr10	93650000	93650200	Repressed PolyComb
+chr10	93650200	93652200	Weak Repressed PolyComb
+chr10	93652200	93661000	Quiescent/Low
+chr10	93661000	93661400	Weak Enhancer
+chr10	93661400	93661600	Active Enhancer
+chr10	93661600	93661800	Weak Enhancer
+chr10	93661800	93662200	Active Enhancer
+chr10	93662200	93662600	Weak Enhancer
+chr10	93662600	93667000	Weak transcription
+chr10	93667000	93667200	Weak Enhancer
+chr10	93667200	93667600	Flanking TSS Downstream
+chr10	93667600	93668200	Flanking TSS Upstream
+chr10	93668200	93668800	Active TSS
+chr10	93668800	93669400	Flanking TSS Upstream
+chr10	93669400	93670000	Flanking TSS Downstream
+chr10	93670000	93670200	Weak Enhancer
+chr10	93670200	93672800	Weak transcription
+chr10	93672800	93673000	Weak Enhancer
+chr10	93673000	93673200	Bivalent Enhancer
+chr10	93673200	93674600	Repressed PolyComb
+chr10	93674600	93675000	Weak Repressed PolyComb
+chr10	103800000	103805000	Weak transcription
+chr10	103805000	103805400	Active Enhancer
+chr10	103805400	103812400	Weak transcription
+chr10	103812400	103814800	Weak Enhancer
+chr10	103814800	103815000	Flanking TSS Downstream
+chr10	103815000	103815600	Flanking TSS Upstream
+chr10	103815600	103816000	Active TSS
+chr10	103816000	103816400	Flanking TSS Upstream
+chr10	103816400	103816600	Active Enhancer
+chr10	103816600	103816800	Active Enhancer
+chr10	103816800	103817600	Weak transcription
+chr10	103817600	103817800	Active Enhancer
+chr10	103817800	103824200	Weak transcription
+chr10	103824200	103824400	Weak Enhancer
+chr10	103824400	103824800	Flanking TSS Downstream
+chr10	103824800	103825000	Flanking TSS Upstream
+chr10	103975000	103985200	Quiescent/Low
+chr10	103985200	103985600	Weak Enhancer
+chr10	103985600	103986400	Flanking TSS Downstream
+chr10	103986400	103986800	Bivalent Enhancer
+chr10	103986800	103989600	Repressed PolyComb
+chr10	103989600	103989800	Bivalent Enhancer
+chr10	103989800	103991800	Bivalent/Poised TSS
+chr10	103991800	104000000	Repressed PolyComb
+chr10	112825000	112826200	Quiescent/Low
+chr10	112826200	112833000	Weak Repressed PolyComb
+chr10	112833000	112835400	Repressed PolyComb
+chr10	112835400	112835600	Bivalent Enhancer
+chr10	112835600	112835800	Bivalent/Poised TSS
+chr10	112835800	112837800	Flanking TSS Downstream
+chr10	112837800	112838600	Bivalent/Poised TSS
+chr10	112838600	112839200	Repressed PolyComb
+chr10	112839200	112839400	Bivalent Enhancer
+chr10	112839400	112840000	Weak Enhancer
+chr10	112840000	112844600	Quiescent/Low
+chr10	112844600	112847000	Heterochromatin
+chr10	112847000	112850000	Quiescent/Low
+chr11	3850000	3851800	Genic enhancer
+chr11	3851800	3854000	Active Enhancer
+chr11	3854000	3855000	Genic enhancer
+chr11	3855000	3855200	Flanking TSS Upstream
+chr11	3855200	3855400	Active Enhancer
+chr11	3855400	3857200	Flanking TSS Upstream
+chr11	3857200	3858200	Active Enhancer
+chr11	3858200	3861800	Flanking TSS Upstream
+chr11	3861800	3862800	Active TSS
+chr11	3862800	3863400	Flanking TSS Upstream
+chr11	3863400	3864600	Weak Enhancer
+chr11	3864600	3874000	Quiescent/Low
+chr11	3874000	3874800	Weak Enhancer
+chr11	3874800	3875000	Active Enhancer
+chr11	10550000	10553400	Strong transcription
+chr11	10553400	10554400	Weak transcription
+chr11	10554400	10554800	Strong transcription
+chr11	10554800	10555600	Weak transcription
+chr11	10555600	10556800	Weak Enhancer
+chr11	10556800	10557200	Weak transcription
+chr11	10557200	10558600	Weak Enhancer
+chr11	10558600	10561400	Weak transcription
+chr11	10561400	10561600	Weak Enhancer
+chr11	10561600	10562200	Flanking TSS Upstream
+chr11	10562200	10563000	Active TSS
+chr11	10563000	10563200	Flanking TSS Upstream
+chr11	10563200	10563400	Flanking TSS Downstream
+chr11	10563400	10564000	Quiescent/Low
+chr11	10564000	10565800	Heterochromatin
+chr11	10565800	10566200	ZNF genes & repeats
+chr11	10566200	10567400	Weak Enhancer
+chr11	10567400	10573000	Quiescent/Low
+chr11	10573000	10573400	Heterochromatin
+chr11	10573400	10574000	ZNF genes & repeats
+chr11	10574000	10574400	Heterochromatin
+chr11	10574400	10575000	Quiescent/Low
+chr11	10750000	10752800	Weak transcription
+chr11	10752800	10753000	Weak Enhancer
+chr11	10753000	10753200	Weak transcription
+chr11	10753200	10754000	ZNF genes & repeats
+chr11	10754000	10756200	Weak transcription
+chr11	10756200	10757200	Weak Enhancer
+chr11	10757200	10757400	Flanking TSS Downstream
+chr11	10757400	10758200	Weak Enhancer
+chr11	10758200	10762200	Weak transcription
+chr11	10762200	10763600	Weak Enhancer
+chr11	10763600	10765000	Active Enhancer
+chr11	10765000	10765800	Flanking TSS Upstream
+chr11	10765800	10766000	Flanking TSS Downstream
+chr11	10766000	10769000	Weak Enhancer
+chr11	10769000	10769200	Flanking TSS Downstream
+chr11	10769200	10771600	Weak Enhancer
+chr11	10771600	10772000	Active Enhancer
+chr11	10772000	10772600	Flanking TSS Upstream
+chr11	10772600	10773200	Active TSS
+chr11	10773200	10773600	Flanking TSS Upstream
+chr11	10773600	10774600	Flanking TSS Downstream
+chr11	10774600	10775000	Genic enhancer
+chr11	17075000	17092600	Quiescent/Low
+chr11	17092600	17095000	Weak transcription
+chr11	17095000	17096600	Strong transcription
+chr11	17096600	17097200	Genic enhancer
+chr11	17097200	17097600	Genic enhancer
+chr11	17097600	17098000	Active Enhancer
+chr11	17098000	17098600	Flanking TSS Upstream
+chr11	17098600	17099400	Active TSS
+chr11	17099400	17100000	Flanking TSS Upstream
+chr11	18525000	18538600	Strong transcription
+chr11	18538600	18539800	Weak transcription
+chr11	18539800	18540800	Strong transcription
+chr11	18540800	18544200	Weak transcription
+chr11	18544200	18545800	Strong transcription
+chr11	18545800	18546600	Genic enhancer
+chr11	18546600	18547200	Weak Enhancer
+chr11	18547200	18548000	Flanking TSS Upstream
+chr11	18548000	18548800	Active TSS
+chr11	18548800	18549400	Flanking TSS Upstream
+chr11	18549400	18549600	Active Enhancer
+chr11	18549600	18549800	Weak Enhancer
+chr11	18549800	18550000	Weak transcription
+chr11	34375000	34375200	Weak Repressed PolyComb
+chr11	34375200	34377600	Repressed PolyComb
+chr11	34377600	34377800	Bivalent Enhancer
+chr11	34377800	34378000	Bivalent/Poised TSS
+chr11	34378000	34378200	Bivalent Enhancer
+chr11	34378200	34379200	Bivalent/Poised TSS
+chr11	34379200	34379600	Flanking TSS Downstream
+chr11	34379600	34379800	Flanking TSS
+chr11	34379800	34381400	Flanking TSS Downstream
+chr11	34381400	34382000	Weak Enhancer
+chr11	34382000	34397000	Quiescent/Low
+chr11	34397000	34397600	Heterochromatin
+chr11	34397600	34400000	ZNF genes & repeats
+chr11	34925000	34929600	ZNF genes & repeats
+chr11	34929600	34936000	Weak transcription
+chr11	34936000	34936600	Weak Enhancer
+chr11	34936600	34936800	Flanking TSS Downstream
+chr11	34936800	34937600	Flanking TSS Upstream
+chr11	34937600	34938400	Active TSS
+chr11	34938400	34939000	Flanking TSS Upstream
+chr11	34939000	34939600	Active Enhancer
+chr11	34939600	34941400	Weak transcription
+chr11	34941400	34942000	Strong transcription
+chr11	34942000	34945600	Weak transcription
+chr11	34945600	34948800	Weak Enhancer
+chr11	34948800	34949400	Weak transcription
+chr11	34949400	34950000	Weak Enhancer
+chr11	65140000	65144200	Weak transcription
+chr11	65144200	65145000	Weak Enhancer
+chr11	65145000	65145800	Active Enhancer
+chr11	65145800	65148200	Weak Enhancer
+chr11	65148200	65148800	Active Enhancer
+chr11	65148800	65149200	Weak Enhancer
+chr11	65149200	65150000	Flanking TSS Upstream
+chr11	77700000	77702400	Strong transcription
+chr11	77702400	77704000	Weak transcription
+chr11	77704000	77704800	Weak Enhancer
+chr11	77704800	77705000	Flanking TSS Downstream
+chr11	77705000	77705400	Flanking TSS Upstream
+chr11	77705400	77706200	Active TSS
+chr11	77706200	77706400	Flanking TSS Upstream
+chr11	77706400	77706600	Active Enhancer
+chr11	77706600	77706800	Weak Enhancer
+chr11	77706800	77725000	Quiescent/Low
+chr12	3975000	3975600	ZNF genes & repeats
+chr12	3975600	3978200	Weak transcription
+chr12	3978200	3978600	Weak Enhancer
+chr12	3978600	3979000	Flanking TSS Downstream
+chr12	3979000	3980200	Flanking TSS Upstream
+chr12	3980200	3980400	Flanking TSS Downstream
+chr12	3980400	3982200	Flanking TSS Upstream
+chr12	3982200	3982800	Active TSS
+chr12	3982800	3983200	Flanking TSS Upstream
+chr12	3983200	3983400	Weak Enhancer
+chr12	3983400	3986000	Weak transcription
+chr12	3986000	3986400	Weak Enhancer
+chr12	3986400	3987000	Weak transcription
+chr12	3987000	3988000	ZNF genes & repeats
+chr12	3988000	3988600	Weak transcription
+chr12	3988600	3989600	Active Enhancer
+chr12	3989600	3990800	Weak Enhancer
+chr12	3990800	3991200	Weak transcription
+chr12	3991200	3992800	Weak Enhancer
+chr12	3992800	3994400	Weak transcription
+chr12	3994400	3994600	Weak Enhancer
+chr12	3994600	3994800	Flanking TSS Downstream
+chr12	3994800	3995200	Weak Enhancer
+chr12	3995200	3997800	Weak transcription
+chr12	3997800	3998200	Weak Enhancer
+chr12	3998200	4000000	Weak transcription
+chr12	25400000	25401400	Weak transcription
+chr12	25401400	25402400	Weak Enhancer
+chr12	25402400	25402800	Flanking TSS Downstream
+chr12	25402800	25403200	Flanking TSS Upstream
+chr12	25403200	25404400	Active TSS
+chr12	25404400	25404800	Flanking TSS Upstream
+chr12	25404800	25405000	Active Enhancer
+chr12	25405000	25405200	Weak Enhancer
+chr12	25405200	25422600	Quiescent/Low
+chr12	25422600	25423200	Weak Enhancer
+chr12	25423200	25425000	Quiescent/Low
+chr12	32900000	32906200	Strong transcription
+chr12	32906200	32906600	Weak transcription
+chr12	32906600	32907000	Weak Enhancer
+chr12	32907000	32909400	Flanking TSS Upstream
+chr12	32909400	32909800	Quiescent/Low
+chr12	32909800	32914200	Weak transcription
+chr12	32914200	32915400	Weak Enhancer
+chr12	32915400	32917000	Quiescent/Low
+chr12	32917000	32925000	Weak Repressed PolyComb
+chr12	44150000	44151400	Weak transcription
+chr12	44151400	44151600	Weak Enhancer
+chr12	44151600	44151800	Flanking TSS Downstream
+chr12	44151800	44152400	Flanking TSS Upstream
+chr12	44152400	44153200	Active TSS
+chr12	44153200	44154200	Flanking TSS Upstream
+chr12	44154200	44154400	Flanking TSS Downstream
+chr12	44154400	44157000	Weak Enhancer
+chr12	44157000	44162200	Weak transcription
+chr12	44162200	44175000	Strong transcription
+chr12	50230000	50235200	Weak transcription
+chr12	50235200	50235400	Weak Enhancer
+chr12	50235400	50236000	Flanking TSS Downstream
+chr12	50236000	50236600	Flanking TSS Upstream
+chr12	50236600	50237000	Active TSS
+chr12	50237000	50237200	Flanking TSS Upstream
+chr12	50237200	50237400	Flanking TSS Downstream
+chr12	50237400	50237600	Weak Enhancer
+chr12	50237600	50240000	Weak transcription
+chr12	54680000	54690000	Genic enhancer
+chr12	69750000	69751400	Quiescent/Low
+chr12	69751400	69751600	Flanking TSS Downstream
+chr12	69751600	69751800	Weak Enhancer
+chr12	69751800	69752800	Weak transcription
+chr12	69752800	69753000	Weak Enhancer
+chr12	69753000	69753400	Flanking TSS Upstream
+chr12	69753400	69754000	Active TSS
+chr12	69754000	69754600	Flanking TSS Upstream
+chr12	69754600	69755400	Weak Enhancer
+chr12	69755400	69756000	Weak transcription
+chr12	69756000	69757400	Strong transcription
+chr12	69757400	69758000	Genic enhancer
+chr12	69758000	69768000	Strong transcription
+chr12	69768000	69769400	Weak transcription
+chr12	69769400	69775000	Strong transcription
+chr12	106750000	106750800	Weak Repressed PolyComb
+chr12	106750800	106751000	Weak Enhancer
+chr12	106751000	106751200	Flanking TSS Downstream
+chr12	106751200	106751400	Flanking TSS Upstream
+chr12	106751400	106752000	Active TSS
+chr12	106752000	106753000	Flanking TSS Upstream
+chr12	106753000	106753200	Weak Enhancer
+chr12	106753200	106763400	Weak transcription
+chr12	106763400	106765000	Strong transcription
+chr12	106765000	106766200	Weak transcription
+chr12	106766200	106766600	Strong transcription
+chr12	106766600	106772200	Weak transcription
+chr12	106772200	106773200	Weak Enhancer
+chr12	106773200	106773800	Weak transcription
+chr12	106773800	106774400	Strong transcription
+chr12	106774400	106775000	ZNF genes & repeats
+chr12	108950000	108950400	Strong transcription
+chr12	108950400	108952400	Genic enhancer
+chr12	108952400	108953400	Weak Enhancer
+chr12	108953400	108953600	Flanking TSS Downstream
+chr12	108953600	108954600	Flanking TSS Upstream
+chr12	108954600	108955200	Active TSS
+chr12	108955200	108956000	Flanking TSS Upstream
+chr12	108956000	108956600	Active TSS
+chr12	108956600	108957400	Flanking TSS Upstream
+chr12	108957400	108957600	Flanking TSS Downstream
+chr12	108957600	108957800	Flanking TSS Upstream
+chr12	108957800	108958200	Active Enhancer
+chr12	108958200	108958600	Flanking TSS Upstream
+chr12	108958600	108958800	Flanking TSS Downstream
+chr12	108958800	108959200	Flanking TSS Upstream
+chr12	108959200	108959800	Active Enhancer
+chr12	108959800	108960400	Weak Enhancer
+chr12	108960400	108962800	Genic enhancer
+chr12	108962800	108964200	Strong transcription
+chr12	108964200	108965800	Weak transcription
+chr12	108965800	108975000	Quiescent/Low
+chr12	109525000	109528800	Strong transcription
+chr12	109528800	109529200	Weak transcription
+chr12	109529200	109529800	Weak Enhancer
+chr12	109529800	109530400	Flanking TSS Downstream
+chr12	109530400	109531200	Flanking TSS Upstream
+chr12	109531200	109531600	Flanking TSS Downstream
+chr12	109531600	109535000	Weak transcription
+chr12	109535000	109536000	Flanking TSS Downstream
+chr12	109536000	109536200	Flanking TSS Upstream
+chr12	109536200	109536400	Active TSS
+chr12	109536400	109536800	Flanking TSS Upstream
+chr12	109536800	109537400	Flanking TSS Downstream
+chr12	109537400	109537600	Weak Enhancer
+chr12	109537600	109538200	Genic enhancer
+chr12	109538200	109548000	Strong transcription
+chr12	109548000	109548600	Genic enhancer
+chr12	109548600	109548800	Flanking TSS Downstream
+chr12	109548800	109549200	Flanking TSS Upstream
+chr12	109549200	109549400	Active TSS
+chr12	109549400	109549600	Flanking TSS Upstream
+chr12	109549600	109549800	Flanking TSS Downstream
+chr12	109549800	109550000	Weak transcription
+chr12	113600000	113620200	Strong transcription
+chr12	113620200	113621400	Weak transcription
+chr12	113621400	113621600	Weak Enhancer
+chr12	113621600	113621800	Active Enhancer
+chr12	113621800	113622000	Weak Enhancer
+chr12	113622000	113622800	Flanking TSS Upstream
+chr12	113622800	113623000	Active TSS
+chr12	113623000	113623200	Flanking TSS Upstream
+chr12	113623200	113623400	Active TSS
+chr12	113623400	113623600	Flanking TSS Upstream
+chr12	113623600	113623800	Active TSS
+chr12	113623800	113624000	Flanking TSS Upstream
+chr12	113624000	113624600	Flanking TSS Downstream
+chr12	113624600	113625000	Weak Enhancer
+chr12	123230000	123232000	Quiescent/Low
+chr12	123232000	123235200	Weak transcription
+chr12	123235200	123236600	Weak Enhancer
+chr12	123236600	123237200	Flanking TSS Upstream
+chr12	123237200	123237800	Active TSS
+chr12	123237800	123238600	Flanking TSS Upstream
+chr12	123238600	123239200	Genic enhancer
+chr12	123239200	123240000	Genic enhancer
+chr13	39600000	39603800	Strong transcription
+chr13	39603800	39604600	Weak transcription
+chr13	39604600	39605200	Strong transcription
+chr13	39605200	39608200	Weak transcription
+chr13	39608200	39609400	Weak Enhancer
+chr13	39609400	39610200	Flanking TSS Upstream
+chr13	39610200	39610400	Flanking TSS Downstream
+chr13	39610400	39611200	Flanking TSS Upstream
+chr13	39611200	39612800	Active TSS
+chr13	39612800	39614000	Flanking TSS Upstream
+chr13	39614000	39614200	Active Enhancer
+chr13	39614200	39614400	Weak Enhancer
+chr13	39614400	39614600	Flanking TSS Downstream
+chr13	39614600	39615800	Weak Enhancer
+chr13	39615800	39616600	Weak transcription
+chr13	39616600	39620200	Strong transcription
+chr13	39620200	39621200	Weak transcription
+chr13	39621200	39624000	Strong transcription
+chr13	39624000	39625000	Weak transcription
+chr13	103225000	103236600	Quiescent/Low
+chr13	103236600	103237600	Weak Enhancer
+chr13	103237600	103240400	Weak transcription
+chr13	103240400	103240800	Weak Enhancer
+chr13	103240800	103243800	Weak transcription
+chr13	103243800	103244000	Weak Enhancer
+chr13	103244000	103244200	Flanking TSS Downstream
+chr13	103244200	103245000	Flanking TSS Upstream
+chr13	103245000	103245800	Active Enhancer
+chr13	103245800	103246000	Weak Enhancer
+chr13	103246000	103247000	Weak transcription
+chr13	103247000	103247400	Weak Enhancer
+chr13	103247400	103247600	Active Enhancer
+chr13	103247600	103248600	Flanking TSS Upstream
+chr13	103248600	103250000	Active TSS
+chr13	103475000	103495400	Strong transcription
+chr13	103495400	103495800	Genic enhancer
+chr13	103495800	103496000	Active Enhancer
+chr13	103496000	103496600	Weak transcription
+chr13	103496600	103497200	Active Enhancer
+chr13	103497200	103497800	Flanking TSS Upstream
+chr13	103497800	103499200	Active TSS
+chr13	103499200	103500000	Flanking TSS Upstream
+chr13	110425000	110430000	Weak transcription
+chr13	110430000	110430600	Weak Enhancer
+chr13	110430600	110430800	Flanking TSS Downstream
+chr13	110430800	110432400	Weak Enhancer
+chr13	110432400	110432600	Flanking TSS Downstream
+chr13	110432600	110433200	Weak Enhancer
+chr13	110433200	110433400	Flanking TSS Downstream
+chr13	110433400	110434400	Genic enhancer
+chr13	110434400	110436200	Strong transcription
+chr13	110436200	110436400	Weak transcription
+chr13	110436400	110436600	Weak Enhancer
+chr13	110436600	110437000	Flanking TSS Downstream
+chr13	110437000	110437400	Flanking TSS
+chr13	110437400	110437800	Bivalent/Poised TSS
+chr13	110437800	110438400	Flanking TSS Downstream
+chr13	110438400	110439400	Flanking TSS
+chr13	110439400	110439800	Active TSS
+chr13	110439800	110440000	Flanking TSS Upstream
+chr13	110440000	110440400	Flanking TSS Downstream
+chr13	110440400	110443400	Weak Repressed PolyComb
+chr13	110443400	110444000	Weak Enhancer
+chr13	110444000	110444400	Weak transcription
+chr13	110444400	110445200	Weak Enhancer
+chr13	110445200	110447800	Weak Repressed PolyComb
+chr13	110447800	110450000	Repressed PolyComb
+chr14	21850000	21850400	Weak Enhancer
+chr14	21850400	21851000	Active Enhancer
+chr14	21851000	21852200	Flanking TSS Upstream
+chr14	21852200	21852600	Active TSS
+chr14	21852600	21853400	Flanking TSS Upstream
+chr14	21853400	21853600	Flanking TSS Downstream
+chr14	21853600	21854000	Weak Enhancer
+chr14	21854000	21854400	Genic enhancer
+chr14	21854400	21875000	Strong transcription
+chr14	23925000	23925200	Weak Enhancer
+chr14	23925200	23938000	Quiescent/Low
+chr14	23938000	23938800	Flanking TSS
+chr14	23938800	23939200	Active TSS
+chr14	23939200	23939800	Flanking TSS Upstream
+chr14	23939800	23940200	Weak Enhancer
+chr14	23940200	23940400	Genic enhancer
+chr14	23940400	23947400	Strong transcription
+chr14	23947400	23949200	Weak transcription
+chr14	23949200	23950000	Strong transcription
+chr14	24025000	24025600	Active TSS
+chr14	24025600	24026200	Flanking TSS Upstream
+chr14	24026200	24026400	Flanking TSS Downstream
+chr14	24026400	24026600	Flanking TSS Upstream
+chr14	24026600	24026800	Weak Enhancer
+chr14	24026800	24027000	Active Enhancer
+chr14	24027000	24027200	Weak Enhancer
+chr14	24027200	24027800	Genic enhancer
+chr14	24027800	24035400	Strong transcription
+chr14	24035400	24035800	Genic enhancer
+chr14	24035800	24036000	Weak Enhancer
+chr14	24036000	24036200	Flanking TSS Downstream
+chr14	24036200	24036600	Flanking TSS Upstream
+chr14	24036600	24036800	Active TSS
+chr14	24036800	24037600	Flanking TSS Upstream
+chr14	24037600	24037800	Active Enhancer
+chr14	24037800	24039000	Weak Enhancer
+chr14	24039000	24040000	Weak transcription
+chr14	24040000	24041400	Weak Enhancer
+chr14	24041400	24041600	Flanking TSS Downstream
+chr14	24041600	24042800	Weak Enhancer
+chr14	24042800	24044200	Weak Repressed PolyComb
+chr14	24044200	24045200	Repressed PolyComb
+chr14	24045200	24045800	Bivalent Enhancer
+chr14	24045800	24046000	Bivalent/Poised TSS
+chr14	24046000	24046200	Bivalent Enhancer
+chr14	24046200	24046600	Bivalent/Poised TSS
+chr14	24046600	24047600	Bivalent Enhancer
+chr14	24047600	24049400	Repressed PolyComb
+chr14	24049400	24050000	Weak Repressed PolyComb
+chr14	69250000	69254200	Weak transcription
+chr14	69254200	69255200	Strong transcription
+chr14	69255200	69256000	Genic enhancer
+chr14	69256000	69257400	Genic enhancer
+chr14	69257400	69258800	Flanking TSS Upstream
+chr14	69258800	69259000	Active TSS
+chr14	69259000	69259800	Flanking TSS Upstream
+chr14	69259800	69260200	Active TSS
+chr14	69260200	69262400	Flanking TSS Upstream
+chr14	69262400	69262800	Active TSS
+chr14	69262800	69263600	Flanking TSS Upstream
+chr14	69263600	69264000	Active Enhancer
+chr14	69264000	69264200	Weak Enhancer
+chr14	69264200	69267000	Weak transcription
+chr14	69267000	69267200	Weak Enhancer
+chr14	69267200	69267400	Active Enhancer
+chr14	69267400	69268000	Active Enhancer
+chr14	69268000	69269200	ZNF genes & repeats
+chr14	69269200	69271600	Heterochromatin
+chr14	69271600	69272600	Quiescent/Low
+chr14	69272600	69273200	Active Enhancer
+chr14	69273200	69274400	Active Enhancer
+chr14	69274400	69275000	Weak Enhancer
+chr15	43200000	43205800	Quiescent/Low
+chr15	43205800	43206000	Active Enhancer
+chr15	43206000	43206200	Active Enhancer
+chr15	43206200	43206600	Weak Enhancer
+chr15	43206600	43206800	Flanking TSS Upstream
+chr15	43206800	43207000	Flanking TSS Downstream
+chr15	43207000	43207400	Active TSS
+chr15	43207400	43207600	Flanking TSS Upstream
+chr15	43207600	43208200	Active Enhancer
+chr15	43208200	43210400	Weak Enhancer
+chr15	43210400	43210800	Active Enhancer
+chr15	43210800	43211400	Weak Enhancer
+chr15	43211400	43211600	Flanking TSS Downstream
+chr15	43211600	43212400	Flanking TSS Upstream
+chr15	43212400	43213000	Active TSS
+chr15	43213000	43213200	Flanking TSS
+chr15	43213200	43214200	Flanking TSS Downstream
+chr15	43214200	43225000	Quiescent/Low
+chr15	45675000	45684000	Quiescent/Low
+chr15	45684000	45684800	Weak Enhancer
+chr15	45684800	45693200	Quiescent/Low
+chr15	45693200	45693800	Flanking TSS Downstream
+chr15	45693800	45694400	Flanking TSS Upstream
+chr15	45694400	45694800	Active TSS
+chr15	45694800	45695000	Flanking TSS Upstream
+chr15	45695000	45695200	Active TSS
+chr15	45695200	45696200	Flanking TSS Upstream
+chr15	45696200	45696600	Flanking TSS Downstream
+chr15	45696600	45697400	Weak Enhancer
+chr15	45697400	45697600	Weak transcription
+chr15	45697600	45700000	Strong transcription
+chr15	49150000	49150400	Weak Enhancer
+chr15	49150400	49151200	Active Enhancer
+chr15	49151200	49151800	Weak Enhancer
+chr15	49151800	49169600	Quiescent/Low
+chr15	49169600	49170000	Flanking TSS Upstream
+chr15	49170000	49170600	Active TSS
+chr15	49170600	49171200	Flanking TSS Upstream
+chr15	49171200	49171600	Flanking TSS Downstream
+chr15	49171600	49172800	Weak Enhancer
+chr15	49172800	49175000	Quiescent/Low
+chr15	49425000	49436000	Strong transcription
+chr15	49436000	49438800	Weak transcription
+chr15	49438800	49439000	Weak Enhancer
+chr15	49439000	49439400	Weak transcription
+chr15	49439400	49440200	Weak Enhancer
+chr15	49440200	49444800	Weak transcription
+chr15	49444800	49446000	Weak Enhancer
+chr15	49446000	49446600	Flanking TSS Downstream
+chr15	49446600	49447200	Flanking TSS Upstream
+chr15	49447200	49448400	Active TSS
+chr15	49448400	49449800	Flanking TSS Upstream
+chr15	49449800	49450000	Active Enhancer
+chr15	55700000	55700800	Active TSS
+chr15	55700800	55701200	Flanking TSS Upstream
+chr15	55701200	55701400	Flanking TSS Downstream
+chr15	55701400	55701600	Weak Enhancer
+chr15	55701600	55725000	Quiescent/Low
+chr15	65130000	65130600	Weak Enhancer
+chr15	65130600	65132600	Weak transcription
+chr15	65132600	65133000	Weak Enhancer
+chr15	65133000	65133600	Flanking TSS Upstream
+chr15	65133600	65133800	Active TSS
+chr15	65133800	65134000	Flanking TSS
+chr15	65134000	65134400	Active TSS
+chr15	65134400	65135800	Flanking TSS Upstream
+chr15	65135800	65136000	Flanking TSS Downstream
+chr15	65136000	65138400	Flanking TSS Upstream
+chr15	65138400	65138800	Active Enhancer
+chr15	65138800	65139200	Weak Enhancer
+chr15	65139200	65139400	Active Enhancer
+chr15	65139400	65140000	Genic enhancer
+chr15	66675000	66678200	Quiescent/Low
+chr15	66678200	66679000	Flanking TSS Upstream
+chr15	66679000	66679600	Active TSS
+chr15	66679600	66680600	Flanking TSS Upstream
+chr15	66680600	66683600	Weak Enhancer
+chr15	66683600	66687200	Weak transcription
+chr15	66687200	66687600	Weak Enhancer
+chr15	66687600	66693600	Quiescent/Low
+chr15	66693600	66694000	Weak Enhancer
+chr15	66694000	66694200	Flanking TSS Downstream
+chr15	66694200	66694400	Weak Enhancer
+chr15	66694400	66696600	Weak transcription
+chr15	66696600	66697000	Weak Enhancer
+chr15	66697000	66697200	Flanking TSS Downstream
+chr15	66697200	66698400	Weak Enhancer
+chr15	66698400	66700000	Weak transcription
+chr15	66775000	66776800	Weak transcription
+chr15	66776800	66781800	Strong transcription
+chr15	66781800	66784400	Genic enhancer
+chr15	66784400	66788200	Strong transcription
+chr15	66788200	66788800	Weak transcription
+chr15	66788800	66789200	Weak Enhancer
+chr15	66789200	66789800	Flanking TSS Upstream
+chr15	66789800	66790200	Active TSS
+chr15	66790200	66790400	Weak Enhancer
+chr15	66790400	66791200	Genic enhancer
+chr15	66791200	66793600	Strong transcription
+chr15	66793600	66795000	Genic enhancer
+chr15	66795000	66795600	Genic enhancer
+chr15	66795600	66796600	Flanking TSS Upstream
+chr15	66796600	66797800	Active TSS
+chr15	66797800	66798400	Flanking TSS Upstream
+chr15	66798400	66798600	Flanking TSS Downstream
+chr15	66798600	66798800	Weak Enhancer
+chr15	66798800	66800000	Weak transcription
+chr15	74900000	74906600	Weak transcription
+chr15	74906600	74907200	Flanking TSS Downstream
+chr15	74907200	74907800	Flanking TSS Upstream
+chr15	74907800	74908400	Active TSS
+chr15	74908400	74909800	Flanking TSS Upstream
+chr15	74909800	74910600	Active Enhancer
+chr15	74910600	74911000	Active Enhancer
+chr15	74911000	74911200	Weak transcription
+chr15	74911200	74918400	Strong transcription
+chr15	74918400	74918800	Genic enhancer
+chr15	74918800	74920400	Genic enhancer
+chr15	74920400	74921800	Genic enhancer
+chr15	74921800	74925000	Strong transcription
+chr15	83650000	83654000	Quiescent/Low
+chr15	83654000	83654400	Flanking TSS Downstream
+chr15	83654400	83654800	Flanking TSS Upstream
+chr15	83654800	83655400	Active TSS
+chr15	83655400	83655800	Flanking TSS Upstream
+chr15	83655800	83656000	Flanking TSS Downstream
+chr15	83656000	83656200	Weak Enhancer
+chr15	83656200	83657000	Weak transcription
+chr15	83657000	83660800	Strong transcription
+chr15	83660800	83668400	Weak transcription
+chr15	83668400	83668800	Weak Enhancer
+chr15	83668800	83669000	Flanking TSS Downstream
+chr15	83669000	83669200	Flanking TSS Upstream
+chr15	83669200	83669400	Active TSS
+chr15	83669400	83672400	Weak transcription
+chr15	83672400	83675000	Strong transcription
+chr15	90425000	90432400	Strong transcription
+chr15	90432400	90435800	Weak transcription
+chr15	90435800	90436200	Weak Enhancer
+chr15	90436200	90437200	Flanking TSS Upstream
+chr15	90437200	90437600	Active TSS
+chr15	90437600	90438000	Flanking TSS Upstream
+chr15	90438000	90438200	Flanking TSS Downstream
+chr15	90438200	90438400	Weak Enhancer
+chr15	90438400	90450000	Weak transcription
+chr15	90625000	90625200	Strong transcription
+chr15	90625200	90625400	Weak transcription
+chr15	90625400	90625600	Weak Enhancer
+chr15	90625600	90625800	Flanking TSS Downstream
+chr15	90625800	90629000	Genic enhancer
+chr15	90629000	90634800	Strong transcription
+chr15	90634800	90637200	Weak transcription
+chr15	90637200	90638400	Active Enhancer
+chr15	90638400	90640000	Weak transcription
+chr15	90640000	90640200	Weak Enhancer
+chr15	90640200	90641200	Active Enhancer
+chr15	90641200	90641600	Flanking TSS Upstream
+chr15	90641600	90641800	Active Enhancer
+chr15	90641800	90642200	Weak Enhancer
+chr15	90642200	90643800	Active Enhancer
+chr15	90643800	90645400	Flanking TSS Upstream
+chr15	90645400	90645800	Active TSS
+chr15	90645800	90646200	Flanking TSS Upstream
+chr15	90646200	90646400	Flanking TSS Downstream
+chr15	90646400	90646600	Weak Enhancer
+chr15	90646600	90650000	Quiescent/Low
+chr15	101830000	101832200	Strong transcription
+chr15	101832200	101832600	Genic enhancer
+chr15	101832600	101833400	Weak Enhancer
+chr15	101833400	101833600	Flanking TSS Downstream
+chr15	101833600	101835200	Flanking TSS Upstream
+chr15	101835200	101835800	Active TSS
+chr15	101835800	101836200	Flanking TSS Upstream
+chr15	101836200	101836600	Flanking TSS Downstream
+chr15	101836600	101837000	Weak Enhancer
+chr15	101837000	101840000	Weak Repressed PolyComb
+chr16	2175000	2176000	Flanking TSS Downstream
+chr16	2176000	2178400	Weak Enhancer
+chr16	2178400	2178800	Flanking TSS Upstream
+chr16	2178800	2179200	Weak Enhancer
+chr16	2179200	2183600	Weak transcription
+chr16	2183600	2183800	Weak Enhancer
+chr16	2183800	2184600	Weak transcription
+chr16	2184600	2185000	Weak Enhancer
+chr16	2185000	2185200	Flanking TSS Downstream
+chr16	2185200	2186400	Flanking TSS
+chr16	2186400	2186800	Flanking TSS Downstream
+chr16	2186800	2187000	Weak Enhancer
+chr16	2187000	2197600	Quiescent/Low
+chr16	2197600	2197800	Weak Enhancer
+chr16	2197800	2199400	Flanking TSS Downstream
+chr16	2199400	2200000	Weak Enhancer
+chr16	3450000	3450200	Flanking TSS Downstream
+chr16	3450200	3450600	Flanking TSS Upstream
+chr16	3450600	3451400	Active TSS
+chr16	3451400	3452200	Flanking TSS Upstream
+chr16	3452200	3452400	Flanking TSS Downstream
+chr16	3452400	3452800	Weak transcription
+chr16	3452800	3466000	ZNF genes & repeats
+chr16	3466000	3467200	Heterochromatin
+chr16	3467200	3471200	ZNF genes & repeats
+chr16	3471200	3471400	Heterochromatin
+chr16	3471400	3471600	ZNF genes & repeats
+chr16	3471600	3474200	Heterochromatin
+chr16	3474200	3475000	ZNF genes & repeats
+chr16	10825000	10830800	Quiescent/Low
+chr16	10830800	10831200	Weak Enhancer
+chr16	10831200	10831600	Flanking TSS Downstream
+chr16	10831600	10837000	Weak transcription
+chr16	10837000	10837200	Weak Enhancer
+chr16	10837200	10837600	Flanking TSS Upstream
+chr16	10837600	10837800	Active TSS
+chr16	10837800	10838000	Flanking TSS Upstream
+chr16	10838000	10838200	Active TSS
+chr16	10838200	10838600	Flanking TSS Upstream
+chr16	10838600	10838800	Flanking TSS Downstream
+chr16	10838800	10839000	Weak Enhancer
+chr16	10839000	10839400	Weak transcription
+chr16	10839400	10839600	Weak Enhancer
+chr16	10839600	10840400	Weak transcription
+chr16	10840400	10850000	Strong transcription
+chr16	11325000	11326400	Weak Enhancer
+chr16	11326400	11327600	Active Enhancer
+chr16	11327600	11330000	Weak Enhancer
+chr16	11330000	11332800	Weak transcription
+chr16	11332800	11333600	Active Enhancer
+chr16	11333600	11334000	Weak transcription
+chr16	11334000	11334600	Weak Enhancer
+chr16	11334600	11335000	Flanking TSS Downstream
+chr16	11335000	11335200	Weak Enhancer
+chr16	11335200	11345800	Quiescent/Low
+chr16	11345800	11346400	Weak Enhancer
+chr16	11346400	11346800	Weak transcription
+chr16	11346800	11347400	Active Enhancer
+chr16	11347400	11348200	Active Enhancer
+chr16	11348200	11348400	Active Enhancer
+chr16	11348400	11349600	Flanking TSS Upstream
+chr16	11349600	11349800	Flanking TSS Downstream
+chr16	11349800	11350000	Flanking TSS Upstream
+chr16	30000000	30005200	Strong transcription
+chr16	30005200	30005600	Genic enhancer
+chr16	30005600	30006000	Active Enhancer
+chr16	30006000	30007000	Flanking TSS Upstream
+chr16	30007000	30007600	Active TSS
+chr16	30007600	30008200	Flanking TSS Upstream
+chr16	30008200	30008600	Flanking TSS Downstream
+chr16	30008600	30010200	Weak transcription
+chr16	30010200	30014400	Strong transcription
+chr16	30014400	30015400	Weak transcription
+chr16	30015400	30017000	Weak Enhancer
+chr16	30017000	30020600	Weak Repressed PolyComb
+chr16	30020600	30021400	Repressed PolyComb
+chr16	30021400	30021800	Bivalent Enhancer
+chr16	30021800	30022800	Bivalent/Poised TSS
+chr16	30022800	30023000	Bivalent Enhancer
+chr16	30023000	30023200	Bivalent/Poised TSS
+chr16	30023200	30023600	Bivalent Enhancer
+chr16	30023600	30024000	Repressed PolyComb
+chr16	30024000	30025000	Weak Repressed PolyComb
+chr16	30950000	30952800	Weak transcription
+chr16	30952800	30953400	Weak Enhancer
+chr16	30953400	30953800	Genic enhancer
+chr16	30953800	30958000	Strong transcription
+chr16	30958000	30959000	Genic enhancer
+chr16	30959000	30959200	Active Enhancer
+chr16	30959200	30959600	Active Enhancer
+chr16	30959600	30959800	Flanking TSS Upstream
+chr16	30959800	30960000	Active TSS
+chr16	30960000	30960400	Flanking TSS Upstream
+chr16	30960400	30960800	Active TSS
+chr16	30960800	30962400	Flanking TSS Upstream
+chr16	30962400	30962600	Active Enhancer
+chr16	30962600	30963200	Genic enhancer
+chr16	30963200	30965400	Strong transcription
+chr16	30965400	30966200	Genic enhancer
+chr16	30966200	30967400	Weak transcription
+chr16	30967400	30968000	Genic enhancer
+chr16	30968000	30968200	Flanking TSS Downstream
+chr16	30968200	30968400	Flanking TSS Upstream
+chr16	30968400	30968600	Active TSS
+chr16	30968600	30969000	Flanking TSS Upstream
+chr16	30969000	30969800	Active TSS
+chr16	30969800	30970400	Flanking TSS Upstream
+chr16	30970400	30970800	Genic enhancer
+chr16	30970800	30971400	Genic enhancer
+chr16	30971400	30975000	Strong transcription
+chr16	50775000	50775200	Active Enhancer
+chr16	50775200	50775600	Flanking TSS Upstream
+chr16	50775600	50776800	Active TSS
+chr16	50776800	50777200	Flanking TSS Downstream
+chr16	50777200	50777800	Flanking TSS Upstream
+chr16	50777800	50778000	Flanking TSS Downstream
+chr16	50778000	50780000	Weak Enhancer
+chr16	50780000	50781000	Active Enhancer
+chr16	50781000	50781400	Flanking TSS Upstream
+chr16	50781400	50782200	Active Enhancer
+chr16	50782200	50783400	Weak Enhancer
+chr16	50783400	50783600	Weak transcription
+chr16	50783600	50785600	Genic enhancer
+chr16	50785600	50795200	Strong transcription
+chr16	50795200	50797000	Weak transcription
+chr16	50797000	50798200	Strong transcription
+chr16	50798200	50798600	Weak transcription
+chr16	50798600	50800000	ZNF genes & repeats
+chr16	67175000	67183200	Strong transcription
+chr16	67183200	67183800	Repressed PolyComb
+chr16	67183800	67184000	Bivalent Enhancer
+chr16	67184000	67184200	Bivalent/Poised TSS
+chr16	67184200	67185200	Flanking TSS Downstream
+chr16	67185200	67185400	Weak Enhancer
+chr16	67185400	67187000	Weak transcription
+chr16	67187000	67188400	Weak Enhancer
+chr16	67188400	67189800	Bivalent Enhancer
+chr16	67189800	67190000	Weak Enhancer
+chr16	67190000	67192200	Weak transcription
+chr16	67192200	67192600	Weak Enhancer
+chr16	67192600	67193200	Flanking TSS Downstream
+chr16	67193200	67193600	Flanking TSS Upstream
+chr16	67193600	67194000	Active TSS
+chr16	67194000	67194400	Flanking TSS Upstream
+chr16	67194400	67195200	Flanking TSS Downstream
+chr16	67195200	67196800	Bivalent Enhancer
+chr16	67196800	67198200	Bivalent/Poised TSS
+chr16	67198200	67198600	Bivalent Enhancer
+chr16	67198600	67199000	Bivalent/Poised TSS
+chr16	67199000	67199200	Bivalent Enhancer
+chr16	67199200	67199400	Bivalent/Poised TSS
+chr16	67199400	67200000	Bivalent Enhancer
+chr16	77200000	77203200	Weak Repressed PolyComb
+chr16	77203200	77205000	Repressed PolyComb
+chr16	77205000	77214400	Weak Repressed PolyComb
+chr16	77214400	77223600	Quiescent/Low
+chr16	77223600	77223800	Weak Enhancer
+chr16	77223800	77224000	Flanking TSS Downstream
+chr16	77224000	77224200	Flanking TSS Upstream
+chr16	77224200	77225000	Active TSS
+chr16	84650000	84650200	Weak Enhancer
+chr16	84650200	84651800	Flanking TSS Downstream
+chr16	84651800	84652600	Weak Enhancer
+chr16	84652600	84660000	Quiescent/Low
+chr17	14200000	14200400	Bivalent Enhancer
+chr17	14200400	14201400	Flanking TSS Downstream
+chr17	14201400	14202400	Bivalent Enhancer
+chr17	14202400	14203000	Bivalent/Poised TSS
+chr17	14203000	14205200	Flanking TSS Downstream
+chr17	14205200	14206000	Flanking TSS Upstream
+chr17	14206000	14206200	Flanking TSS Downstream
+chr17	14206200	14207600	Bivalent/Poised TSS
+chr17	14207600	14208000	Bivalent Enhancer
+chr17	14208000	14209800	Repressed PolyComb
+chr17	14209800	14211600	Weak Repressed PolyComb
+chr17	14211600	14212000	Active Enhancer
+chr17	14212000	14212200	Active Enhancer
+chr17	14212200	14212400	Flanking TSS Upstream
+chr17	14212400	14213400	Flanking TSS Downstream
+chr17	14213400	14214600	Weak transcription
+chr17	14214600	14216000	Weak Enhancer
+chr17	14216000	14221400	Weak transcription
+chr17	14221400	14222200	Weak Enhancer
+chr17	14222200	14225000	Quiescent/Low
+chr17	19250000	19263200	Weak Repressed PolyComb
+chr17	19263200	19264000	Repressed PolyComb
+chr17	19264000	19265000	Weak Repressed PolyComb
+chr17	19265000	19265200	Repressed PolyComb
+chr17	19265200	19265400	Bivalent Enhancer
+chr17	19265400	19265600	Bivalent/Poised TSS
+chr17	19265600	19266400	Flanking TSS Downstream
+chr17	19266400	19266600	Bivalent Enhancer
+chr17	19266600	19270400	Repressed PolyComb
+chr17	19270400	19271000	Weak Repressed PolyComb
+chr17	19271000	19273200	Repressed PolyComb
+chr17	19273200	19274400	Bivalent Enhancer
+chr17	19274400	19275000	Weak Enhancer
+chr17	19875000	19876600	Weak Enhancer
+chr17	19876600	19879000	Weak transcription
+chr17	19879000	19880000	Weak Enhancer
+chr17	19880000	19880800	Flanking TSS Upstream
+chr17	19880800	19881400	Active TSS
+chr17	19881400	19882000	Flanking TSS Upstream
+chr17	19882000	19882600	Flanking TSS Downstream
+chr17	19882600	19883200	Weak Enhancer
+chr17	19883200	19884400	Flanking TSS Downstream
+chr17	19884400	19894600	Quiescent/Low
+chr17	19894600	19895200	Weak Enhancer
+chr17	19895200	19896200	Weak transcription
+chr17	19896200	19896600	Flanking TSS Downstream
+chr17	19896600	19899800	Weak transcription
+chr17	19899800	19900000	Weak Enhancer
+chr17	28425000	28431400	Quiescent/Low
+chr17	28431400	28431600	Weak Enhancer
+chr17	28431600	28431800	Flanking TSS Downstream
+chr17	28431800	28432200	Flanking TSS Upstream
+chr17	28432200	28443200	Quiescent/Low
+chr17	28443200	28443600	Flanking TSS Upstream
+chr17	28443600	28444200	Active TSS
+chr17	28444200	28445000	Flanking TSS Upstream
+chr17	28445000	28445200	Flanking TSS Downstream
+chr17	28445200	28445400	Weak Enhancer
+chr17	28445400	28446800	Weak transcription
+chr17	28446800	28447200	Weak Enhancer
+chr17	28447200	28447800	Weak transcription
+chr17	28447800	28448000	Strong transcription
+chr17	28448000	28450000	Weak transcription
+chr17	38550000	38551400	Strong transcription
+chr17	38551400	38552200	Weak transcription
+chr17	38552200	38553400	Strong transcription
+chr17	38553400	38556000	Weak transcription
+chr17	38556000	38560800	Strong transcription
+chr17	38560800	38565800	Weak transcription
+chr17	38565800	38567600	Strong transcription
+chr17	38567600	38572000	Weak transcription
+chr17	38572000	38573000	Weak Enhancer
+chr17	38573000	38573400	Flanking TSS Downstream
+chr17	38573400	38573800	Flanking TSS Upstream
+chr17	38573800	38574400	Active TSS
+chr17	38574400	38574800	Flanking TSS Upstream
+chr17	38574800	38575000	Flanking TSS Downstream
+chr17	40975000	40975400	Weak Enhancer
+chr17	40975400	40975600	Flanking TSS Downstream
+chr17	40975600	40976000	Flanking TSS Upstream
+chr17	40976000	40976600	Active TSS
+chr17	40976600	40984400	Quiescent/Low
+chr17	40984400	40984600	Weak Enhancer
+chr17	40984600	40985000	Flanking TSS Upstream
+chr17	40985000	40985800	Active TSS
+chr17	40985800	40986600	Flanking TSS Upstream
+chr17	40986600	40987000	Active Enhancer
+chr17	40987000	40987600	Weak transcription
+chr17	40987600	40995600	Strong transcription
+chr17	40995600	40996400	Genic enhancer
+chr17	40996400	40998200	Strong transcription
+chr17	40998200	40999800	Weak transcription
+chr17	40999800	41000000	Quiescent/Low
+chr17	41550000	41560600	Quiescent/Low
+chr17	41560600	41560800	Weak Enhancer
+chr17	41560800	41561000	Flanking TSS Downstream
+chr17	41561000	41561200	Flanking TSS
+chr17	41561200	41561800	Active TSS
+chr17	41561800	41562200	Flanking TSS Upstream
+chr17	41562200	41563000	Flanking TSS Downstream
+chr17	41563000	41564400	Weak Enhancer
+chr17	41564400	41567200	Weak transcription
+chr17	41567200	41575000	Strong transcription
+chr17	46950000	46950200	Weak transcription
+chr17	46950200	46951400	Weak Enhancer
+chr17	46951400	46955400	Weak transcription
+chr17	46955400	46955800	Weak Enhancer
+chr17	46955800	46968600	Quiescent/Low
+chr17	46968600	46968800	Weak Enhancer
+chr17	46968800	46969400	Flanking TSS Upstream
+chr17	46969400	46970200	Active TSS
+chr17	46970200	46971000	Flanking TSS Upstream
+chr17	46971000	46971400	Flanking TSS Downstream
+chr17	46971400	46972200	Weak transcription
+chr17	46972200	46974000	Strong transcription
+chr17	46974000	46975000	Weak transcription
+chr17	47780000	47783600	Strong transcription
+chr17	47783600	47783800	Weak transcription
+chr17	47783800	47784200	Weak Enhancer
+chr17	47784200	47784400	Flanking TSS Downstream
+chr17	47784400	47785200	Flanking TSS Upstream
+chr17	47785200	47785400	Active TSS
+chr17	47785400	47785600	Flanking TSS Upstream
+chr17	47785600	47785800	Active Enhancer
+chr17	47785800	47786000	Genic enhancer
+chr17	47786000	47786200	Flanking TSS Upstream
+chr17	47786200	47790000	Genic enhancer
+chr17	61500000	61500800	Weak Enhancer
+chr17	61500800	61501400	Flanking TSS Downstream
+chr17	61501400	61506200	Weak Enhancer
+chr17	61506200	61508600	Weak transcription
+chr17	61508600	61509200	Weak Enhancer
+chr17	61509200	61511600	Active Enhancer
+chr17	61511600	61513000	Flanking TSS Downstream
+chr17	61513000	61517200	Weak Enhancer
+chr17	61517200	61517600	Flanking TSS Downstream
+chr17	61517600	61518600	Weak Enhancer
+chr17	61518600	61519200	Weak transcription
+chr17	61519200	61520400	Weak Enhancer
+chr17	61520400	61522200	Weak transcription
+chr17	61522200	61522800	Weak Enhancer
+chr17	61522800	61523000	Flanking TSS Downstream
+chr17	61523000	61523400	Flanking TSS Upstream
+chr17	61523400	61523600	Active TSS
+chr17	61523600	61523800	Flanking TSS Downstream
+chr17	61523800	61525000	Flanking TSS Upstream
+chr17	61675000	61675400	Weak Enhancer
+chr17	61675400	61677600	Weak transcription
+chr17	61677600	61677800	Flanking TSS Downstream
+chr17	61677800	61678200	Flanking TSS Upstream
+chr17	61678200	61678600	Active TSS
+chr17	61678600	61679200	Flanking TSS Upstream
+chr17	61679200	61679400	Flanking TSS Downstream
+chr17	61679400	61679800	Weak Enhancer
+chr17	61679800	61681200	Weak transcription
+chr17	61681200	61688800	Strong transcription
+chr17	61688800	61698600	Weak transcription
+chr17	61698600	61698800	Flanking TSS Downstream
+chr17	61698800	61699200	Flanking TSS Upstream
+chr17	61699200	61699400	Active TSS
+chr17	61699400	61699800	Flanking TSS
+chr17	61699800	61700000	Active TSS
+chr17	62200000	62205800	Quiescent/Low
+chr17	62205800	62206200	Weak Enhancer
+chr17	62206200	62206800	Flanking TSS Downstream
+chr17	62206800	62207000	Flanking TSS Upstream
+chr17	62207000	62207400	Active TSS
+chr17	62207400	62207600	Flanking TSS
+chr17	62207600	62207800	Flanking TSS Downstream
+chr17	62207800	62208200	Flanking TSS Upstream
+chr17	62208200	62208600	Weak Enhancer
+chr17	62208600	62215400	Quiescent/Low
+chr17	62215400	62216200	Weak Enhancer
+chr17	62216200	62216400	Flanking TSS Downstream
+chr17	62216400	62216600	Weak Enhancer
+chr17	62216600	62217600	Weak transcription
+chr17	62217600	62221200	Quiescent/Low
+chr17	62221200	62222200	Weak transcription
+chr17	62222200	62222400	Weak Enhancer
+chr17	62222400	62222800	Flanking TSS Upstream
+chr17	62222800	62223600	Active TSS
+chr17	62223600	62224800	Flanking TSS Upstream
+chr17	62224800	62225000	Flanking TSS Downstream
+chr17	73400000	73400400	Flanking TSS Upstream
+chr17	73400400	73400800	Active TSS
+chr17	73400800	73401200	Flanking TSS Upstream
+chr17	73401200	73402000	Active TSS
+chr17	73402000	73403000	Flanking TSS Upstream
+chr17	73403000	73403200	Flanking TSS Downstream
+chr17	73403200	73407600	Weak Enhancer
+chr17	73407600	73408000	Active Enhancer
+chr17	73408000	73408600	Weak Enhancer
+chr17	73408600	73408800	Flanking TSS Downstream
+chr17	73408800	73409600	Weak Enhancer
+chr17	73409600	73414800	Weak transcription
+chr17	73414800	73415400	Weak Enhancer
+chr17	73415400	73422600	Quiescent/Low
+chr17	73422600	73423000	Flanking TSS Downstream
+chr17	73423000	73423400	Weak Enhancer
+chr17	73423400	73425000	Quiescent/Low
+chr18	3225000	3241000	Quiescent/Low
+chr18	3241000	3241200	Heterochromatin
+chr18	3241200	3242000	ZNF genes & repeats
+chr18	3242000	3245000	Weak transcription
+chr18	3245000	3245600	Weak Enhancer
+chr18	3245600	3247600	Flanking TSS Upstream
+chr18	3247600	3248400	Active TSS
+chr18	3248400	3249600	Flanking TSS Upstream
+chr18	3249600	3249800	Flanking TSS Downstream
+chr18	3249800	3250000	Weak Enhancer
+chr18	56325000	56326800	Weak Enhancer
+chr18	56326800	56336600	Quiescent/Low
+chr18	56336600	56337400	Weak Repressed PolyComb
+chr18	56337400	56337600	Weak Enhancer
+chr18	56337600	56338400	Flanking TSS Downstream
+chr18	56338400	56338800	Flanking TSS
+chr18	56338800	56339200	Active TSS
+chr18	56339200	56339600	Flanking TSS Upstream
+chr18	56339600	56339800	Flanking TSS Downstream
+chr18	56339800	56340400	Weak Enhancer
+chr18	56340400	56349600	Weak transcription
+chr18	56349600	56350000	Weak Enhancer
+chr18	67850000	67850200	Weak transcription
+chr18	67850200	67862600	Strong transcription
+chr18	67862600	67863800	Weak transcription
+chr18	67863800	67870800	Strong transcription
+chr18	67870800	67871600	Weak transcription
+chr18	67871600	67871800	Weak Enhancer
+chr18	67871800	67872200	Flanking TSS Downstream
+chr18	67872200	67872800	Flanking TSS Upstream
+chr18	67872800	67873400	Active TSS
+chr18	67873400	67873800	Flanking TSS Upstream
+chr18	67873800	67874000	Flanking TSS Downstream
+chr18	67874000	67874200	Weak Enhancer
+chr18	67874200	67875000	Quiescent/Low
+chr18	72150000	72151800	Weak transcription
+chr18	72151800	72153600	Weak Enhancer
+chr18	72153600	72162600	Quiescent/Low
+chr18	72162600	72162800	Flanking TSS
+chr18	72162800	72163200	Flanking TSS Upstream
+chr18	72163200	72163600	Active TSS
+chr18	72163600	72164400	Flanking TSS Upstream
+chr18	72164400	72164800	Flanking TSS Downstream
+chr18	72164800	72166200	Weak Enhancer
+chr18	72166200	72167400	Flanking TSS Upstream
+chr18	72167400	72167800	Active Enhancer
+chr18	72167800	72168000	Weak Enhancer
+chr18	72168000	72168200	Weak transcription
+chr18	72168200	72168800	Genic enhancer
+chr18	72168800	72173600	Strong transcription
+chr18	72173600	72175000	Genic enhancer
+chr19	920000	920800	Bivalent/Poised TSS
+chr19	920800	921000	Bivalent Enhancer
+chr19	921000	921200	Bivalent/Poised TSS
+chr19	921200	921600	Bivalent Enhancer
+chr19	921600	922200	Weak Enhancer
+chr19	922200	923400	Weak transcription
+chr19	923400	924800	Weak Enhancer
+chr19	924800	925000	Flanking TSS Downstream
+chr19	925000	925600	Flanking TSS Upstream
+chr19	925600	926200	Active TSS
+chr19	926200	926800	Flanking TSS Upstream
+chr19	926800	927000	Active TSS
+chr19	927000	927200	Flanking TSS Upstream
+chr19	927200	927400	Active Enhancer
+chr19	927400	927600	Flanking TSS Upstream
+chr19	927600	927800	Active Enhancer
+chr19	927800	928200	Flanking TSS Upstream
+chr19	928200	928400	Weak Enhancer
+chr19	928400	928800	Genic enhancer
+chr19	928800	930000	Strong transcription
+chr19	1275000	1275200	Genic enhancer
+chr19	1275200	1275400	Flanking TSS Upstream
+chr19	1275400	1276000	Active TSS
+chr19	1276000	1276800	Flanking TSS Upstream
+chr19	1276800	1277200	Active Enhancer
+chr19	1277200	1277400	Weak Enhancer
+chr19	1277400	1278800	Weak transcription
+chr19	1278800	1279800	Strong transcription
+chr19	1279800	1280000	Weak transcription
+chr19	1280000	1280200	Weak Enhancer
+chr19	1280200	1283000	Weak Repressed PolyComb
+chr19	1283000	1285600	Repressed PolyComb
+chr19	1285600	1285800	Bivalent Enhancer
+chr19	1285800	1286200	Repressed PolyComb
+chr19	1286200	1286600	Bivalent/Poised TSS
+chr19	1286600	1288200	Bivalent Enhancer
+chr19	1288200	1295000	Repressed PolyComb
+chr19	1295000	1295400	Bivalent Enhancer
+chr19	1295400	1295800	Bivalent/Poised TSS
+chr19	1295800	1296000	Bivalent Enhancer
+chr19	1296000	1299400	Weak Repressed PolyComb
+chr19	1299400	1300000	Quiescent/Low
+chr19	1375000	1378600	Strong transcription
+chr19	1378600	1383000	Weak transcription
+chr19	1383000	1383200	Flanking TSS Downstream
+chr19	1383200	1383400	Flanking TSS
+chr19	1383400	1384000	Active TSS
+chr19	1384000	1384800	Flanking TSS Upstream
+chr19	1384800	1385200	Flanking TSS Downstream
+chr19	1385200	1385400	Weak Enhancer
+chr19	1385400	1388800	Weak transcription
+chr19	1388800	1394200	Strong transcription
+chr19	1394200	1396000	Weak transcription
+chr19	1396000	1396800	Weak Enhancer
+chr19	1396800	1397000	Flanking TSS Downstream
+chr19	1397000	1397400	Weak Enhancer
+chr19	1397400	1400000	Weak transcription
+chr19	2740000	2740200	Flanking TSS
+chr19	2740200	2740600	Flanking TSS Downstream
+chr19	2740600	2749000	Quiescent/Low
+chr19	2749000	2749400	Weak Enhancer
+chr19	2749400	2750000	Weak transcription
+chr19	2825000	2826000	Strong transcription
+chr19	2826000	2826400	Weak transcription
+chr19	2826400	2839600	ZNF genes & repeats
+chr19	2839600	2840200	Weak transcription
+chr19	2840200	2840400	Weak Enhancer
+chr19	2840400	2841200	Flanking TSS Upstream
+chr19	2841200	2842000	Active TSS
+chr19	2842000	2842600	Flanking TSS Upstream
+chr19	2842600	2842800	Flanking TSS Downstream
+chr19	2842800	2843400	Weak Enhancer
+chr19	2843400	2844600	Weak transcription
+chr19	2844600	2850000	ZNF genes & repeats
+chr19	2925000	2926400	Heterochromatin
+chr19	2926400	2927600	ZNF genes & repeats
+chr19	2927600	2929400	Heterochromatin
+chr19	2929400	2940000	ZNF genes & repeats
+chr19	2940000	2941000	Weak transcription
+chr19	2941000	2943600	Quiescent/Low
+chr19	2943600	2944000	Weak Enhancer
+chr19	2944000	2944200	Flanking TSS Downstream
+chr19	2944200	2944800	Flanking TSS Upstream
+chr19	2944800	2945200	Active TSS
+chr19	2945200	2945600	Flanking TSS Upstream
+chr19	2945600	2946000	Flanking TSS Downstream
+chr19	2946000	2948600	Weak transcription
+chr19	2948600	2949200	Weak Enhancer
+chr19	2949200	2949400	Flanking TSS Downstream
+chr19	2949400	2950000	Flanking TSS Upstream
+chr19	6100000	6100800	Flanking TSS Upstream
+chr19	6100800	6104200	Weak Enhancer
+chr19	6104200	6108000	Weak transcription
+chr19	6108000	6108200	Weak Enhancer
+chr19	6108200	6108600	Flanking TSS Downstream
+chr19	6108600	6110000	Flanking TSS Upstream
+chr19	10490000	10490200	Weak transcription
+chr19	10490200	10490400	Flanking TSS Downstream
+chr19	10490400	10491000	Flanking TSS Upstream
+chr19	10491000	10491600	Active TSS
+chr19	10491600	10492200	Flanking TSS Upstream
+chr19	10492200	10500000	Weak transcription
+chr19	14675000	14676000	Strong transcription
+chr19	14676000	14678800	Genic enhancer
+chr19	14678800	14679400	Active Enhancer
+chr19	14679400	14681400	Weak transcription
+chr19	14681400	14681800	Weak Enhancer
+chr19	14681800	14682600	Flanking TSS Upstream
+chr19	14682600	14683000	Active TSS
+chr19	14683000	14683200	Flanking TSS Downstream
+chr19	14683200	14683400	Weak Enhancer
+chr19	14683400	14685000	Weak transcription
+chr19	14685000	14685600	Weak Enhancer
+chr19	14685600	14688200	Weak transcription
+chr19	14688200	14689000	Weak Enhancer
+chr19	14689000	14693600	Weak transcription
+chr19	14693600	14694400	Weak Enhancer
+chr19	14694400	14700000	Quiescent/Low
+chr19	14775000	14779000	Quiescent/Low
+chr19	14779000	14779200	Weak Enhancer
+chr19	14779200	14779400	Quiescent/Low
+chr19	14779400	14780800	Weak transcription
+chr19	14780800	14782000	ZNF genes & repeats
+chr19	14782000	14783000	Weak transcription
+chr19	14783000	14784000	Weak Enhancer
+chr19	14784000	14785400	Weak transcription
+chr19	14785400	14786200	Weak Enhancer
+chr19	14786200	14794200	Quiescent/Low
+chr19	14794200	14794600	Weak Enhancer
+chr19	14794600	14795600	Weak transcription
+chr19	14795600	14796000	Weak Enhancer
+chr19	14796000	14796600	Active Enhancer
+chr19	14796600	14797000	Weak Enhancer
+chr19	14797000	14799400	Weak transcription
+chr19	14799400	14799800	Weak Enhancer
+chr19	14799800	14800000	Flanking TSS Downstream
+chr19	15530000	15530200	Flanking TSS
+chr19	15530200	15530400	Flanking TSS Downstream
+chr19	15530400	15531000	Weak Enhancer
+chr19	15531000	15532000	Weak transcription
+chr19	15532000	15540000	Strong transcription
+chr19	16275000	16278000	Weak transcription
+chr19	16278000	16279000	Weak Enhancer
+chr19	16279000	16280000	Active Enhancer
+chr19	16280000	16280200	Active Enhancer
+chr19	16280200	16281200	Active Enhancer
+chr19	16281200	16284000	Weak Enhancer
+chr19	16284000	16284200	Flanking TSS Downstream
+chr19	16284200	16284600	Weak Enhancer
+chr19	16284600	16285200	Quiescent/Low
+chr19	16285200	16287600	Heterochromatin
+chr19	16287600	16289800	Quiescent/Low
+chr19	16289800	16290000	Weak Enhancer
+chr19	16290000	16291000	Weak transcription
+chr19	16291000	16293400	Weak Enhancer
+chr19	16293400	16294000	Flanking TSS Downstream
+chr19	16294000	16295600	Weak Enhancer
+chr19	16295600	16296000	Flanking TSS Upstream
+chr19	16296000	16296400	Active TSS
+chr19	16296400	16297200	Flanking TSS Upstream
+chr19	16297200	16297600	Genic enhancer
+chr19	16297600	16298200	Genic enhancer
+chr19	16298200	16298600	Weak transcription
+chr19	16298600	16300000	Genic enhancer
+chr19	19475000	19475200	Weak transcription
+chr19	19475200	19475400	Active Enhancer
+chr19	19475400	19476000	Flanking TSS Upstream
+chr19	19476000	19476200	Weak Enhancer
+chr19	19476200	19477600	Weak transcription
+chr19	19477600	19477800	Weak Enhancer
+chr19	19477800	19483200	Weak transcription
+chr19	19483200	19483400	Weak Enhancer
+chr19	19483400	19483600	Active Enhancer
+chr19	19483600	19484200	Flanking TSS Upstream
+chr19	19484200	19484400	Weak Enhancer
+chr19	19484400	19485800	Weak transcription
+chr19	19485800	19486200	Active Enhancer
+chr19	19486200	19488400	Weak transcription
+chr19	19488400	19489000	Weak Enhancer
+chr19	19489000	19495200	Quiescent/Low
+chr19	19495200	19495600	Weak Enhancer
+chr19	19495600	19496200	Flanking TSS Upstream
+chr19	19496200	19496400	Flanking TSS
+chr19	19496400	19497200	Active TSS
+chr19	19497200	19498200	Flanking TSS Upstream
+chr19	19498200	19500000	Active Enhancer
+chr19	19625000	19625400	Flanking TSS Downstream
+chr19	19625400	19626200	Weak Enhancer
+chr19	19626200	19626400	Flanking TSS Downstream
+chr19	19626400	19626800	Flanking TSS Upstream
+chr19	19626800	19627200	Active TSS
+chr19	19627200	19627600	Flanking TSS Upstream
+chr19	19627600	19628200	Flanking TSS Downstream
+chr19	19628200	19629000	Weak Enhancer
+chr19	19629000	19629800	Weak transcription
+chr19	19629800	19632600	Strong transcription
+chr19	19632600	19633600	Weak transcription
+chr19	19633600	19634000	Strong transcription
+chr19	19634000	19634600	Weak transcription
+chr19	19634600	19635200	Genic enhancer
+chr19	19635200	19636000	Strong transcription
+chr19	19636000	19636600	Weak transcription
+chr19	19636600	19637000	Weak Enhancer
+chr19	19637000	19637200	Genic enhancer
+chr19	19637200	19637600	Genic enhancer
+chr19	19637600	19637800	Genic enhancer
+chr19	19637800	19640800	Strong transcription
+chr19	19640800	19642800	Weak transcription
+chr19	19642800	19643600	Weak Enhancer
+chr19	19643600	19648200	Weak Repressed PolyComb
+chr19	19648200	19648600	Repressed PolyComb
+chr19	19648600	19650000	Bivalent Enhancer
+chr19	19750000	19751400	Strong transcription
+chr19	19751400	19753000	Weak transcription
+chr19	19753000	19753200	Weak Enhancer
+chr19	19753200	19753400	Flanking TSS Downstream
+chr19	19753400	19754000	Flanking TSS Upstream
+chr19	19754000	19754600	Active TSS
+chr19	19754600	19755000	Flanking TSS Upstream
+chr19	19755000	19755200	Active Enhancer
+chr19	19755200	19755600	Weak transcription
+chr19	19755600	19771400	Strong transcription
+chr19	19771400	19772000	Weak transcription
+chr19	19772000	19772600	Genic enhancer
+chr19	19772600	19773200	Genic enhancer
+chr19	19773200	19773400	Active Enhancer
+chr19	19773400	19774200	Flanking TSS Upstream
+chr19	19774200	19775000	Active TSS
+chr19	33050000	33064600	Weak Repressed PolyComb
+chr19	33064600	33071200	Quiescent/Low
+chr19	33071200	33071400	Weak Enhancer
+chr19	33071400	33071600	Flanking TSS Downstream
+chr19	33071600	33071800	Flanking TSS Upstream
+chr19	33071800	33072000	Flanking TSS
+chr19	33072000	33072200	Active TSS
+chr19	33072200	33073000	Flanking TSS Upstream
+chr19	33073000	33073400	Flanking TSS Downstream
+chr19	33073400	33073800	Weak Enhancer
+chr19	33073800	33074000	Genic enhancer
+chr19	33074000	33075000	Strong transcription
+chr19	33450000	33451200	Strong transcription
+chr19	33451200	33452600	Weak transcription
+chr19	33452600	33457400	Strong transcription
+chr19	33457400	33461400	Weak transcription
+chr19	33461400	33462000	Weak Enhancer
+chr19	33462000	33462600	Flanking TSS Upstream
+chr19	33462600	33463200	Active TSS
+chr19	33463200	33463600	Flanking TSS Upstream
+chr19	33463600	33475000	Quiescent/Low
+chr19	35225000	35225600	Active TSS
+chr19	35225600	35226000	Flanking TSS Upstream
+chr19	35226000	35226200	Flanking TSS Downstream
+chr19	35226200	35226400	Weak Enhancer
+chr19	35226400	35250000	ZNF genes & repeats
+chr19	38820000	38826000	Weak transcription
+chr19	38826000	38826400	Weak Enhancer
+chr19	38826400	38827000	Flanking TSS Upstream
+chr19	38827000	38827200	Flanking TSS Downstream
+chr19	38827200	38827600	Flanking TSS Upstream
+chr19	38827600	38827800	Active TSS
+chr19	38827800	38828200	Flanking TSS Upstream
+chr19	38828200	38828600	Weak Enhancer
+chr19	38828600	38830000	Weak transcription
+chr19	41760000	41767400	Quiescent/Low
+chr19	41767400	41767600	Weak Enhancer
+chr19	41767600	41768000	Flanking TSS Downstream
+chr19	41768000	41768200	Flanking TSS Upstream
+chr19	41768200	41768400	Active TSS
+chr19	41768400	41768800	Flanking TSS Upstream
+chr19	41768800	41769000	Active TSS
+chr19	41769000	41769400	Flanking TSS Upstream
+chr19	41769400	41769800	Active TSS
+chr19	41769800	41770000	Flanking TSS
+chr19	44020000	44023000	Weak transcription
+chr19	44023000	44023400	Weak Enhancer
+chr19	44023400	44028400	Weak transcription
+chr19	44028400	44029200	Weak Enhancer
+chr19	44029200	44030000	Flanking TSS Downstream
+chr19	47750000	47751000	Weak Repressed PolyComb
+chr19	47751000	47751200	Weak Enhancer
+chr19	47751200	47759000	Quiescent/Low
+chr19	47759000	47759200	Weak Enhancer
+chr19	47759200	47759800	Flanking TSS Upstream
+chr19	47759800	47760000	Active TSS
+chr19	47775000	47775400	Genic enhancer
+chr19	47775400	47776000	Weak Enhancer
+chr19	47776000	47777400	Flanking TSS Upstream
+chr19	47777400	47777600	Flanking TSS Downstream
+chr19	47777600	47778000	Active TSS
+chr19	47778000	47778200	Flanking TSS
+chr19	47778200	47778800	Flanking TSS Downstream
+chr19	47778800	47779200	Weak Enhancer
+chr19	47779200	47793000	Quiescent/Low
+chr19	47793000	47800000	Weak Repressed PolyComb
+chr19	49450000	49450800	ZNF genes & repeats
+chr19	49450800	49452600	Heterochromatin
+chr19	49452600	49457400	Quiescent/Low
+chr19	49457400	49457600	Active Enhancer
+chr19	49457600	49458000	Flanking TSS Upstream
+chr19	49458000	49458200	Active TSS
+chr19	49458200	49459000	Flanking TSS Upstream
+chr19	49459000	49459200	Flanking TSS Downstream
+chr19	49459200	49459800	Genic enhancer
+chr19	49459800	49461200	Strong transcription
+chr19	49461200	49463000	Weak transcription
+chr19	49463000	49463800	Weak Enhancer
+chr19	49463800	49464600	Active Enhancer
+chr19	49464600	49465400	Active Enhancer
+chr19	49465400	49466200	Flanking TSS Upstream
+chr19	49466200	49466600	Active Enhancer
+chr19	49466600	49468200	Flanking TSS Upstream
+chr19	49468200	49468600	Flanking TSS
+chr19	49468600	49469200	Active TSS
+chr19	49469200	49470000	Flanking TSS Upstream
+chr19	49470000	49471000	Genic enhancer
+chr19	49471000	49472000	Genic enhancer
+chr19	49472000	49473800	Strong transcription
+chr19	49473800	49474200	Genic enhancer
+chr19	49474200	49474400	Weak Enhancer
+chr19	49474400	49475000	Weak transcription
+chr19	54975000	54975200	Flanking TSS Downstream
+chr19	54975200	54976400	Flanking TSS Upstream
+chr19	54976400	54976600	Flanking TSS Downstream
+chr19	54976600	54976800	Weak Enhancer
+chr19	54976800	54980600	Weak Repressed PolyComb
+chr19	54980600	54981800	Repressed PolyComb
+chr19	54981800	54982000	Bivalent Enhancer
+chr19	54982000	54983000	Bivalent/Poised TSS
+chr19	54983000	54983200	Bivalent Enhancer
+chr19	54983200	54984000	Weak Repressed PolyComb
+chr19	54984000	54984200	Weak Enhancer
+chr19	54984200	54984600	Flanking TSS Downstream
+chr19	54984600	54985000	Weak Enhancer
+chr19	54985000	54990800	Weak Repressed PolyComb
+chr19	54990800	54992800	Weak Enhancer
+chr19	54992800	54993600	Weak transcription
+chr19	54993600	54994400	Weak Enhancer
+chr19	54994400	55000000	Weak Repressed PolyComb
+chr20	30310000	30310400	Flanking TSS Upstream
+chr20	30310400	30310800	Active TSS
+chr20	30310800	30311200	Flanking TSS Upstream
+chr20	30311200	30312000	Active TSS
+chr20	30312000	30312200	Flanking TSS
+chr20	30312200	30320000	Quiescent/Low
+chr20	45300000	45300600	ZNF genes & repeats
+chr20	45300600	45302000	Heterochromatin
+chr20	45302000	45310200	Quiescent/Low
+chr20	45310200	45313200	Weak Enhancer
+chr20	45313200	45313400	Weak transcription
+chr20	45313400	45314200	Strong transcription
+chr20	45314200	45316000	Genic enhancer
+chr20	45316000	45316400	Flanking TSS Downstream
+chr20	45316400	45317800	Flanking TSS Upstream
+chr20	45317800	45318400	Active TSS
+chr20	45318400	45319200	Flanking TSS Upstream
+chr20	45319200	45319400	Active Enhancer
+chr20	45319400	45320000	Active Enhancer
+chr20	45320000	45322600	Weak transcription
+chr20	45322600	45323400	Weak Enhancer
+chr20	45323400	45324400	Weak transcription
+chr20	45324400	45325000	Weak Enhancer
+chr20	52800000	52803000	Weak Repressed PolyComb
+chr20	52803000	52824000	Quiescent/Low
+chr20	52824000	52824200	Weak Enhancer
+chr20	52824200	52825000	Active TSS
+chr20	52825000	52825800	Flanking TSS Upstream
+chr20	52825800	52826200	Flanking TSS Downstream
+chr20	52826200	52826800	Weak Enhancer
+chr20	52826800	52828800	Weak transcription
+chr20	52828800	52829200	Weak Enhancer
+chr20	52829200	52831200	Weak transcription
+chr20	52831200	52834200	Strong transcription
+chr20	52834200	52835000	Weak transcription
+chr20	52835000	52835200	Weak Enhancer
+chr20	52835200	52837800	Weak transcription
+chr20	52837800	52839200	Weak Enhancer
+chr20	52839200	52848400	Quiescent/Low
+chr20	52848400	52850000	Heterochromatin
+chr20	60700000	60700200	Weak transcription
+chr20	60700200	60706600	Strong transcription
+chr20	60706600	60707400	Genic enhancer
+chr20	60707400	60708200	Weak Enhancer
+chr20	60708200	60708600	Active Enhancer
+chr20	60708600	60709800	Weak Enhancer
+chr20	60709800	60710400	Genic enhancer
+chr20	60710400	60715600	Strong transcription
+chr20	60715600	60716000	Genic enhancer
+chr20	60716000	60716600	Weak Enhancer
+chr20	60716600	60717000	Flanking TSS Downstream
+chr20	60717000	60718000	Flanking TSS Upstream
+chr20	60718000	60719400	Active TSS
+chr20	60719400	60720000	Flanking TSS Upstream
+chr20	60720000	60720200	Flanking TSS Downstream
+chr20	60720200	60720600	Weak Enhancer
+chr20	60720600	60721000	Genic enhancer
+chr20	60721000	60725000	Weak transcription
+chr21	35975000	35983000	Quiescent/Low
+chr21	35983000	35984600	Weak Repressed PolyComb
+chr21	35984600	35986000	Repressed PolyComb
+chr21	35986000	35986400	Bivalent Enhancer
+chr21	35986400	35986800	Bivalent/Poised TSS
+chr21	35986800	35987200	Flanking TSS Downstream
+chr21	35987200	35987400	Flanking TSS
+chr21	35987400	35987600	Active TSS
+chr21	35987600	35988000	Flanking TSS Downstream
+chr21	35988000	35988200	Weak Enhancer
+chr21	35988200	35991400	Weak transcription
+chr21	35991400	35991800	Weak Enhancer
+chr21	35991800	36000000	Quiescent/Low
+chr21	38625000	38627600	Weak transcription
+chr21	38627600	38628200	Weak Enhancer
+chr21	38628200	38628600	Weak transcription
+chr21	38628600	38629200	Weak Enhancer
+chr21	38629200	38631400	Flanking TSS Upstream
+chr21	38631400	38631600	Active Enhancer
+chr21	38631600	38632000	Weak Enhancer
+chr21	38632000	38632200	Genic enhancer
+chr21	38632200	38634200	Strong transcription
+chr21	38634200	38636000	Weak transcription
+chr21	38636000	38636600	Weak Enhancer
+chr21	38636600	38637000	Active Enhancer
+chr21	38637000	38638600	Weak Enhancer
+chr21	38638600	38639400	Flanking TSS Upstream
+chr21	38639400	38640200	Active TSS
+chr21	38640200	38641000	Flanking TSS Upstream
+chr21	38641000	38641200	Weak Enhancer
+chr21	38641200	38650000	Quiescent/Low
+chr22	19700000	19701400	Quiescent/Low
+chr22	19701400	19701800	Flanking TSS Downstream
+chr22	19701800	19702200	Flanking TSS
+chr22	19702200	19703000	Flanking TSS Downstream
+chr22	19703000	19705200	Weak Enhancer
+chr22	19705200	19705600	Flanking TSS Downstream
+chr22	19705600	19705800	Active TSS
+chr22	19705800	19706600	Flanking TSS Upstream
+chr22	19706600	19707200	Flanking TSS Downstream
+chr22	19707200	19710200	Genic enhancer
+chr22	19710200	19710400	Weak Enhancer
+chr22	19710400	19710600	Flanking TSS Downstream
+chr22	19710600	19711000	Flanking TSS Upstream
+chr22	19711000	19711200	Flanking TSS Downstream
+chr22	19711200	19711600	Flanking TSS Upstream
+chr22	19711600	19712200	Flanking TSS Downstream
+chr22	19712200	19712600	Bivalent/Poised TSS
+chr22	19712600	19712800	Bivalent Enhancer
+chr22	19712800	19713200	Repressed PolyComb
+chr22	19713200	19717000	Weak Repressed PolyComb
+chr22	19717000	19717800	Weak transcription
+chr22	19717800	19718200	Weak Enhancer
+chr22	19718200	19718800	Flanking TSS Downstream
+chr22	19718800	19719200	Weak Enhancer
+chr22	19719200	19725000	Quiescent/Low
+chr22	30750000	30750200	Genic enhancer
+chr22	30750200	30750800	Active Enhancer
+chr22	30750800	30751200	Weak Enhancer
+chr22	30751200	30751400	Flanking TSS Downstream
+chr22	30751400	30752600	Flanking TSS Upstream
+chr22	30752600	30753200	Active TSS
+chr22	30753200	30753600	Flanking TSS Upstream
+chr22	30753600	30753800	Flanking TSS Downstream
+chr22	30753800	30769000	Quiescent/Low
+chr22	30769000	30769400	Weak Enhancer
+chr22	30769400	30771400	Weak transcription
+chr22	30771400	30775000	Strong transcription
+chr22	39925000	39926400	Genic enhancer
+chr22	39926400	39926600	Genic enhancer
+chr22	39926600	39927000	Weak Enhancer
+chr22	39927000	39927800	Flanking TSS Downstream
+chr22	39927800	39928600	Flanking TSS Upstream
+chr22	39928600	39929000	Active TSS
+chr22	39929000	39929400	Flanking TSS Upstream
+chr22	39929400	39930600	Weak transcription
+chr22	39930600	39931200	Weak Enhancer
+chr22	39931200	39940800	Weak Repressed PolyComb
+chr22	39940800	39950000	Repressed PolyComb
+chr22	41025000	41031200	Quiescent/Low
+chr22	41031200	41032200	Flanking TSS Downstream
+chr22	41032200	41032400	Flanking TSS
+chr22	41032400	41033000	Active TSS
+chr22	41033000	41033800	Flanking TSS Upstream
+chr22	41033800	41034200	Flanking TSS Downstream
+chr22	41034200	41034400	Weak Enhancer
+chr22	41034400	41042200	Quiescent/Low
+chr22	41042200	41042400	Flanking TSS Downstream
+chr22	41042400	41042800	Flanking TSS
+chr22	41042800	41047000	Weak transcription
+chr22	41047000	41047400	Active Enhancer
+chr22	41047400	41047600	Active Enhancer
+chr22	41047600	41048000	Flanking TSS Upstream
+chr22	41048000	41048200	Active Enhancer
+chr22	41048200	41048400	Weak Enhancer
+chr22	41048400	41050000	Weak transcription
+chrX	47050000	47051600	Bivalent/Poised TSS
+chrX	47051600	47051800	Bivalent Enhancer
+chrX	47051800	47052400	Weak Enhancer
+chrX	47052400	47052800	Flanking TSS Upstream
+chrX	47052800	47053000	Flanking TSS Downstream
+chrX	47053000	47053200	Flanking TSS
+chrX	47053200	47053600	Active TSS
+chrX	47053600	47054600	Flanking TSS Upstream
+chrX	47054600	47055200	Weak Enhancer
+chrX	47055200	47055600	Flanking TSS Upstream
+chrX	47055600	47056200	Active Enhancer
+chrX	47056200	47057200	Genic enhancer
+chrX	47057200	47075000	Strong transcription
+chrX	47420000	47420400	Flanking TSS Upstream
+chrX	47420400	47421000	Active TSS
+chrX	47421000	47421600	Flanking TSS Upstream
+chrX	47421600	47422200	Weak Enhancer
+chrX	47422200	47422400	Weak transcription
+chrX	47422400	47430000	Strong transcription
+chrX	47500000	47501400	Strong transcription
+chrX	47501400	47502400	Weak transcription
+chrX	47502400	47502600	Weak Enhancer
+chrX	47502600	47503000	Weak transcription
+chrX	47503000	47503800	Weak Enhancer
+chrX	47503800	47507000	Weak transcription
+chrX	47507000	47507200	Weak Enhancer
+chrX	47507200	47508000	Weak transcription
+chrX	47508000	47508600	Weak Enhancer
+chrX	47508600	47509200	Flanking TSS Downstream
+chrX	47509200	47509400	Flanking TSS Upstream
+chrX	47509400	47509600	Flanking TSS
+chrX	47509600	47510000	Active TSS
+chrX	77150000	77150200	Active TSS
+chrX	77150200	77150600	Flanking TSS Upstream
+chrX	77150600	77151000	Active TSS
+chrX	77151000	77151200	Flanking TSS
+chrX	77151200	77151800	Active TSS
+chrX	77151800	77152000	Active Enhancer
+chrX	77152000	77154400	Weak transcription
+chrX	77154400	77154600	Flanking TSS Upstream
+chrX	77154600	77156200	Active TSS
+chrX	77156200	77156600	Flanking TSS Upstream
+chrX	77156600	77157200	Weak Enhancer
+chrX	77157200	77158200	Weak transcription
+chrX	77158200	77162200	Strong transcription
+chrX	77162200	77165200	Weak transcription
+chrX	77165200	77165400	Weak Enhancer
+chrX	77165400	77165600	Flanking TSS Downstream
+chrX	77165600	77166000	Active TSS
+chrX	77166000	77166200	Flanking TSS
+chrX	77166200	77167000	Active TSS
+chrX	77167000	77167200	Flanking TSS Upstream
+chrX	77167200	77167400	Active TSS
+chrX	77167400	77167800	Flanking TSS Upstream
+chrX	77167800	77168400	Flanking TSS Downstream
+chrX	77168400	77169400	Weak Enhancer
+chrX	77169400	77172600	Weak transcription
+chrX	77172600	77172800	Flanking TSS Downstream
+chrX	77172800	77173200	Flanking TSS Upstream
+chrX	77173200	77173400	Active TSS
+chrX	77173400	77174200	Weak Enhancer
+chrX	77174200	77174400	Flanking TSS Downstream
+chrX	77174400	77175000	Weak Enhancer
+chrX	77350000	77358600	Quiescent/Low
+chrX	77358600	77358800	Weak Enhancer
+chrX	77358800	77359400	Flanking TSS Upstream
+chrX	77359400	77360800	Active TSS
+chrX	77360800	77362200	Flanking TSS Upstream
+chrX	77362200	77364200	Active Enhancer
+chrX	77364200	77365400	Weak Enhancer
+chrX	77365400	77365600	Weak transcription
+chrX	77365600	77371400	Strong transcription
+chrX	77371400	77372400	Genic enhancer
+chrX	77372400	77375000	Strong transcription
+chrX	129300000	129300200	Active TSS
+chrX	129300200	129300400	Flanking TSS Upstream
+chrX	129300400	129300600	Active TSS
+chrX	129300600	129301000	Flanking TSS Upstream
+chrX	129301000	129301200	Active Enhancer
+chrX	129301200	129301400	Weak Enhancer
+chrX	129301400	129303800	Weak transcription
+chrX	129303800	129304600	Active Enhancer
+chrX	129304600	129304800	Flanking TSS Upstream
+chrX	129304800	129306200	Active TSS
+chrX	129306200	129307800	Flanking TSS Upstream
+chrX	129307800	129308400	Active Enhancer
+chrX	129308400	129310400	Weak Enhancer
+chrX	129310400	129310600	Flanking TSS Downstream
+chrX	129310600	129312000	Weak Enhancer
+chrX	129312000	129312400	Active Enhancer
+chrX	129312400	129313000	Weak Enhancer
+chrX	129313000	129313400	Flanking TSS Upstream
+chrX	129313400	129314400	Active Enhancer
+chrX	129314400	129318000	Weak transcription
+chrX	129318000	129318600	Weak Enhancer
+chrX	129318600	129325000	Weak transcription
+chrX	151975000	151978400	Weak Repressed PolyComb
+chrX	151978400	151979400	Repressed PolyComb
+chrX	151979400	151991800	Weak Repressed PolyComb
+chrX	151991800	151993800	Repressed PolyComb
+chrX	151993800	151998400	Weak transcription
+chrX	151998400	151998600	Active Enhancer
+chrX	151998600	151999200	Flanking TSS Upstream
+chrX	151999200	151999800	Active TSS
+chrX	151999800	152000000	Flanking TSS Upstream
