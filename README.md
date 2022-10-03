@@ -49,13 +49,13 @@ computeMatrix reference-point \
 --outFileNameMatrix \
 -o outMatrix.gz # to be used with plotHeatmap and plotProfile
 ```
-Repeat this analysis for CUX1+SMARCA4 co-bound sites as well
+**Repeat this analysis for CUX1+SMARCA4 co-bound sites as well**
 
 ### Analysis 2
 
 From the cis regulatory regions called from analysis 1, further intersect these regions with `chromHMM` track on CD34 from Epigenetic Roadmap to obtain exact coordinates of enhancers. Supplement this list of enhancers to the CnR called CUX1 bound enhancers. Then compare ATAC seq signal before & after CUX1 KD to see if CUX1 is significanly affect the chromatin accesibilties at enhancers specifically
 
-Repeat this analysis for CUX1+SMARCA4 co-bound sites as well
+**Repeat this analysis for CUX1+SMARCA4 co-bound sites as well**
 
-###Analysis 3:
+### Analysis 3:
 Include the long-range interacting loops called by Zhang 2020, and repeat the analysis 1 and 2 above
