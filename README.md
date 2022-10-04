@@ -59,3 +59,8 @@ From the cis regulatory regions called from analysis 1, further intersect these 
 
 ### Analysis 3:
 Include the long-range interacting loops called by Zhang 2020, and repeat the analysis 1 and 2 above
+
+
+### Analysis 4:
+Goal: test the hypothesis that CUX1 binding is significantly enriched at chromatin 3D contact loops 
+
