@@ -16,6 +16,10 @@ bedtools intersect \
 
 # Combine the enhancer names
 cat '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed' | awk '/.*(E|e)nhancer.*/' > '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers.bed'
+
+# Create a file of the promoters
+cat '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed' | awk '/.*(Active TSS|Poised TSS|Bivalent TSS).*/' > '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_promoters.bed'
+
 rm '../../data/analysis_2_results/BED_Intersect_chromHMM_CD34_and_found_enhancers_work.bed'
 
 
