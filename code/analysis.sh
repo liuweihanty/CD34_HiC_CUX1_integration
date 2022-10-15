@@ -45,10 +45,6 @@ rm 'CREs_neg_1.bed' 'CREs_neg_2.bed' 'loops_without_CREs_with_duplicates.bed'
 bedtools intersect -a '../../data/E050_18_core_K27ac_state_anno.bed' -b 'found_CREs.bed' > 'chromHMM_inter_CREs_temp.bed'
 # Filter only enhancers
 cat 'chromHMM_inter_CREs_temp.bed' | awk '/.*(E|e)nhancer.*/' > 'found_enhancers.bed'
-# Filter only promoters
-# FIXME: this doesn't work as it gets promoters from CREs while we want the corresponging promoters, which we can
-# get from the Zhang (2020) Excel file
-#cat 'chromHMM_inter_CREs_temp.bed' | awk '/.*(Active|Poised|Bivalent)( TSS).*/' > 'found_promoters.bed'
 # Delete temporary files
 rm 'chromHMM_inter_CREs_temp.bed'
 
@@ -62,10 +58,6 @@ cat 'loops_without_enhancers_1.bed' 'loops_without_enhancers_2.bed' > 'loops_wit
 awk '!a[$0]++' 'loops_without_enhancers_with_duplicates.bed' > 'loops_without_enhancers.bed'
 # Delete temporary files
 rm 'loops_without_enhancers_1.bed' 'loops_without_enhancers_2.bed' 'loops_without_enhancers_with_duplicates.bed'
-
-# Regions of ChromHMM that do not contain enhancers
-# Only on the loops without enhancers
-#bedtools intersect -v -a  '../../data/E050_18_core_K27ac_state_anno.bed' -b 'found_CREs.bed' > 'chromHMM_inter_enhancers_no_interact.bed'
 
 # ----- Compute interaction matrices -----
 # Matrix for CREs
