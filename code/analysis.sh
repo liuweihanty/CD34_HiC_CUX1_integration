@@ -38,7 +38,7 @@ cat 'CREs_neg_1.bed' 'CREs_neg_2.bed' > 'loops_without_CREs_with_duplicates.bed'
 # Remove any duplicate lines
 awk '!a[$0]++' 'loops_without_CREs_with_duplicates.bed' > 'loops_without_CREs.bed'
 # Delete temporary files
-rm 'neg_1.bed' 'neg_2.bed' 'loops_without_CREs_with_duplicates.bed'
+rm 'CREs_neg_1.bed' 'CREs_neg_2.bed' 'loops_without_CREs_with_duplicates.bed'
 
 # ----- Use chromHMM to identify the precise enhancer sequences and not just the CREs they are in -----
 # Intersection of ChromHMM and CREs

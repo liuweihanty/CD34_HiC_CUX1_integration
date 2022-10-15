@@ -35,17 +35,17 @@ Run the commands within the correct directories for each analysis (e.g., `cux1_s
 the analyses we can do using the above parameters.
 
 ```{shell}
-../analysis.sh "../../data/CUX1_IDR005_peaks_promotors.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv"
+../analysis.sh "../../data/CUX1_IDR005_peaks_promotors.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_loops_2.bed" "../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv"
 ```
 
 ```{shell}
-../analysis.sh "../../data/CUX1_IDR005_peaks_promotors.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_long_short_loops.csv"
+../analysis.sh "../../data/CUX1_IDR005_peaks_promotors.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_2.bed" "../../data/Zhang_2020_long_short_loops.csv"
 ```
 
 ```{shell}
-../analysis.sh "../../data/CUX1_SMARCA4_olp_IDR_005_first3col_promotor.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv"
+../analysis.sh "../../data/CUX1_SMARCA4_olp_IDR_005_first3col_promotor.bed" "../../data/Zhang_2020_HSPC_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_HiC_loops_2.bed" "../../data/Zhang_2020_HSPC_HiC_HiCCUP_loops.csv"
 ```
 
 ```{shell}
-../analysis.sh "../../data/CUX1_SMARCA4_olp_IDR_005_first3col_promotor.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_long_short_loops.csv"
+../analysis.sh "../../data/CUX1_SMARCA4_olp_IDR_005_first3col_promotor.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_1.bed" "../../data/Zhang_2020_HSPC_long_and_HiC_loops_2.bed" "../../data/Zhang_2020_long_short_loops.csv"
 ```
