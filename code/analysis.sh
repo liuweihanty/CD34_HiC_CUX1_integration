@@ -1,4 +1,3 @@
-#!bin/bash
 # Before running this file, ensure you run `common_tasks.sh`.
 # That file runs tasks that only need to be done once for all further analysis.
 

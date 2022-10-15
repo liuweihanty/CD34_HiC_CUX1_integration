@@ -8,3 +8,4 @@
 *.tab
 *.gz
 other_no_sync/*
+.vscode/
