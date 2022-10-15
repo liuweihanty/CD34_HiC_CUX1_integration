@@ -3,6 +3,7 @@
 # 2. output file name
 
 # Calculate the matrix
+# FIXME: check parameters
 computeMatrix reference-point \
 	--referencePoint center \
 	--regionsFileName $1 \
